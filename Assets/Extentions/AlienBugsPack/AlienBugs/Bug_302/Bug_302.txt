@@ -1,0 +1,11 @@
+Bug_302
+Tris count: 1316
+Verts count: 660
+Bones count: 31
+
+Animations:
+Idle: 		0-80
+Attack_Trumpet: 90-180
+Attack_Ranged: 	190-245
+Die: 		255-270
+Walk:		280-319

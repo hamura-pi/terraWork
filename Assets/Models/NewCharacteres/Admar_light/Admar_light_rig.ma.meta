@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 346d2ba2a6174b6498145a259747f3de
+timeCreated: 1479294217
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: admar_light_Head
+    100002: admar_light_Hips
+    100004: admar_light_LeftArm
+    100006: admar_light_LeftFoot
+    100008: admar_light_LeftForeArm
+    100010: admar_light_LeftHand
+    100012: admar_light_LeftHandMiddle1
+    100014: admar_light_LeftHandMiddle2
+    100016: admar_light_LeftLeg
+    100018: admar_light_LeftShoulder
+    100020: admar_light_LeftToeBase
+    100022: admar_light_LeftUpLeg
+    100024: admar_light_Neck
+    100026: admar_light_Reference
+    100028: //RootNode
+    100030: admar_light_RightArm
+    100032: admar_light_RightFoot
+    100034: admar_light_RightForeArm
+    100036: admar_light_RightHand
+    100038: admar_light_RightHandMiddle1
+    100040: admar_light_RightHandMiddle2
+    100042: admar_light_RightLeg
+    100044: admar_light_RightShoulder
+    100046: admar_light_RightToeBase
+    100048: admar_light_RightUpLeg
+    100050: admar_light_Spine
+    100052: admar_light_Spine1
+    100054: admar_light_Spine2
+    100056: Object061
+    100058: Object070
+    400000: admar_light_Head
+    400002: admar_light_Hips
+    400004: admar_light_LeftArm
+    400006: admar_light_LeftFoot
+    400008: admar_light_LeftForeArm
+    400010: admar_light_LeftHand
+    400012: admar_light_LeftHandMiddle1
+    400014: admar_light_LeftHandMiddle2
+    400016: admar_light_LeftLeg
+    400018: admar_light_LeftShoulder
+    400020: admar_light_LeftToeBase
+    400022: admar_light_LeftUpLeg
+    400024: admar_light_Neck
+    400026: admar_light_Reference
+    400028: //RootNode
+    400030: admar_light_RightArm
+    400032: admar_light_RightFoot
+    400034: admar_light_RightForeArm
+    400036: admar_light_RightHand
+    400038: admar_light_RightHandMiddle1
+    400040: admar_light_RightHandMiddle2
+    400042: admar_light_RightLeg
+    400044: admar_light_RightShoulder
+    400046: admar_light_RightToeBase
+    400048: admar_light_RightUpLeg
+    400050: admar_light_Spine
+    400052: admar_light_Spine1
+    400054: admar_light_Spine2
+    400056: Object061
+    400058: Object070
+    4300000: Object061
+    4300002: Object070
+    9500000: //RootNode
+    13700000: Object061
+    13700002: Object070
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

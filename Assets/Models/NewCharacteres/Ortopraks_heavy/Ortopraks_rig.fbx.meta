@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 93658ed9cc3beb6409a9a7a472f36657
+timeCreated: 1479296002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ortopraks_Head
+    100002: Ortopraks_Hips
+    100004: Ortopraks_LeftArm
+    100006: Ortopraks_LeftFoot
+    100008: Ortopraks_LeftForeArm
+    100010: Ortopraks_LeftHand
+    100012: Ortopraks_LeftHandMiddle1
+    100014: Ortopraks_LeftHandMiddle2
+    100016: Ortopraks_LeftLeg
+    100018: Ortopraks_LeftShoulder
+    100020: Ortopraks_LeftToeBase
+    100022: Ortopraks_LeftUpLeg
+    100024: Ortopraks_Neck
+    100026: Ortopraks_Reference
+    100028: //RootNode
+    100030: Ortopraks_RightArm
+    100032: Ortopraks_RightFoot
+    100034: Ortopraks_RightForeArm
+    100036: Ortopraks_RightHand
+    100038: Ortopraks_RightHandMiddle1
+    100040: Ortopraks_RightHandMiddle2
+    100042: Ortopraks_RightLeg
+    100044: Ortopraks_RightShoulder
+    100046: Ortopraks_RightToeBase
+    100048: Ortopraks_RightUpLeg
+    100050: Ortopraks_Spine
+    100052: Ortopraks_Spine1
+    100054: Ortopraks_Spine2
+    100056: Plane011
+    400000: Ortopraks_Head
+    400002: Ortopraks_Hips
+    400004: Ortopraks_LeftArm
+    400006: Ortopraks_LeftFoot
+    400008: Ortopraks_LeftForeArm
+    400010: Ortopraks_LeftHand
+    400012: Ortopraks_LeftHandMiddle1
+    400014: Ortopraks_LeftHandMiddle2
+    400016: Ortopraks_LeftLeg
+    400018: Ortopraks_LeftShoulder
+    400020: Ortopraks_LeftToeBase
+    400022: Ortopraks_LeftUpLeg
+    400024: Ortopraks_Neck
+    400026: Ortopraks_Reference
+    400028: //RootNode
+    400030: Ortopraks_RightArm
+    400032: Ortopraks_RightFoot
+    400034: Ortopraks_RightForeArm
+    400036: Ortopraks_RightHand
+    400038: Ortopraks_RightHandMiddle1
+    400040: Ortopraks_RightHandMiddle2
+    400042: Ortopraks_RightLeg
+    400044: Ortopraks_RightShoulder
+    400046: Ortopraks_RightToeBase
+    400048: Ortopraks_RightUpLeg
+    400050: Ortopraks_Spine
+    400052: Ortopraks_Spine1
+    400054: Ortopraks_Spine2
+    400056: Plane011
+    4300000: Plane011
+    9500000: //RootNode
+    13700000: Plane011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Ortopraks_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Ortopraks_rig(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Reference
+      parentName: Ortopraks_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Hips
+      parentName: Ortopraks_Reference
+      position: {x: -0, y: 2.2327945, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_LeftUpLeg
+      parentName: Ortopraks_Hips
+      position: {x: -0.31902885, y: -0.1579895, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_LeftLeg
+      parentName: Ortopraks_LeftUpLeg
+      position: {x: 0.000000008056072, y: -1.0020479, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_LeftFoot
+      parentName: Ortopraks_LeftLeg
+      position: {x: -0.0000000018317245, y: -0.90876865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_LeftToeBase
+      parentName: Ortopraks_LeftFoot
+      position: {x: -0.00000019073485, y: -0.13982469, z: 0.28925228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_RightUpLeg
+      parentName: Ortopraks_Hips
+      position: {x: 0.31902885, y: -0.1579895, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_RightLeg
+      parentName: Ortopraks_RightUpLeg
+      position: {x: -0.000000008056072, y: -1.0020479, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_RightFoot
+      parentName: Ortopraks_RightLeg
+      position: {x: 0.0000000018317245, y: -0.90876865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_RightToeBase
+      parentName: Ortopraks_RightFoot
+      position: {x: 0.00000019073485, y: -0.13982469, z: 0.28925228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Spine
+      parentName: Ortopraks_Hips
+      position: {x: -0, y: 0.15629563, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Spine1
+      parentName: Ortopraks_Spine
+      position: {x: -0, y: 0.28282058, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Spine2
+      parentName: Ortopraks_Spine1
+      position: {x: -0, y: 0.28282073, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_LeftShoulder
+      parentName: Ortopraks_Spine2
+      position: {x: -0.3729269, y: 0.3182895, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Ortopraks_LeftArm
+      parentName: Ortopraks_LeftShoulder
+      position: {x: -0.328353, y: 0.0000030517565, z: 0.0000000017242444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: Ortopraks_LeftForeArm
+      parentName: Ortopraks_LeftArm
+      position: {x: -0.8474073, y: -0.00000026142587, z: 0.000000038087688}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Ortopraks_LeftHand
+      parentName: Ortopraks_LeftForeArm
+      position: {x: -0.8215464, y: -0.00000021716222, z: -0.027938284}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Ortopraks_LeftHandMiddle1
+      parentName: Ortopraks_LeftHand
+      position: {x: -0.28488228, y: 0.011184041, z: 0.02913091}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Ortopraks_LeftHandMiddle2
+      parentName: Ortopraks_LeftHandMiddle1
+      position: {x: -0.28913572, y: -0.000000018128008, z: 0.000006763954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Ortopraks_RightShoulder
+      parentName: Ortopraks_Spine2
+      position: {x: 0.3729269, y: 0.3182895, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_RightArm
+      parentName: Ortopraks_RightShoulder
+      position: {x: 0.32835308, y: 0.0000030517576, z: 0.0000000021161155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Ortopraks_RightForeArm
+      parentName: Ortopraks_RightArm
+      position: {x: 0.8474076, y: -0.000000001881621, z: -0.0000000016828895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_RightHand
+      parentName: Ortopraks_RightForeArm
+      position: {x: 0.82154644, y: 0.000000042143036, z: -0.027938308}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Ortopraks_RightHandMiddle1
+      parentName: Ortopraks_RightHand
+      position: {x: 0.28488225, y: 0.011184046, z: 0.029130919}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Ortopraks_RightHandMiddle2
+      parentName: Ortopraks_RightHandMiddle1
+      position: {x: 0.28913572, y: 0.000000032667668, z: 0.0000067423766}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Neck
+      parentName: Ortopraks_Spine2
+      position: {x: -0, y: 0.28282073, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_Head
+      parentName: Ortopraks_Neck
+      position: {x: -0, y: 0.44655883, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane011
+      parentName: Ortopraks_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 6a504c30b8abb8745bc14315bfcf5e2d
+timeCreated: 1483971368
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group
+    100002: Object056
+    100004: //RootNode
+    100006: Terron_light_Head
+    100008: Terron_light_Hips
+    100010: Terron_light_LeftArm
+    100012: Terron_light_LeftFoot
+    100014: Terron_light_LeftForeArm
+    100016: Terron_light_LeftHand
+    100018: Terron_light_LeftHandMiddle1
+    100020: Terron_light_LeftHandMiddle2
+    100022: Terron_light_LeftLeg
+    100024: Terron_light_LeftShoulder
+    100026: Terron_light_LeftToeBase
+    100028: Terron_light_LeftUpLeg
+    100030: Terron_light_Neck
+    100032: Terron_light_Reference
+    100034: Terron_light_RightArm
+    100036: Terron_light_RightFoot
+    100038: Terron_light_RightForeArm
+    100040: Terron_light_RightHand
+    100042: Terron_light_RightHandMiddle1
+    100044: Terron_light_RightHandMiddle2
+    100046: Terron_light_RightLeg
+    100048: Terron_light_RightShoulder
+    100050: Terron_light_RightToeBase
+    100052: Terron_light_RightUpLeg
+    100054: Terron_light_Spine
+    100056: Terron_light_Spine1
+    100058: Terron_light_Spine2
+    400000: group
+    400002: Object056
+    400004: //RootNode
+    400006: Terron_light_Head
+    400008: Terron_light_Hips
+    400010: Terron_light_LeftArm
+    400012: Terron_light_LeftFoot
+    400014: Terron_light_LeftForeArm
+    400016: Terron_light_LeftHand
+    400018: Terron_light_LeftHandMiddle1
+    400020: Terron_light_LeftHandMiddle2
+    400022: Terron_light_LeftLeg
+    400024: Terron_light_LeftShoulder
+    400026: Terron_light_LeftToeBase
+    400028: Terron_light_LeftUpLeg
+    400030: Terron_light_Neck
+    400032: Terron_light_Reference
+    400034: Terron_light_RightArm
+    400036: Terron_light_RightFoot
+    400038: Terron_light_RightForeArm
+    400040: Terron_light_RightHand
+    400042: Terron_light_RightHandMiddle1
+    400044: Terron_light_RightHandMiddle2
+    400046: Terron_light_RightLeg
+    400048: Terron_light_RightShoulder
+    400050: Terron_light_RightToeBase
+    400052: Terron_light_RightUpLeg
+    400054: Terron_light_Spine
+    400056: Terron_light_Spine1
+    400058: Terron_light_Spine2
+    4300000: Object056
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object056
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Terron_light_Spine2' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 0
+      - path: group/Object056
+        weight: 0
+      - path: Terron_light_Reference
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_LeftUpLeg
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_LeftUpLeg/Terron_light_LeftLeg
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_LeftUpLeg/Terron_light_LeftLeg/Terron_light_LeftFoot
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_LeftUpLeg/Terron_light_LeftLeg/Terron_light_LeftFoot/Terron_light_LeftToeBase
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_RightUpLeg
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_RightUpLeg/Terron_light_RightLeg
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_RightUpLeg/Terron_light_RightLeg/Terron_light_RightFoot
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_RightUpLeg/Terron_light_RightLeg/Terron_light_RightFoot/Terron_light_RightToeBase
+        weight: 0
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_LeftShoulder
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_LeftShoulder/Terron_light_LeftArm
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_LeftShoulder/Terron_light_LeftArm/Terron_light_LeftForeArm
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_LeftShoulder/Terron_light_LeftArm/Terron_light_LeftForeArm/Terron_light_LeftHand
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_LeftShoulder/Terron_light_LeftArm/Terron_light_LeftForeArm/Terron_light_LeftHand/Terron_light_LeftHandMiddle1
+        weight: 0
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_LeftShoulder/Terron_light_LeftArm/Terron_light_LeftForeArm/Terron_light_LeftHand/Terron_light_LeftHandMiddle1/Terron_light_LeftHandMiddle2
+        weight: 0
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_Neck
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_Neck/Terron_light_Head
+        weight: 0
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_RightShoulder
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_RightShoulder/Terron_light_RightArm
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_RightShoulder/Terron_light_RightArm/Terron_light_RightForeArm
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_RightShoulder/Terron_light_RightArm/Terron_light_RightForeArm/Terron_light_RightHand
+        weight: 1
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_RightShoulder/Terron_light_RightArm/Terron_light_RightForeArm/Terron_light_RightHand/Terron_light_RightHandMiddle1
+        weight: 0
+      - path: Terron_light_Reference/Terron_light_Hips/Terron_light_Spine/Terron_light_Spine1/Terron_light_Spine2/Terron_light_RightShoulder/Terron_light_RightArm/Terron_light_RightForeArm/Terron_light_RightHand/Terron_light_RightHandMiddle1/Terron_light_RightHandMiddle2
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Terron_light_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_light_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Terron_light_armor_idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group
+      parentName: Terron_light_armor_idle(Clone)
+      position: {x: -0, y: 0.91533196, z: -0.010246043}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object056
+      parentName: group
+      position: {x: -0, y: -0.91533196, z: 0.010246043}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_light_Reference
+      parentName: Terron_light_armor_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_light_Hips
+      parentName: Terron_light_Reference
+      position: {x: 0.000000018626451, y: 1.0163354, z: 0.000000014901161}
+      rotation: {x: -0.00000001164153, y: -0.000000005820767, z: 0.0000000029103835,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: Terron_light_LeftUpLeg
+      parentName: Terron_light_Hips
+      position: {x: -0.09422653, y: -0.06630751, z: -0.000000021167825}
+      rotation: {x: -0.053735446, y: -0.022099035, z: -0.060964193, w: 0.99644744}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: Terron_light_LeftLeg
+      parentName: Terron_light_LeftUpLeg
+      position: {x: 0.000000008506431, y: -0.3920214, z: 0.000000020857945}
+      rotation: {x: 0.16934952, y: -0.0000000037252903, z: -0.000000013154931, w: 0.98555607}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000002}
+    - name: Terron_light_LeftFoot
+      parentName: Terron_light_LeftLeg
+      position: {x: 5.4863675e-10, y: -0.51301473, z: -0.00000009357032}
+      rotation: {x: -0.16819148, y: -0.05452364, z: 0.008315046, w: 0.98421025}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: Terron_light_LeftToeBase
+      parentName: Terron_light_LeftFoot
+      position: {x: -0.00000010662579, y: -0.06622632, z: 0.13700093}
+      rotation: {x: -0, y: -0.000000026077029, z: -0.000000013038514, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: Terron_light_RightUpLeg
+      parentName: Terron_light_Hips
+      position: {x: 0.094226494, y: -0.06630749, z: -0.000000013183412}
+      rotation: {x: -0.053735413, y: 0.022099117, z: 0.06096292, w: 0.9964475}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Terron_light_RightLeg
+      parentName: Terron_light_RightUpLeg
+      position: {x: -0.000000029742436, y: -0.3920213, z: -0.00000003347945}
+      rotation: {x: 0.16934952, y: -0.000000013038516, z: 0.000000015250407, w: 0.98555607}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Terron_light_RightFoot
+      parentName: Terron_light_RightLeg
+      position: {x: -0.000000021789042, y: -0.51301455, z: -0.000000035569595}
+      rotation: {x: -0.16819146, y: 0.054523673, z: -0.008315041, w: 0.9842102}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: Terron_light_RightToeBase
+      parentName: Terron_light_RightFoot
+      position: {x: 0.00000007914488, y: -0.06622629, z: 0.13700086}
+      rotation: {x: -0.000000014901161, y: -0.000000011175871, z: -0.0000000055879354,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Terron_light_Spine
+      parentName: Terron_light_Hips
+      position: {x: -0.0000000018115092, y: 0.07402746, z: -0.000000004967827}
+      rotation: {x: 0.00000001164153, y: 0.000000011641533, z: -0.0000000029103835,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: Terron_light_Spine1
+      parentName: Terron_light_Spine
+      position: {x: -9.606562e-10, y: 0.14438094, z: 0.000000013916586}
+      rotation: {x: 0.0000000058207643, y: -0.000000011641531, z: 2.2204458e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Terron_light_Spine2
+      parentName: Terron_light_Spine1
+      position: {x: 0.0000000018615783, y: 0.14438087, z: -0.000000001030646}
+      rotation: {x: -0.0000000058207643, y: 0.000000005820765, z: -0.0000000014551914,
+        w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1}
+    - name: Terron_light_LeftShoulder
+      parentName: Terron_light_Spine2
+      position: {x: -0.15535292, y: 0.11113389, z: -0.000000010502583}
+      rotation: {x: 0.000000005820766, y: -0.000000005820765, z: 0.0000000014551914,
+        w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1}
+    - name: Terron_light_LeftArm
+      parentName: Terron_light_LeftShoulder
+      position: {x: -0.11323304, y: 0.0000015115962, z: 0.0000000187791}
+      rotation: {x: -0.0000000058207665, y: -8.881784e-16, z: -0.000000024374458,
+        w: 1}
+      scale: {x: 0.9999995, y: 1.0000008, z: 1}
+    - name: Terron_light_LeftForeArm
+      parentName: Terron_light_LeftArm
+      position: {x: -0.36696285, y: -0.000000018596312, z: -0.00000003291645}
+      rotation: {x: 0.0000000058207656, y: 0.00000002910383, z: 0.000000012732926,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Terron_light_LeftHand
+      parentName: Terron_light_LeftForeArm
+      position: {x: -0.2573088, y: 0.000000010962709, z: 0.000000092745935}
+      rotation: {x: -0.000000026193446, y: -0.000000046566132, z: 0.0000000349246,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Terron_light_LeftHandMiddle1
+      parentName: Terron_light_LeftHand
+      position: {x: -0.13695829, y: 0.0052970774, z: 0.0137975095}
+      rotation: {x: 0.000000032014214, y: 0.0000000349246, z: -0.000000011641536,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000005}
+    - name: Terron_light_LeftHandMiddle2
+      parentName: Terron_light_LeftHandMiddle1
+      position: {x: -0.051430624, y: -0.000000021037499, z: 0.0000031730108}
+      rotation: {x: -0, y: -0.000000011641532, z: -0.000000011641531, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: Terron_light_RightShoulder
+      parentName: Terron_light_Spine2
+      position: {x: 0.15535294, y: 0.111133866, z: -0.0000000020038253}
+      rotation: {x: 0.000000005820766, y: -0.000000005820765, z: 0.0000000014551914,
+        w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1}
+    - name: Terron_light_RightArm
+      parentName: Terron_light_RightShoulder
+      position: {x: 0.11323306, y: 0.0000014431986, z: 0.000000024232204}
+      rotation: {x: -0.000000017462296, y: 0.000000005820765, z: 0.0000000016370901,
+        w: 1}
+      scale: {x: 0.99999976, y: 1.0000012, z: 1.0000005}
+    - name: Terron_light_RightForeArm
+      parentName: Terron_light_RightArm
+      position: {x: 0.36696255, y: -0.00000002174605, z: -0.000000009266358}
+      rotation: {x: 0.0000000116415295, y: -0.000000023283064, z: -0.0000000016370904,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: Terron_light_RightHand
+      parentName: Terron_light_RightForeArm
+      position: {x: 0.25730887, y: -0.0000000947713, z: 0.000000032099972}
+      rotation: {x: -0.000000023283068, y: 0.000000011641532, z: 0.000000017462298,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000006}
+    - name: Terron_light_RightHandMiddle1
+      parentName: Terron_light_RightHand
+      position: {x: 0.13695817, y: 0.0052970713, z: 0.013797502}
+      rotation: {x: 0.000000011641537, y: 0.000000011641532, z: -0.000000011641531,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: Terron_light_RightHandMiddle2
+      parentName: Terron_light_RightHandMiddle1
+      position: {x: 0.051430658, y: -0.000000032999367, z: 0.000003222682}
+      rotation: {x: 0.00000006984911, y: -0.0000052736136, z: -0.00000001746205, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: Terron_light_Neck
+      parentName: Terron_light_Spine2
+      position: {x: -0.0000000046144497, y: 0.14438088, z: 0.000000019322263}
+      rotation: {x: -0, y: -0.000000005820765, z: 2.220446e-16, w: 1}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000001}
+    - name: Terron_light_Head
+      parentName: Terron_light_Neck
+      position: {x: 0.000000008678617, y: 0.21150701, z: -0.000000044682533}
+      rotation: {x: 0.000000011641534, y: 0.000000017462296, z: 0.0000000014551909,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

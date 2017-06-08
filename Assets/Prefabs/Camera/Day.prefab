@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1712042176035692}
+  m_IsPrefabParent: 1
+--- !u!1 &1712042176035692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4296913699029936}
+  - component: {fileID: 108239946138739304}
+  - component: {fileID: 114641673385717298}
+  m_Layer: 0
+  m_Name: Day
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4296913699029936
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712042176035692}
+  m_LocalRotation: {x: 0.27033383, y: -0.73281217, z: 0.45369846, w: 0.42902648}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 63.7551, y: -119.863, z: -0.8954}
+--- !u!108 &108239946138739304
+Light:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712042176035692}
+  m_Enabled: 1
+  serializedVersion: 7
+  m_Type: 1
+  m_Color: {r: 1, g: 0.9568628, b: 0.83921576, a: 1}
+  m_Intensity: 1.2
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 1
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 0.855
+    m_Bias: 0.4
+    m_NormalBias: 0
+    m_NearPlane: 0.1
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!114 &114641673385717298
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1712042176035692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f260d0e0410951442a3a011d5532024b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Player: {fileID: 0}
+  _DayColor: {r: 0.7725491, g: 0.5647059, b: 0.454902, a: 1}
+  _NightColor: {r: 0, g: 1, b: 0.54509807, a: 1}
+  _AmbDayColor: {r: 0.8235295, g: 0.6901961, b: 0.6901961, a: 1}
+  _AmbNightColor: {r: 0.003921569, g: 0.08235294, b: 0.19215688, a: 1}
+  _WaterDayBaseColor: {r: 0.5686275, g: 0.6313726, b: 0.27450982, a: 1}
+  _WaterNightBaseColor: {r: 0.08235294, g: 0, b: 0, a: 1}
+  _Day: {fileID: 108239946138739304}
+  Sun: {fileID: 4296913699029936}
+  _XRotSun: 0.025
+  _YRotSun: 0.025
+  _ZRotSun: 0
+  _night: 0
+  _nightTime: 0
+  _day: 0
+  _dayTime: 0
+  CloudCount: 0
+  RoundCloud: 0

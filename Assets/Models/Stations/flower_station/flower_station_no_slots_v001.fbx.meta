@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 5db312bb82cbb9c4eafae68c02e558b4
+timeCreated: 1472311355
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flower_station_low10
+    100002: flower_station_low10 1
+    100004: flower_station_low10 2
+    100006: flower_station_low10 3
+    100008: flower_station_low10 4
+    100010: flower_station_low10 5
+    100012: flower_station_low11
+    100014: flower_station_low12
+    100016: flower_station_low13
+    100018: flower_station_low14
+    100020: flower_station_low15
+    100022: flower_station_low16
+    100024: flower_station_low17
+    100026: flower_station_low18
+    100028: flower_station_low19
+    100030: flower_station_low20
+    100032: flower_station_low21
+    100034: flower_station_low22
+    100036: flower_station_low23
+    100038: flower_station_low24
+    100040: flower_station_low25
+    100042: flower_station_low26
+    100044: flower_station_low27
+    100046: flower_station_low28
+    100048: flower_station_low29
+    100050: flower_station_low30
+    100052: flower_station_low9
+    100054: flower_station_low9 1
+    100056: flower_station_low9 2
+    100058: flower_station_low9 3
+    100060: flower_station_low9 4
+    100062: flower_station_low9 5
+    100064: //RootNode
+    400000: flower_station_low10
+    400002: flower_station_low10 1
+    400004: flower_station_low10 2
+    400006: flower_station_low10 3
+    400008: flower_station_low10 4
+    400010: flower_station_low10 5
+    400012: flower_station_low11
+    400014: flower_station_low12
+    400016: flower_station_low13
+    400018: flower_station_low14
+    400020: flower_station_low15
+    400022: flower_station_low16
+    400024: flower_station_low17
+    400026: flower_station_low18
+    400028: flower_station_low19
+    400030: flower_station_low20
+    400032: flower_station_low21
+    400034: flower_station_low22
+    400036: flower_station_low23
+    400038: flower_station_low24
+    400040: flower_station_low25
+    400042: flower_station_low26
+    400044: flower_station_low27
+    400046: flower_station_low28
+    400048: flower_station_low29
+    400050: flower_station_low30
+    400052: flower_station_low9
+    400054: flower_station_low9 1
+    400056: flower_station_low9 2
+    400058: flower_station_low9 3
+    400060: flower_station_low9 4
+    400062: flower_station_low9 5
+    400064: //RootNode
+    2300000: flower_station_low10
+    2300002: flower_station_low10 1
+    2300004: flower_station_low10 2
+    2300006: flower_station_low10 3
+    2300008: flower_station_low10 4
+    2300010: flower_station_low10 5
+    2300012: flower_station_low11
+    2300014: flower_station_low12
+    2300016: flower_station_low13
+    2300018: flower_station_low14
+    2300020: flower_station_low15
+    2300022: flower_station_low16
+    2300024: flower_station_low17
+    2300026: flower_station_low18
+    2300028: flower_station_low19
+    2300030: flower_station_low20
+    2300032: flower_station_low21
+    2300034: flower_station_low22
+    2300036: flower_station_low23
+    2300038: flower_station_low24
+    2300040: flower_station_low25
+    2300042: flower_station_low26
+    2300044: flower_station_low27
+    2300046: flower_station_low28
+    2300048: flower_station_low29
+    2300050: flower_station_low30
+    2300052: flower_station_low9
+    2300054: flower_station_low9 1
+    2300056: flower_station_low9 2
+    2300058: flower_station_low9 3
+    2300060: flower_station_low9 4
+    2300062: flower_station_low9 5
+    3300000: flower_station_low10
+    3300002: flower_station_low10 1
+    3300004: flower_station_low10 2
+    3300006: flower_station_low10 3
+    3300008: flower_station_low10 4
+    3300010: flower_station_low10 5
+    3300012: flower_station_low11
+    3300014: flower_station_low12
+    3300016: flower_station_low13
+    3300018: flower_station_low14
+    3300020: flower_station_low15
+    3300022: flower_station_low16
+    3300024: flower_station_low17
+    3300026: flower_station_low18
+    3300028: flower_station_low19
+    3300030: flower_station_low20
+    3300032: flower_station_low21
+    3300034: flower_station_low22
+    3300036: flower_station_low23
+    3300038: flower_station_low24
+    3300040: flower_station_low25
+    3300042: flower_station_low26
+    3300044: flower_station_low27
+    3300046: flower_station_low28
+    3300048: flower_station_low29
+    3300050: flower_station_low30
+    3300052: flower_station_low9
+    3300054: flower_station_low9 1
+    3300056: flower_station_low9 2
+    3300058: flower_station_low9 3
+    3300060: flower_station_low9 4
+    3300062: flower_station_low9 5
+    4300000: flower_station_low15
+    4300002: flower_station_low26
+    4300004: flower_station_low10
+    4300006: flower_station_low9
+    4300008: flower_station_low12
+    4300010: flower_station_low10
+    4300012: flower_station_low9
+    4300014: flower_station_low27
+    4300016: flower_station_low10
+    4300018: flower_station_low9
+    4300020: flower_station_low28
+    4300022: flower_station_low10
+    4300024: flower_station_low9
+    4300026: flower_station_low29
+    4300028: flower_station_low10
+    4300030: flower_station_low9
+    4300032: flower_station_low30
+    4300034: flower_station_low10
+    4300036: flower_station_low9
+    4300038: flower_station_low17
+    4300040: flower_station_low13
+    4300042: flower_station_low20
+    4300044: flower_station_low24
+    4300046: flower_station_low19
+    4300048: flower_station_low23
+    4300050: flower_station_low18
+    4300052: flower_station_low22
+    4300054: flower_station_low16
+    4300056: flower_station_low21
+    4300058: flower_station_low14
+    4300060: flower_station_low25
+    4300062: flower_station_low11
+    7400000: Take 001
+    7400002: LandPosition
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.86168075
+        functionName: AnimFinished
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: flower_station_low15
+        weight: 1
+      - path: flower_station_low15/flower_station_low12
+        weight: 1
+      - path: flower_station_low15/flower_station_low12/flower_station_low9
+        weight: 1
+      - path: flower_station_low15/flower_station_low12/flower_station_low10
+        weight: 1
+      - path: flower_station_low15/flower_station_low14
+        weight: 1
+      - path: flower_station_low15/flower_station_low14/flower_station_low11
+        weight: 1
+      - path: flower_station_low15/flower_station_low14/flower_station_low25
+        weight: 1
+      - path: flower_station_low15/flower_station_low16
+        weight: 1
+      - path: flower_station_low15/flower_station_low16/flower_station_low21
+        weight: 1
+      - path: flower_station_low15/flower_station_low17
+        weight: 1
+      - path: flower_station_low15/flower_station_low17/flower_station_low13
+        weight: 1
+      - path: flower_station_low15/flower_station_low18
+        weight: 1
+      - path: flower_station_low15/flower_station_low18/flower_station_low22
+        weight: 1
+      - path: flower_station_low15/flower_station_low19
+        weight: 1
+      - path: flower_station_low15/flower_station_low19/flower_station_low23
+        weight: 1
+      - path: flower_station_low15/flower_station_low20
+        weight: 1
+      - path: flower_station_low15/flower_station_low20/flower_station_low24
+        weight: 1
+      - path: flower_station_low15/flower_station_low26
+        weight: 1
+      - path: flower_station_low15/flower_station_low26/flower_station_low9 1
+        weight: 1
+      - path: flower_station_low15/flower_station_low26/flower_station_low10 1
+        weight: 1
+      - path: flower_station_low15/flower_station_low27
+        weight: 1
+      - path: flower_station_low15/flower_station_low27/flower_station_low9 2
+        weight: 1
+      - path: flower_station_low15/flower_station_low27/flower_station_low10 2
+        weight: 1
+      - path: flower_station_low15/flower_station_low28
+        weight: 1
+      - path: flower_station_low15/flower_station_low28/flower_station_low9 3
+        weight: 1
+      - path: flower_station_low15/flower_station_low28/flower_station_low10 3
+        weight: 1
+      - path: flower_station_low15/flower_station_low29
+        weight: 1
+      - path: flower_station_low15/flower_station_low29/flower_station_low9 4
+        weight: 1
+      - path: flower_station_low15/flower_station_low29/flower_station_low10 4
+        weight: 1
+      - path: flower_station_low15/flower_station_low30
+        weight: 1
+      - path: flower_station_low15/flower_station_low30/flower_station_low9 5
+        weight: 1
+      - path: flower_station_low15/flower_station_low30/flower_station_low10 5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LandPosition
+      takeName: Take 001
+      firstFrame: 135
+      lastFrame: 136
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: flower_station_low15
+        weight: 1
+      - path: flower_station_low15/flower_station_low12
+        weight: 1
+      - path: flower_station_low15/flower_station_low12/flower_station_low9
+        weight: 1
+      - path: flower_station_low15/flower_station_low12/flower_station_low10
+        weight: 1
+      - path: flower_station_low15/flower_station_low14
+        weight: 1
+      - path: flower_station_low15/flower_station_low14/flower_station_low11
+        weight: 1
+      - path: flower_station_low15/flower_station_low14/flower_station_low25
+        weight: 1
+      - path: flower_station_low15/flower_station_low16
+        weight: 1
+      - path: flower_station_low15/flower_station_low16/flower_station_low21
+        weight: 1
+      - path: flower_station_low15/flower_station_low17
+        weight: 1
+      - path: flower_station_low15/flower_station_low17/flower_station_low13
+        weight: 1
+      - path: flower_station_low15/flower_station_low18
+        weight: 1
+      - path: flower_station_low15/flower_station_low18/flower_station_low22
+        weight: 1
+      - path: flower_station_low15/flower_station_low19
+        weight: 1
+      - path: flower_station_low15/flower_station_low19/flower_station_low23
+        weight: 1
+      - path: flower_station_low15/flower_station_low20
+        weight: 1
+      - path: flower_station_low15/flower_station_low20/flower_station_low24
+        weight: 1
+      - path: flower_station_low15/flower_station_low26
+        weight: 1
+      - path: flower_station_low15/flower_station_low26/flower_station_low9 1
+        weight: 1
+      - path: flower_station_low15/flower_station_low26/flower_station_low10 1
+        weight: 1
+      - path: flower_station_low15/flower_station_low27
+        weight: 1
+      - path: flower_station_low15/flower_station_low27/flower_station_low9 2
+        weight: 1
+      - path: flower_station_low15/flower_station_low27/flower_station_low10 2
+        weight: 1
+      - path: flower_station_low15/flower_station_low28
+        weight: 1
+      - path: flower_station_low15/flower_station_low28/flower_station_low9 3
+        weight: 1
+      - path: flower_station_low15/flower_station_low28/flower_station_low10 3
+        weight: 1
+      - path: flower_station_low15/flower_station_low29
+        weight: 1
+      - path: flower_station_low15/flower_station_low29/flower_station_low9 4
+        weight: 1
+      - path: flower_station_low15/flower_station_low29/flower_station_low10 4
+        weight: 1
+      - path: flower_station_low15/flower_station_low30
+        weight: 1
+      - path: flower_station_low15/flower_station_low30/flower_station_low9 5
+        weight: 1
+      - path: flower_station_low15/flower_station_low30/flower_station_low10 5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

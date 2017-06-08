@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: f4be7445dda13dc468ab3effb4d2ce93
+timeCreated: 1481289975
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object042
+    100002: Ortopraks_medium_Head
+    100004: Ortopraks_medium_Hips2
+    100006: Ortopraks_medium_LeftArm
+    100008: Ortopraks_medium_LeftFoot
+    100010: Ortopraks_medium_LeftForeArm
+    100012: Ortopraks_medium_LeftHand
+    100014: Ortopraks_medium_LeftHandMiddle1
+    100016: Ortopraks_medium_LeftHandMiddle2
+    100018: Ortopraks_medium_LeftLeg
+    100020: Ortopraks_medium_LeftShoulder
+    100022: Ortopraks_medium_LeftToeBase
+    100024: Ortopraks_medium_LeftUpLeg
+    100026: Ortopraks_medium_Neck
+    100028: Ortopraks_medium_RightArm
+    100030: Ortopraks_medium_RightFoot
+    100032: Ortopraks_medium_RightForeArm
+    100034: Ortopraks_medium_RightHand
+    100036: Ortopraks_medium_RightHandMiddle1
+    100038: Ortopraks_medium_RightHandMiddle2
+    100040: Ortopraks_medium_RightLeg
+    100042: Ortopraks_medium_RightShoulder
+    100044: Ortopraks_medium_RightToeBase
+    100046: Ortopraks_medium_RightUpLeg
+    100048: Ortopraks_medium_Spine
+    100050: Ortopraks_medium_Spine1
+    100052: Ortopraks_medium_Spine2
+    100054: //RootNode
+    400000: Object042
+    400002: Ortopraks_medium_Head
+    400004: Ortopraks_medium_Hips2
+    400006: Ortopraks_medium_LeftArm
+    400008: Ortopraks_medium_LeftFoot
+    400010: Ortopraks_medium_LeftForeArm
+    400012: Ortopraks_medium_LeftHand
+    400014: Ortopraks_medium_LeftHandMiddle1
+    400016: Ortopraks_medium_LeftHandMiddle2
+    400018: Ortopraks_medium_LeftLeg
+    400020: Ortopraks_medium_LeftShoulder
+    400022: Ortopraks_medium_LeftToeBase
+    400024: Ortopraks_medium_LeftUpLeg
+    400026: Ortopraks_medium_Neck
+    400028: Ortopraks_medium_RightArm
+    400030: Ortopraks_medium_RightFoot
+    400032: Ortopraks_medium_RightForeArm
+    400034: Ortopraks_medium_RightHand
+    400036: Ortopraks_medium_RightHandMiddle1
+    400038: Ortopraks_medium_RightHandMiddle2
+    400040: Ortopraks_medium_RightLeg
+    400042: Ortopraks_medium_RightShoulder
+    400044: Ortopraks_medium_RightToeBase
+    400046: Ortopraks_medium_RightUpLeg
+    400048: Ortopraks_medium_Spine
+    400050: Ortopraks_medium_Spine1
+    400052: Ortopraks_medium_Spine2
+    400054: //RootNode
+    4300000: Object042
+    9500000: //RootNode
+    13700000: Object042
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: eb6d6d7698f2ab745812b892da393211
+timeCreated: 1452525108
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: HeadTop_End
+    100006: Hips1
+    100008: joint1
+    100010: joint2
+    100012: joint2 1
+    100014: joint5
+    100016: left
+    100018: Left_elbow_extra1_jnt
+    100020: Left_elbow_extra2_jnt
+    100022: Left_elbow_extra3_jnt
+    100024: Left_elbow_extra4_jnt
+    100026: Left_elbow_extra5_jnt
+    100028: Left_elbow_extra6_jnt
+    100030: Left_elbow_extra7_jnt
+    100032: Left_knee_extra1_jnt
+    100034: Left_knee_extra2_jnt
+    100036: LeftArm
+    100038: LeftFoot
+    100040: LeftForeArm
+    100042: LeftHand
+    100044: LeftHandIndex1
+    100046: LeftLeg
+    100048: LeftShoulder
+    100050: LeftToe_End
+    100052: LeftToeBase
+    100054: LeftUpLeg
+    100056: Main_geo1
+    100058: Neck
+    100060: Right_elbow_extra1_jnt
+    100062: Right_elbow_extra2_jnt
+    100064: Right_elbow_extra3_jnt
+    100066: Right_elbow_extra4_jnt
+    100068: Right_elbow_extra5_jnt
+    100070: Right_elbow_extra6_jnt
+    100072: Right_elbow_extra7_jnt
+    100074: Right_knee_extra1_jnt
+    100076: Right_knee_extra2_jnt
+    100078: RightArm
+    100080: RightFoot
+    100082: RightForeArm
+    100084: RightHand
+    100086: RightHandIndex1
+    100088: RightLeg
+    100090: RightShoulder
+    100092: RightToe_End
+    100094: RightToeBase
+    100096: RightUpLeg
+    100098: Spine
+    100100: Spine1
+    100102: Spine2
+    100104: transform1
+    100106: transform2
+    100108: transform3
+    100110: transform4
+    100112: transform5
+    100114: transform6
+    100116: transform7
+    100118: transform8
+    400000: //RootNode
+    400002: Head
+    400004: HeadTop_End
+    400006: Hips1
+    400008: joint1
+    400010: joint2
+    400012: joint2 1
+    400014: joint5
+    400016: left
+    400018: Left_elbow_extra1_jnt
+    400020: Left_elbow_extra2_jnt
+    400022: Left_elbow_extra3_jnt
+    400024: Left_elbow_extra4_jnt
+    400026: Left_elbow_extra5_jnt
+    400028: Left_elbow_extra6_jnt
+    400030: Left_elbow_extra7_jnt
+    400032: Left_knee_extra1_jnt
+    400034: Left_knee_extra2_jnt
+    400036: LeftArm
+    400038: LeftFoot
+    400040: LeftForeArm
+    400042: LeftHand
+    400044: LeftHandIndex1
+    400046: LeftLeg
+    400048: LeftShoulder
+    400050: LeftToe_End
+    400052: LeftToeBase
+    400054: LeftUpLeg
+    400056: Main_geo1
+    400058: Neck
+    400060: Right_elbow_extra1_jnt
+    400062: Right_elbow_extra2_jnt
+    400064: Right_elbow_extra3_jnt
+    400066: Right_elbow_extra4_jnt
+    400068: Right_elbow_extra5_jnt
+    400070: Right_elbow_extra6_jnt
+    400072: Right_elbow_extra7_jnt
+    400074: Right_knee_extra1_jnt
+    400076: Right_knee_extra2_jnt
+    400078: RightArm
+    400080: RightFoot
+    400082: RightForeArm
+    400084: RightHand
+    400086: RightHandIndex1
+    400088: RightLeg
+    400090: RightShoulder
+    400092: RightToe_End
+    400094: RightToeBase
+    400096: RightUpLeg
+    400098: Spine
+    400100: Spine1
+    400102: Spine2
+    400104: transform1
+    400106: transform2
+    400108: transform3
+    400110: transform4
+    400112: transform5
+    400114: transform6
+    400116: transform7
+    400118: transform8
+    4300000: Main_geo1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Main_geo1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

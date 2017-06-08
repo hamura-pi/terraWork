@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: a43512f6b57df6c4485bc27e10281b16
+timeCreated: 1481289973
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ortopraks_Head
+    100002: Ortopraks_Hips
+    100004: Ortopraks_LeftArm
+    100006: Ortopraks_LeftFoot
+    100008: Ortopraks_LeftForeArm
+    100010: Ortopraks_LeftHand
+    100012: Ortopraks_LeftHandMiddle1
+    100014: Ortopraks_LeftHandMiddle2
+    100016: Ortopraks_LeftLeg
+    100018: Ortopraks_LeftShoulder
+    100020: Ortopraks_LeftToeBase
+    100022: Ortopraks_LeftUpLeg
+    100024: Ortopraks_Neck
+    100026: Ortopraks_Reference
+    100028: //RootNode
+    100030: Ortopraks_RightArm
+    100032: Ortopraks_RightFoot
+    100034: Ortopraks_RightForeArm
+    100036: Ortopraks_RightHand
+    100038: Ortopraks_RightHandMiddle1
+    100040: Ortopraks_RightHandMiddle2
+    100042: Ortopraks_RightLeg
+    100044: Ortopraks_RightShoulder
+    100046: Ortopraks_RightToeBase
+    100048: Ortopraks_RightUpLeg
+    100050: Ortopraks_Spine
+    100052: Ortopraks_Spine1
+    100054: Ortopraks_Spine2
+    100056: Plane011
+    400000: Ortopraks_Head
+    400002: Ortopraks_Hips
+    400004: Ortopraks_LeftArm
+    400006: Ortopraks_LeftFoot
+    400008: Ortopraks_LeftForeArm
+    400010: Ortopraks_LeftHand
+    400012: Ortopraks_LeftHandMiddle1
+    400014: Ortopraks_LeftHandMiddle2
+    400016: Ortopraks_LeftLeg
+    400018: Ortopraks_LeftShoulder
+    400020: Ortopraks_LeftToeBase
+    400022: Ortopraks_LeftUpLeg
+    400024: Ortopraks_Neck
+    400026: Ortopraks_Reference
+    400028: //RootNode
+    400030: Ortopraks_RightArm
+    400032: Ortopraks_RightFoot
+    400034: Ortopraks_RightForeArm
+    400036: Ortopraks_RightHand
+    400038: Ortopraks_RightHandMiddle1
+    400040: Ortopraks_RightHandMiddle2
+    400042: Ortopraks_RightLeg
+    400044: Ortopraks_RightShoulder
+    400046: Ortopraks_RightToeBase
+    400048: Ortopraks_RightUpLeg
+    400050: Ortopraks_Spine
+    400052: Ortopraks_Spine1
+    400054: Ortopraks_Spine2
+    400056: Plane011
+    4300000: Plane011
+    9500000: //RootNode
+    13700000: Plane011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+Bug_101
+Tris count:  650
+Verts count: 332
+Bones count: 13
+
+ExplParts:
+Tris count:  326
+Verts count: 181
+
+
+Animations:
+Idle: 		0-59
+Attack: 	70-110
+HitFront:	120-135
+HitLeft:	145-160
+HitRight:	170-185
+Die_1:		195-245
+Die_2:		255-310
+Walk:		320-335
+Explosion: 	0-39

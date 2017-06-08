@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: bc19b993c4bc3fe4286a824be2ba85bc
+timeCreated: 1481289973
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animit_Head
+    100002: Animit_Hips
+    100004: Animit_LeftArm
+    100006: Animit_LeftFoot
+    100008: Animit_LeftForeArm
+    100010: Animit_LeftHand
+    100012: Animit_LeftHandMiddle1
+    100014: Animit_LeftHandMiddle2
+    100016: Animit_LeftLeg
+    100018: Animit_LeftShoulder
+    100020: Animit_LeftToeBase
+    100022: Animit_LeftUpLeg
+    100024: Animit_Neck
+    100026: Animit_Reference
+    100028: //RootNode
+    100030: Animit_RightArm
+    100032: Animit_RightFoot
+    100034: Animit_RightForeArm
+    100036: Animit_RightHand
+    100038: Animit_RightHandMiddle1
+    100040: Animit_RightHandMiddle2
+    100042: Animit_RightLeg
+    100044: Animit_RightShoulder
+    100046: Animit_RightToeBase
+    100048: Animit_RightUpLeg
+    100050: Animit_Spine
+    100052: Animit_Spine1
+    100054: Animit_Spine2
+    100056: Object016
+    400000: Animit_Head
+    400002: Animit_Hips
+    400004: Animit_LeftArm
+    400006: Animit_LeftFoot
+    400008: Animit_LeftForeArm
+    400010: Animit_LeftHand
+    400012: Animit_LeftHandMiddle1
+    400014: Animit_LeftHandMiddle2
+    400016: Animit_LeftLeg
+    400018: Animit_LeftShoulder
+    400020: Animit_LeftToeBase
+    400022: Animit_LeftUpLeg
+    400024: Animit_Neck
+    400026: Animit_Reference
+    400028: //RootNode
+    400030: Animit_RightArm
+    400032: Animit_RightFoot
+    400034: Animit_RightForeArm
+    400036: Animit_RightHand
+    400038: Animit_RightHandMiddle1
+    400040: Animit_RightHandMiddle2
+    400042: Animit_RightLeg
+    400044: Animit_RightShoulder
+    400046: Animit_RightToeBase
+    400048: Animit_RightUpLeg
+    400050: Animit_Spine
+    400052: Animit_Spine1
+    400054: Animit_Spine2
+    400056: Object016
+    4300000: Object016
+    9500000: //RootNode
+    13700000: Object016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

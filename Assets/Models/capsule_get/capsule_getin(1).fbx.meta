@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: e9f5b5def447ee64d9e0b5598656617f
+timeCreated: 1436966517
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box070
+    100002: //RootNode
+    100004: extra_joint17_jnt
+    100006: extra_joint18_jnt
+    100008: extra_joint19_jnt
+    100010: extra_joint1_jnt
+    100012: extra_joint20_jnt
+    100014: extra_joint21_jnt
+    100016: extra_joint22_jnt
+    100018: extra_joint23_jnt
+    100020: extra_joint24_jnt
+    100022: extra_joint2_jnt
+    100024: extra_joint30_jnt
+    100026: extra_joint30_transform12_jnt
+    100028: extra_joint30_transform13_jnt
+    100030: extra_joint30_transform17_jnt
+    100032: extra_joint37_jnt
+    100034: extra_joint38_jnt
+    100036: extra_joint38_transform12_jnt
+    100038: extra_joint38_transform13_jnt
+    100040: extra_joint38_transform17_jnt
+    100042: extra_transform19_jnt
+    100044: group
+    100046: group 1
+    100048: group 2
+    100050: group 3
+    100052: group1
+    100054: group2
+    100056: group3
+    100058: group4
+    100060: group5
+    100062: group6
+    100064: left
+    100066: LeftHandIndex1
+    100068: mixamorig:Head
+    100070: mixamorig:HeadTop_End
+    100072: mixamorig:Hips
+    100074: mixamorig:LeftArm
+    100076: mixamorig:LeftFoot
+    100078: mixamorig:LeftForeArm
+    100080: mixamorig:LeftHand
+    100082: mixamorig:LeftHandIndex1
+    100084: mixamorig:LeftLeg
+    100086: mixamorig:LeftShoulder
+    100088: mixamorig:LeftToe_End
+    100090: mixamorig:LeftToeBase
+    100092: mixamorig:LeftUpLeg
+    100094: mixamorig:Neck
+    100096: mixamorig:RightArm
+    100098: mixamorig:RightFoot
+    100100: mixamorig:RightForeArm
+    100102: mixamorig:RightHand
+    100104: mixamorig:RightHandIndex1
+    100106: mixamorig:RightLeg
+    100108: mixamorig:RightShoulder
+    100110: mixamorig:RightToe_End
+    100112: mixamorig:RightToeBase
+    100114: mixamorig:RightUpLeg
+    100116: mixamorig:Spine
+    100118: mixamorig:Spine1
+    100120: mixamorig:Spine2
+    100122: Object018
+    100124: Plane009
+    100126: Plane011
+    100128: Plane011_PH
+    100130: Plane011_SN
+    100132: RightHandIndex1
+    400000: Box070
+    400002: //RootNode
+    400004: extra_joint17_jnt
+    400006: extra_joint18_jnt
+    400008: extra_joint19_jnt
+    400010: extra_joint1_jnt
+    400012: extra_joint20_jnt
+    400014: extra_joint21_jnt
+    400016: extra_joint22_jnt
+    400018: extra_joint23_jnt
+    400020: extra_joint24_jnt
+    400022: extra_joint2_jnt
+    400024: extra_joint30_jnt
+    400026: extra_joint30_transform12_jnt
+    400028: extra_joint30_transform13_jnt
+    400030: extra_joint30_transform17_jnt
+    400032: extra_joint37_jnt
+    400034: extra_joint38_jnt
+    400036: extra_joint38_transform12_jnt
+    400038: extra_joint38_transform13_jnt
+    400040: extra_joint38_transform17_jnt
+    400042: extra_transform19_jnt
+    400044: group
+    400046: group 1
+    400048: group 2
+    400050: group 3
+    400052: group1
+    400054: group2
+    400056: group3
+    400058: group4
+    400060: group5
+    400062: group6
+    400064: left
+    400066: LeftHandIndex1
+    400068: mixamorig:Head
+    400070: mixamorig:HeadTop_End
+    400072: mixamorig:Hips
+    400074: mixamorig:LeftArm
+    400076: mixamorig:LeftFoot
+    400078: mixamorig:LeftForeArm
+    400080: mixamorig:LeftHand
+    400082: mixamorig:LeftHandIndex1
+    400084: mixamorig:LeftLeg
+    400086: mixamorig:LeftShoulder
+    400088: mixamorig:LeftToe_End
+    400090: mixamorig:LeftToeBase
+    400092: mixamorig:LeftUpLeg
+    400094: mixamorig:Neck
+    400096: mixamorig:RightArm
+    400098: mixamorig:RightFoot
+    400100: mixamorig:RightForeArm
+    400102: mixamorig:RightHand
+    400104: mixamorig:RightHandIndex1
+    400106: mixamorig:RightLeg
+    400108: mixamorig:RightShoulder
+    400110: mixamorig:RightToe_End
+    400112: mixamorig:RightToeBase
+    400114: mixamorig:RightUpLeg
+    400116: mixamorig:Spine
+    400118: mixamorig:Spine1
+    400120: mixamorig:Spine2
+    400122: Object018
+    400124: Plane009
+    400126: Plane011
+    400128: Plane011_PH
+    400130: Plane011_SN
+    400132: RightHandIndex1
+    4300000: Box070
+    4300002: Plane009
+    4300004: Object018
+    4300006: Plane011
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Box070
+    13700002: Object018
+    13700004: Plane009
+    13700006: Plane011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

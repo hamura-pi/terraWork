@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: fc8b5fe48f95261488a7758d1577501e
+timeCreated: 1441833785
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: admar_rig_for_unity_bones2:Head
+    100002: admar_rig_for_unity_bones2:HeadTop_End
+    100004: admar_rig_for_unity_bones2:Hips1
+    100006: admar_rig_for_unity_bones2:joint1
+    100008: admar_rig_for_unity_bones2:joint2
+    100010: admar_rig_for_unity_bones2:joint2 1
+    100012: admar_rig_for_unity_bones2:joint5
+    100014: admar_rig_for_unity_bones2:Left_elbow_extra1_jnt
+    100016: admar_rig_for_unity_bones2:Left_elbow_extra2_jnt
+    100018: admar_rig_for_unity_bones2:Left_elbow_extra3_jnt
+    100020: admar_rig_for_unity_bones2:Left_elbow_extra4_jnt
+    100022: admar_rig_for_unity_bones2:Left_elbow_extra5_jnt
+    100024: admar_rig_for_unity_bones2:Left_elbow_extra6_jnt
+    100026: admar_rig_for_unity_bones2:Left_elbow_extra7_jnt
+    100028: admar_rig_for_unity_bones2:Left_knee_extra1_jnt
+    100030: admar_rig_for_unity_bones2:Left_knee_extra2_jnt
+    100032: admar_rig_for_unity_bones2:LeftArm
+    100034: admar_rig_for_unity_bones2:LeftFoot
+    100036: admar_rig_for_unity_bones2:LeftForeArm
+    100038: admar_rig_for_unity_bones2:LeftHand
+    100040: admar_rig_for_unity_bones2:LeftHandIndex1
+    100042: admar_rig_for_unity_bones2:LeftLeg
+    100044: admar_rig_for_unity_bones2:LeftShoulder
+    100046: admar_rig_for_unity_bones2:LeftToe_End
+    100048: admar_rig_for_unity_bones2:LeftToeBase
+    100050: admar_rig_for_unity_bones2:LeftUpLeg
+    100052: admar_rig_for_unity_bones2:Main_geo1
+    100054: admar_rig_for_unity_bones2:Neck
+    100056: admar_rig_for_unity_bones2:Right_elbow_extra1_jnt
+    100058: admar_rig_for_unity_bones2:Right_elbow_extra2_jnt
+    100060: admar_rig_for_unity_bones2:Right_elbow_extra3_jnt
+    100062: admar_rig_for_unity_bones2:Right_elbow_extra4_jnt
+    100064: admar_rig_for_unity_bones2:Right_elbow_extra5_jnt
+    100066: admar_rig_for_unity_bones2:Right_elbow_extra6_jnt
+    100068: admar_rig_for_unity_bones2:Right_elbow_extra7_jnt
+    100070: admar_rig_for_unity_bones2:Right_knee_extra1_jnt
+    100072: admar_rig_for_unity_bones2:Right_knee_extra2_jnt
+    100074: admar_rig_for_unity_bones2:RightArm
+    100076: admar_rig_for_unity_bones2:RightFoot
+    100078: admar_rig_for_unity_bones2:RightForeArm
+    100080: admar_rig_for_unity_bones2:RightHand
+    100082: admar_rig_for_unity_bones2:RightHandIndex1
+    100084: admar_rig_for_unity_bones2:RightLeg
+    100086: admar_rig_for_unity_bones2:RightShoulder
+    100088: admar_rig_for_unity_bones2:RightToe_End
+    100090: admar_rig_for_unity_bones2:RightToeBase
+    100092: admar_rig_for_unity_bones2:RightUpLeg
+    100094: admar_rig_for_unity_bones2:Spine
+    100096: admar_rig_for_unity_bones2:Spine1
+    100098: admar_rig_for_unity_bones2:Spine2
+    100100: admar_rig_for_unity_bones2:transform1
+    100102: admar_rig_for_unity_bones2:transform2
+    100104: admar_rig_for_unity_bones2:transform3
+    100106: admar_rig_for_unity_bones2:transform4
+    100108: admar_rig_for_unity_bones2:transform5
+    100110: admar_rig_for_unity_bones2:transform6
+    100112: admar_rig_for_unity_bones2:transform7
+    100114: admar_rig_for_unity_bones2:transform8
+    100116: //RootNode
+    400000: admar_rig_for_unity_bones2:Head
+    400002: admar_rig_for_unity_bones2:HeadTop_End
+    400004: admar_rig_for_unity_bones2:Hips1
+    400006: admar_rig_for_unity_bones2:joint1
+    400008: admar_rig_for_unity_bones2:joint2
+    400010: admar_rig_for_unity_bones2:joint2 1
+    400012: admar_rig_for_unity_bones2:joint5
+    400014: admar_rig_for_unity_bones2:Left_elbow_extra1_jnt
+    400016: admar_rig_for_unity_bones2:Left_elbow_extra2_jnt
+    400018: admar_rig_for_unity_bones2:Left_elbow_extra3_jnt
+    400020: admar_rig_for_unity_bones2:Left_elbow_extra4_jnt
+    400022: admar_rig_for_unity_bones2:Left_elbow_extra5_jnt
+    400024: admar_rig_for_unity_bones2:Left_elbow_extra6_jnt
+    400026: admar_rig_for_unity_bones2:Left_elbow_extra7_jnt
+    400028: admar_rig_for_unity_bones2:Left_knee_extra1_jnt
+    400030: admar_rig_for_unity_bones2:Left_knee_extra2_jnt
+    400032: admar_rig_for_unity_bones2:LeftArm
+    400034: admar_rig_for_unity_bones2:LeftFoot
+    400036: admar_rig_for_unity_bones2:LeftForeArm
+    400038: admar_rig_for_unity_bones2:LeftHand
+    400040: admar_rig_for_unity_bones2:LeftHandIndex1
+    400042: admar_rig_for_unity_bones2:LeftLeg
+    400044: admar_rig_for_unity_bones2:LeftShoulder
+    400046: admar_rig_for_unity_bones2:LeftToe_End
+    400048: admar_rig_for_unity_bones2:LeftToeBase
+    400050: admar_rig_for_unity_bones2:LeftUpLeg
+    400052: admar_rig_for_unity_bones2:Main_geo1
+    400054: admar_rig_for_unity_bones2:Neck
+    400056: admar_rig_for_unity_bones2:Right_elbow_extra1_jnt
+    400058: admar_rig_for_unity_bones2:Right_elbow_extra2_jnt
+    400060: admar_rig_for_unity_bones2:Right_elbow_extra3_jnt
+    400062: admar_rig_for_unity_bones2:Right_elbow_extra4_jnt
+    400064: admar_rig_for_unity_bones2:Right_elbow_extra5_jnt
+    400066: admar_rig_for_unity_bones2:Right_elbow_extra6_jnt
+    400068: admar_rig_for_unity_bones2:Right_elbow_extra7_jnt
+    400070: admar_rig_for_unity_bones2:Right_knee_extra1_jnt
+    400072: admar_rig_for_unity_bones2:Right_knee_extra2_jnt
+    400074: admar_rig_for_unity_bones2:RightArm
+    400076: admar_rig_for_unity_bones2:RightFoot
+    400078: admar_rig_for_unity_bones2:RightForeArm
+    400080: admar_rig_for_unity_bones2:RightHand
+    400082: admar_rig_for_unity_bones2:RightHandIndex1
+    400084: admar_rig_for_unity_bones2:RightLeg
+    400086: admar_rig_for_unity_bones2:RightShoulder
+    400088: admar_rig_for_unity_bones2:RightToe_End
+    400090: admar_rig_for_unity_bones2:RightToeBase
+    400092: admar_rig_for_unity_bones2:RightUpLeg
+    400094: admar_rig_for_unity_bones2:Spine
+    400096: admar_rig_for_unity_bones2:Spine1
+    400098: admar_rig_for_unity_bones2:Spine2
+    400100: admar_rig_for_unity_bones2:transform1
+    400102: admar_rig_for_unity_bones2:transform2
+    400104: admar_rig_for_unity_bones2:transform3
+    400106: admar_rig_for_unity_bones2:transform4
+    400108: admar_rig_for_unity_bones2:transform5
+    400110: admar_rig_for_unity_bones2:transform6
+    400112: admar_rig_for_unity_bones2:transform7
+    400114: admar_rig_for_unity_bones2:transform8
+    400116: //RootNode
+    4300000: admar_rig_for_unity_bones2:Main_geo1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: admar_rig_for_unity_bones2:Main_geo1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg/admar_rig_for_unity_bones2:LeftFoot
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg/admar_rig_for_unity_bones2:LeftFoot/admar_rig_for_unity_bones2:LeftToeBase
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg/admar_rig_for_unity_bones2:LeftFoot/admar_rig_for_unity_bones2:LeftToeBase/admar_rig_for_unity_bones2:LeftToe_End
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg/admar_rig_for_unity_bones2:transform8
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg/admar_rig_for_unity_bones2:transform8/admar_rig_for_unity_bones2:Left_knee_extra1_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:LeftUpLeg/admar_rig_for_unity_bones2:LeftLeg/admar_rig_for_unity_bones2:transform8/admar_rig_for_unity_bones2:Left_knee_extra1_jnt/admar_rig_for_unity_bones2:Left_knee_extra2_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg/admar_rig_for_unity_bones2:RightFoot
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg/admar_rig_for_unity_bones2:RightFoot/admar_rig_for_unity_bones2:RightToeBase
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg/admar_rig_for_unity_bones2:RightFoot/admar_rig_for_unity_bones2:RightToeBase/admar_rig_for_unity_bones2:RightToe_End
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg/admar_rig_for_unity_bones2:transform7
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg/admar_rig_for_unity_bones2:transform7/admar_rig_for_unity_bones2:Right_knee_extra1_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:RightUpLeg/admar_rig_for_unity_bones2:RightLeg/admar_rig_for_unity_bones2:transform7/admar_rig_for_unity_bones2:Right_knee_extra1_jnt/admar_rig_for_unity_bones2:Right_knee_extra2_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:LeftHand
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:LeftHand/admar_rig_for_unity_bones2:LeftHandIndex1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt/admar_rig_for_unity_bones2:Left_elbow_extra2_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt/admar_rig_for_unity_bones2:Left_elbow_extra2_jnt/admar_rig_for_unity_bones2:Left_elbow_extra3_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt/admar_rig_for_unity_bones2:Left_elbow_extra4_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt/admar_rig_for_unity_bones2:Left_elbow_extra4_jnt/admar_rig_for_unity_bones2:Left_elbow_extra5_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt/admar_rig_for_unity_bones2:Left_elbow_extra6_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:LeftForeArm/admar_rig_for_unity_bones2:transform5/admar_rig_for_unity_bones2:Left_elbow_extra1_jnt/admar_rig_for_unity_bones2:Left_elbow_extra6_jnt/admar_rig_for_unity_bones2:Left_elbow_extra7_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:transform4
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:transform4/admar_rig_for_unity_bones2:joint1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:LeftArm/admar_rig_for_unity_bones2:transform4/admar_rig_for_unity_bones2:joint1/admar_rig_for_unity_bones2:joint2
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:LeftShoulder/admar_rig_for_unity_bones2:transform1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:Neck
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:Neck/admar_rig_for_unity_bones2:Head
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:Neck/admar_rig_for_unity_bones2:Head/admar_rig_for_unity_bones2:HeadTop_End
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:RightHand
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:RightHand/admar_rig_for_unity_bones2:RightHandIndex1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt/admar_rig_for_unity_bones2:Right_elbow_extra2_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt/admar_rig_for_unity_bones2:Right_elbow_extra2_jnt/admar_rig_for_unity_bones2:Right_elbow_extra3_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt/admar_rig_for_unity_bones2:Right_elbow_extra4_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt/admar_rig_for_unity_bones2:Right_elbow_extra4_jnt/admar_rig_for_unity_bones2:Right_elbow_extra5_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt/admar_rig_for_unity_bones2:Right_elbow_extra6_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:RightForeArm/admar_rig_for_unity_bones2:transform6/admar_rig_for_unity_bones2:Right_elbow_extra1_jnt/admar_rig_for_unity_bones2:Right_elbow_extra6_jnt/admar_rig_for_unity_bones2:Right_elbow_extra7_jnt
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:transform3
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:transform3/admar_rig_for_unity_bones2:joint5
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:RightArm/admar_rig_for_unity_bones2:transform3/admar_rig_for_unity_bones2:joint5/admar_rig_for_unity_bones2:joint2
+          1
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Hips1/admar_rig_for_unity_bones2:Spine/admar_rig_for_unity_bones2:Spine1/admar_rig_for_unity_bones2:Spine2/admar_rig_for_unity_bones2:RightShoulder/admar_rig_for_unity_bones2:transform2
+        weight: 1
+      - path: admar_rig_for_unity_bones2:Main_geo1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

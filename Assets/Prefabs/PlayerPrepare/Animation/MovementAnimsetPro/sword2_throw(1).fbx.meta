@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 31f11887e6cdad141a061697c8dd8790
+timeCreated: 1434652148
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box071
+    100002: group
+    100004: group 1
+    100006: group5
+    100008: sword2_jnt
+    100010: //RootNode
+    100012: transform9
+    400000: Box071
+    400002: group
+    400004: group 1
+    400006: group5
+    400008: sword2_jnt
+    400010: //RootNode
+    400012: transform9
+    4300000: Box071
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Box071
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 'MuscleClip ''sword2_throw(1)'' conversion failed: Required
+      human bone ''LeftUpperLeg'' not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: group
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: group5
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: group 1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Box071
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: sword2_throw(1)(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group
+      position: {x: .474377066, y: 1.76005113, z: .613239348}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group5
+      position: {x: -.0947984457, y: -.0231890287, z: .134508163}
+      rotation: {x: .727381527, y: 0, z: -.375294417, w: .574517369}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group 1
+      position: {x: -.385819972, y: -.790391386, z: -.747781813}
+      rotation: {x: -.548693597, y: .397764593, z: .121355176, w: .725252748}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Box071
+      position: {x: 1.91623688, y: 2.83247972, z: -.619941831}
+      rotation: {x: -.241949067, y: -.572279572, z: -.181660488, w: .762204826}
+      scale: {x: 3.50078273, y: 3.50078273, z: 3.50078273}
+      transformModified: 1
+    - name: transform9
+      position: {x: -.237279579, y: 2.10515308, z: 1.46165693}
+      rotation: {x: .708892643, y: .563411415, z: .104872316, w: .411145687}
+      scale: {x: 2.54000044, y: 2.54000044, z: 2.53999996}
+      transformModified: 1
+    - name: sword2_jnt
+      position: {x: 2.98639252e-10, y: .0486566387, z: -7.95224331e-10}
+      rotation: {x: 7.82761234e-08, y: 2.4235959e-08, z: 7.10301009e-08, w: 1}
+      scale: {x: .00897821411, y: .00897821411, z: .00897821411}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

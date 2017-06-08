@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 24a17474458f6b64a9d3db2855819fe2
+timeCreated: 1479295021
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group
+    100002: Object056
+    100004: Terron_light_Head
+    100006: Terron_light_Hips
+    100008: Terron_light_LeftArm
+    100010: Terron_light_LeftFoot
+    100012: Terron_light_LeftForeArm
+    100014: Terron_light_LeftHand
+    100016: Terron_light_LeftHandMiddle1
+    100018: Terron_light_LeftHandMiddle2
+    100020: Terron_light_LeftLeg
+    100022: Terron_light_LeftShoulder
+    100024: Terron_light_LeftToeBase
+    100026: Terron_light_LeftUpLeg
+    100028: Terron_light_Neck
+    100030: Terron_light_Reference
+    100032: //RootNode
+    100034: Terron_light_RightArm
+    100036: Terron_light_RightFoot
+    100038: Terron_light_RightForeArm
+    100040: Terron_light_RightHand
+    100042: Terron_light_RightHandMiddle1
+    100044: Terron_light_RightHandMiddle2
+    100046: Terron_light_RightLeg
+    100048: Terron_light_RightShoulder
+    100050: Terron_light_RightToeBase
+    100052: Terron_light_RightUpLeg
+    100054: Terron_light_Spine
+    100056: Terron_light_Spine1
+    100058: Terron_light_Spine2
+    400000: group
+    400002: Object056
+    400004: Terron_light_Head
+    400006: Terron_light_Hips
+    400008: Terron_light_LeftArm
+    400010: Terron_light_LeftFoot
+    400012: Terron_light_LeftForeArm
+    400014: Terron_light_LeftHand
+    400016: Terron_light_LeftHandMiddle1
+    400018: Terron_light_LeftHandMiddle2
+    400020: Terron_light_LeftLeg
+    400022: Terron_light_LeftShoulder
+    400024: Terron_light_LeftToeBase
+    400026: Terron_light_LeftUpLeg
+    400028: Terron_light_Neck
+    400030: Terron_light_Reference
+    400032: //RootNode
+    400034: Terron_light_RightArm
+    400036: Terron_light_RightFoot
+    400038: Terron_light_RightForeArm
+    400040: Terron_light_RightHand
+    400042: Terron_light_RightHandMiddle1
+    400044: Terron_light_RightHandMiddle2
+    400046: Terron_light_RightLeg
+    400048: Terron_light_RightShoulder
+    400050: Terron_light_RightToeBase
+    400052: Terron_light_RightUpLeg
+    400054: Terron_light_Spine
+    400056: Terron_light_Spine1
+    400058: Terron_light_Spine2
+    4300000: Object056
+    9500000: //RootNode
+    13700000: Object056
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

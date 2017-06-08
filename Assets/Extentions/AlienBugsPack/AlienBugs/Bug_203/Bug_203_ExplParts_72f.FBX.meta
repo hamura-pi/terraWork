@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 00fb0f0c5f099f34b81e11e6f802847c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EggBug_ExplosionPart00
+    100004: EggBug_ExplosionPart01
+    100006: EggBug_ExplosionPart02
+    100008: EggBug_ExplosionPart03
+    100010: EggBug_ExplosionPart04
+    100012: EggBug_ExplosionPart05
+    100014: EggBug_ExplosionPart06
+    400000: //RootNode
+    400002: EggBug_ExplosionPart00
+    400004: EggBug_ExplosionPart01
+    400006: EggBug_ExplosionPart02
+    400008: EggBug_ExplosionPart03
+    400010: EggBug_ExplosionPart04
+    400012: EggBug_ExplosionPart05
+    400014: EggBug_ExplosionPart06
+    2300000: EggBug_ExplosionPart00
+    2300002: EggBug_ExplosionPart01
+    2300004: EggBug_ExplosionPart02
+    2300006: EggBug_ExplosionPart03
+    2300008: EggBug_ExplosionPart04
+    2300010: EggBug_ExplosionPart05
+    2300012: EggBug_ExplosionPart06
+    3300000: EggBug_ExplosionPart00
+    3300002: EggBug_ExplosionPart01
+    3300004: EggBug_ExplosionPart02
+    3300006: EggBug_ExplosionPart03
+    3300008: EggBug_ExplosionPart04
+    3300010: EggBug_ExplosionPart05
+    3300012: EggBug_ExplosionPart06
+    4300000: EggBug_ExplosionPart01
+    4300002: EggBug_ExplosionPart00
+    4300004: EggBug_ExplosionPart03
+    4300006: EggBug_ExplosionPart02
+    4300008: EggBug_ExplosionPart04
+    4300010: EggBug_ExplosionPart05
+    4300012: EggBug_ExplosionPart06
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00499999989
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 204bbb2f6ec0d724690ec5ffff5dcce3
+timeCreated: 1475327832
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: turret_006_v3_1
+    100004: turret_006_v3_33
+    100006: turret_006_v3_34
+    100008: turret_006_v3_35
+    100010: turret_006_v3_36
+    100012: turret_006_v3_37
+    100014: turret_006_v3_38
+    100016: turret_006_v3_39
+    100018: turret_006_v3_40
+    100020: turret_006_v3_41
+    100022: turret_006_v3_42
+    100024: turret_006_v3_43
+    100026: turret_006_v3_44
+    100028: turret_006_v3_45
+    100030: turret_006_v3_46
+    100032: turret_006_v3_47
+    100034: turret_006_v3_48
+    100036: turret_006_v3_49
+    100038: turret_006_v3_50
+    100040: turret_006_v3_51
+    100042: turret_006_v3_52
+    100044: turret_006_v3_53
+    400000: //RootNode
+    400002: turret_006_v3_1
+    400004: turret_006_v3_33
+    400006: turret_006_v3_34
+    400008: turret_006_v3_35
+    400010: turret_006_v3_36
+    400012: turret_006_v3_37
+    400014: turret_006_v3_38
+    400016: turret_006_v3_39
+    400018: turret_006_v3_40
+    400020: turret_006_v3_41
+    400022: turret_006_v3_42
+    400024: turret_006_v3_43
+    400026: turret_006_v3_44
+    400028: turret_006_v3_45
+    400030: turret_006_v3_46
+    400032: turret_006_v3_47
+    400034: turret_006_v3_48
+    400036: turret_006_v3_49
+    400038: turret_006_v3_50
+    400040: turret_006_v3_51
+    400042: turret_006_v3_52
+    400044: turret_006_v3_53
+    2300000: //RootNode
+    2300002: turret_006_v3_1
+    2300004: turret_006_v3_33
+    2300006: turret_006_v3_34
+    2300008: turret_006_v3_35
+    2300010: turret_006_v3_36
+    2300012: turret_006_v3_37
+    2300014: turret_006_v3_38
+    2300016: turret_006_v3_39
+    2300018: turret_006_v3_40
+    2300020: turret_006_v3_41
+    2300022: turret_006_v3_42
+    2300024: turret_006_v3_43
+    2300026: turret_006_v3_44
+    2300028: turret_006_v3_45
+    2300030: turret_006_v3_46
+    2300032: turret_006_v3_47
+    2300034: turret_006_v3_48
+    2300036: turret_006_v3_49
+    2300038: turret_006_v3_50
+    2300040: turret_006_v3_51
+    2300042: turret_006_v3_52
+    2300044: turret_006_v3_53
+    3300000: //RootNode
+    3300002: turret_006_v3_1
+    3300004: turret_006_v3_33
+    3300006: turret_006_v3_34
+    3300008: turret_006_v3_35
+    3300010: turret_006_v3_36
+    3300012: turret_006_v3_37
+    3300014: turret_006_v3_38
+    3300016: turret_006_v3_39
+    3300018: turret_006_v3_40
+    3300020: turret_006_v3_41
+    3300022: turret_006_v3_42
+    3300024: turret_006_v3_43
+    3300026: turret_006_v3_44
+    3300028: turret_006_v3_45
+    3300030: turret_006_v3_46
+    3300032: turret_006_v3_47
+    3300034: turret_006_v3_48
+    3300036: turret_006_v3_49
+    3300038: turret_006_v3_50
+    3300040: turret_006_v3_51
+    3300042: turret_006_v3_52
+    3300044: turret_006_v3_53
+    4300000: turret_006_v3
+    4300002: turret_006_v3_1
+    4300004: turret_006_v3_33
+    4300006: turret_006_v3_34
+    4300008: turret_006_v3_35
+    4300010: turret_006_v3_36
+    4300012: turret_006_v3_37
+    4300014: turret_006_v3_38
+    4300016: turret_006_v3_39
+    4300018: turret_006_v3_40
+    4300020: turret_006_v3_41
+    4300022: turret_006_v3_42
+    4300024: turret_006_v3_43
+    4300026: turret_006_v3_44
+    4300028: turret_006_v3_45
+    4300030: turret_006_v3_46
+    4300032: turret_006_v3_47
+    4300034: turret_006_v3_48
+    4300036: turret_006_v3_49
+    4300038: turret_006_v3_50
+    4300040: turret_006_v3_51
+    4300042: turret_006_v3_52
+    4300044: turret_006_v3_53
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

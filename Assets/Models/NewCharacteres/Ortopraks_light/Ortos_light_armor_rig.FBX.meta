@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 1a7724375967c744f887cd522e082040
+timeCreated: 1479296439
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ortopraks_light_Head
+    100002: Ortopraks_light_Hips
+    100004: Ortopraks_light_LeftArm
+    100006: Ortopraks_light_LeftFoot
+    100008: Ortopraks_light_LeftForeArm
+    100010: Ortopraks_light_LeftHand
+    100012: Ortopraks_light_LeftHandMiddle1
+    100014: Ortopraks_light_LeftHandMiddle2
+    100016: Ortopraks_light_LeftLeg
+    100018: Ortopraks_light_LeftShoulder
+    100020: Ortopraks_light_LeftToeBase
+    100022: Ortopraks_light_LeftUpLeg
+    100024: Ortopraks_light_mesh
+    100026: Ortopraks_light_Neck
+    100028: Ortopraks_light_RightArm
+    100030: Ortopraks_light_RightFoot
+    100032: Ortopraks_light_RightForeArm
+    100034: Ortopraks_light_RightHand
+    100036: Ortopraks_light_RightHandMiddle1
+    100038: Ortopraks_light_RightHandMiddle2
+    100040: Ortopraks_light_RightLeg
+    100042: Ortopraks_light_RightShoulder
+    100044: Ortopraks_light_RightToeBase
+    100046: Ortopraks_light_RightUpLeg
+    100048: Ortopraks_light_Spine
+    100050: Ortopraks_light_Spine1
+    100052: Ortopraks_light_Spine2
+    100054: //RootNode
+    400000: Ortopraks_light_Head
+    400002: Ortopraks_light_Hips
+    400004: Ortopraks_light_LeftArm
+    400006: Ortopraks_light_LeftFoot
+    400008: Ortopraks_light_LeftForeArm
+    400010: Ortopraks_light_LeftHand
+    400012: Ortopraks_light_LeftHandMiddle1
+    400014: Ortopraks_light_LeftHandMiddle2
+    400016: Ortopraks_light_LeftLeg
+    400018: Ortopraks_light_LeftShoulder
+    400020: Ortopraks_light_LeftToeBase
+    400022: Ortopraks_light_LeftUpLeg
+    400024: Ortopraks_light_mesh
+    400026: Ortopraks_light_Neck
+    400028: Ortopraks_light_RightArm
+    400030: Ortopraks_light_RightFoot
+    400032: Ortopraks_light_RightForeArm
+    400034: Ortopraks_light_RightHand
+    400036: Ortopraks_light_RightHandMiddle1
+    400038: Ortopraks_light_RightHandMiddle2
+    400040: Ortopraks_light_RightLeg
+    400042: Ortopraks_light_RightShoulder
+    400044: Ortopraks_light_RightToeBase
+    400046: Ortopraks_light_RightUpLeg
+    400048: Ortopraks_light_Spine
+    400050: Ortopraks_light_Spine1
+    400052: Ortopraks_light_Spine2
+    400054: //RootNode
+    4300000: Ortopraks_light_mesh
+    9500000: //RootNode
+    13700000: Ortopraks_light_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

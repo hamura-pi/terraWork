@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: f2e8cf2477b21264f815ed6bf60774d1
+timeCreated: 1442521647
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ball_big_jnt
+    100002: Ball_small_jnt
+    100004: Blendshapes
+    100006: group
+    100008: //RootNode
+    100010: joint10
+    100012: joint12
+    100014: joint13
+    100016: joint14
+    100018: joint15
+    100020: joint16
+    100022: joint17
+    100024: joint18
+    100026: joint19
+    100028: joint2
+    100030: joint2 1
+    100032: joint2 2
+    100034: joint2 3
+    100036: joint20
+    100038: joint21
+    100040: joint22
+    100042: joint23
+    100044: joint24
+    100046: joint25
+    100048: joint26
+    100050: joint27
+    100052: joint28
+    100054: joint28 1
+    100056: joint29
+    100058: joint3
+    100060: joint30
+    100062: joint31
+    100064: joint32
+    100066: joint33
+    100068: joint34
+    100070: joint35
+    100072: joint36
+    100074: joint4
+    100076: joint4 1
+    100078: joint4 2
+    100080: joint5
+    100082: joint5 1
+    100084: joint5 2
+    100086: joint6
+    100088: joint6 1
+    100090: joint6 2
+    100092: joint7
+    100094: joint7 1
+    100096: joint7 2
+    100098: joint8
+    100100: joint8 1
+    100102: joint8 2
+    100104: joint9
+    100106: joint9 1
+    100108: joint9 2
+    100110: Object006
+    100112: polySurface1
+    100114: polySurface10
+    100116: polySurface11
+    100118: polySurface12
+    100120: polySurface13
+    100122: polySurface14
+    100124: polySurface15
+    100126: polySurface16
+    100128: polySurface17
+    100130: polySurface18
+    100132: polySurface19
+    100134: polySurface2
+    100136: polySurface20
+    100138: polySurface21
+    100140: polySurface22
+    100142: polySurface23
+    100144: polySurface24
+    100146: polySurface25
+    100148: polySurface26
+    100150: polySurface27
+    100152: polySurface28
+    100154: polySurface29
+    100156: polySurface3
+    100158: polySurface30
+    100160: polySurface31
+    100162: polySurface32
+    100164: polySurface33
+    100166: polySurface4
+    100168: polySurface47
+    100170: polySurface5
+    100172: polySurface56
+    100174: polySurface57
+    100176: polySurface58
+    100178: polySurface6
+    100180: polySurface7
+    100182: polySurface8
+    100184: polySurface9
+    400000: Ball_big_jnt
+    400002: Ball_small_jnt
+    400004: Blendshapes
+    400006: group
+    400008: //RootNode
+    400010: joint10
+    400012: joint12
+    400014: joint13
+    400016: joint14
+    400018: joint15
+    400020: joint16
+    400022: joint17
+    400024: joint18
+    400026: joint19
+    400028: joint2
+    400030: joint2 1
+    400032: joint2 2
+    400034: joint2 3
+    400036: joint20
+    400038: joint21
+    400040: joint22
+    400042: joint23
+    400044: joint24
+    400046: joint25
+    400048: joint26
+    400050: joint27
+    400052: joint28
+    400054: joint28 1
+    400056: joint29
+    400058: joint3
+    400060: joint30
+    400062: joint31
+    400064: joint32
+    400066: joint33
+    400068: joint34
+    400070: joint35
+    400072: joint36
+    400074: joint4
+    400076: joint4 1
+    400078: joint4 2
+    400080: joint5
+    400082: joint5 1
+    400084: joint5 2
+    400086: joint6
+    400088: joint6 1
+    400090: joint6 2
+    400092: joint7
+    400094: joint7 1
+    400096: joint7 2
+    400098: joint8
+    400100: joint8 1
+    400102: joint8 2
+    400104: joint9
+    400106: joint9 1
+    400108: joint9 2
+    400110: Object006
+    400112: polySurface1
+    400114: polySurface10
+    400116: polySurface11
+    400118: polySurface12
+    400120: polySurface13
+    400122: polySurface14
+    400124: polySurface15
+    400126: polySurface16
+    400128: polySurface17
+    400130: polySurface18
+    400132: polySurface19
+    400134: polySurface2
+    400136: polySurface20
+    400138: polySurface21
+    400140: polySurface22
+    400142: polySurface23
+    400144: polySurface24
+    400146: polySurface25
+    400148: polySurface26
+    400150: polySurface27
+    400152: polySurface28
+    400154: polySurface29
+    400156: polySurface3
+    400158: polySurface30
+    400160: polySurface31
+    400162: polySurface32
+    400164: polySurface33
+    400166: polySurface4
+    400168: polySurface47
+    400170: polySurface5
+    400172: polySurface56
+    400174: polySurface57
+    400176: polySurface58
+    400178: polySurface6
+    400180: polySurface7
+    400182: polySurface8
+    400184: polySurface9
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface5
+    4300010: polySurface6
+    4300012: polySurface7
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: polySurface10
+    4300020: polySurface11
+    4300022: polySurface12
+    4300024: polySurface13
+    4300026: polySurface14
+    4300028: polySurface15
+    4300030: polySurface16
+    4300032: polySurface17
+    4300034: polySurface18
+    4300036: polySurface19
+    4300038: polySurface20
+    4300040: polySurface21
+    4300042: polySurface22
+    4300044: polySurface23
+    4300046: polySurface24
+    4300048: polySurface25
+    4300050: polySurface26
+    4300052: polySurface27
+    4300054: polySurface28
+    4300056: polySurface29
+    4300058: polySurface30
+    4300060: polySurface31
+    4300062: polySurface32
+    4300064: polySurface33
+    4300066: polySurface57
+    4300068: polySurface58
+    4300070: polySurface56
+    4300072: polySurface47
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface1
+    13700002: polySurface10
+    13700004: polySurface11
+    13700006: polySurface12
+    13700008: polySurface13
+    13700010: polySurface14
+    13700012: polySurface15
+    13700014: polySurface16
+    13700016: polySurface17
+    13700018: polySurface18
+    13700020: polySurface19
+    13700022: polySurface2
+    13700024: polySurface20
+    13700026: polySurface21
+    13700028: polySurface22
+    13700030: polySurface23
+    13700032: polySurface24
+    13700034: polySurface25
+    13700036: polySurface26
+    13700038: polySurface27
+    13700040: polySurface28
+    13700042: polySurface29
+    13700044: polySurface3
+    13700046: polySurface30
+    13700048: polySurface31
+    13700050: polySurface32
+    13700052: polySurface33
+    13700054: polySurface4
+    13700056: polySurface47
+    13700058: polySurface5
+    13700060: polySurface56
+    13700062: polySurface57
+    13700064: polySurface58
+    13700066: polySurface6
+    13700068: polySurface7
+    13700070: polySurface8
+    13700072: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

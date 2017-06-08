@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 5593ffff00d7e194fad7351c606e756e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bug_201
+    100004: Bug_201_Gun
+    100006: Bug_201_RigBody
+    100008: Bug_201_RigGun
+    100010: Bug_201_RigHead
+    100012: Bug_201_RigLArm1
+    100014: Bug_201_RigLArm2
+    100016: Bug_201_RigLArm3
+    100018: Bug_201_RigLArmDigit11
+    100020: Bug_201_RigLArmDigit12
+    100022: Bug_201_RigLArmDigit13
+    100024: Bug_201_RigLArmDigit21
+    100026: Bug_201_RigLArmDigit22
+    100028: Bug_201_RigLArmDigit23
+    100030: Bug_201_RigLArmPalm
+    100032: Bug_201_RigLLeg1
+    100034: Bug_201_RigLLeg1 1
+    100036: Bug_201_RigLLeg2
+    100038: Bug_201_RigLLeg2 1
+    100040: Bug_201_RigLLeg3
+    100042: Bug_201_RigLLeg3 1
+    100044: Bug_201_RigNeck
+    100046: Bug_201_RigRArm1
+    100048: Bug_201_RigRArm2
+    100050: Bug_201_RigRArm3
+    100052: Bug_201_RigRArmDigit11
+    100054: Bug_201_RigRArmDigit12
+    100056: Bug_201_RigRArmDigit13
+    100058: Bug_201_RigRArmDigit21
+    100060: Bug_201_RigRArmDigit22
+    100062: Bug_201_RigRArmDigit23
+    100064: Bug_201_RigRArmPalm
+    100066: Bug_201_RigRibCage
+    100068: Bug_201_RigRLeg1
+    100070: Bug_201_RigRLeg1 1
+    100072: Bug_201_RigRLeg2
+    100074: Bug_201_RigRLeg2 1
+    100076: Bug_201_RigRLeg3
+    100078: Bug_201_RigRLeg3 1
+    100080: Bug_201_RigSpine
+    400000: //RootNode
+    400002: Bug_201
+    400004: Bug_201_Gun
+    400006: Bug_201_RigBody
+    400008: Bug_201_RigGun
+    400010: Bug_201_RigHead
+    400012: Bug_201_RigLArm1
+    400014: Bug_201_RigLArm2
+    400016: Bug_201_RigLArm3
+    400018: Bug_201_RigLArmDigit11
+    400020: Bug_201_RigLArmDigit12
+    400022: Bug_201_RigLArmDigit13
+    400024: Bug_201_RigLArmDigit21
+    400026: Bug_201_RigLArmDigit22
+    400028: Bug_201_RigLArmDigit23
+    400030: Bug_201_RigLArmPalm
+    400032: Bug_201_RigLLeg1
+    400034: Bug_201_RigLLeg1 1
+    400036: Bug_201_RigLLeg2
+    400038: Bug_201_RigLLeg2 1
+    400040: Bug_201_RigLLeg3
+    400042: Bug_201_RigLLeg3 1
+    400044: Bug_201_RigNeck
+    400046: Bug_201_RigRArm1
+    400048: Bug_201_RigRArm2
+    400050: Bug_201_RigRArm3
+    400052: Bug_201_RigRArmDigit11
+    400054: Bug_201_RigRArmDigit12
+    400056: Bug_201_RigRArmDigit13
+    400058: Bug_201_RigRArmDigit21
+    400060: Bug_201_RigRArmDigit22
+    400062: Bug_201_RigRArmDigit23
+    400064: Bug_201_RigRArmPalm
+    400066: Bug_201_RigRibCage
+    400068: Bug_201_RigRLeg1
+    400070: Bug_201_RigRLeg1 1
+    400072: Bug_201_RigRLeg2
+    400074: Bug_201_RigRLeg2 1
+    400076: Bug_201_RigRLeg3
+    400078: Bug_201_RigRLeg3 1
+    400080: Bug_201_RigSpine
+    4300000: Bug_201
+    4300002: Bug_201_Gun
+    7400000: Idle
+    7400002: Attack
+    7400004: HitFront
+    7400006: HitRight
+    7400008: HitLeft
+    7400010: Die
+    7400012: Walk
+    9500000: //RootNode
+    13700000: Bug_201
+    13700002: Bug_201_Gun
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: HitFront
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: HitRight
+      takeName: Take 001
+      firstFrame: 165
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: HitLeft
+      takeName: Take 001
+      firstFrame: 190
+      lastFrame: 205
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 215
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00300000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

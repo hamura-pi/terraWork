@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 98ff7ed3ea0e1af4a9535c36b9cae4d8
+timeCreated: 1436966516
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: extra_joint17_jnt
+    100004: extra_joint18_jnt
+    100006: extra_joint19_jnt
+    100008: extra_joint1_jnt
+    100010: extra_joint20_jnt
+    100012: extra_joint21_jnt
+    100014: extra_joint22_jnt
+    100016: extra_joint23_jnt
+    100018: extra_joint24_jnt
+    100020: extra_joint2_jnt
+    100022: extra_joint30_jnt
+    100024: extra_joint30_transform12_jnt
+    100026: extra_joint30_transform13_jnt
+    100028: extra_joint30_transform17_jnt
+    100030: extra_joint37_jnt
+    100032: extra_joint38_jnt
+    100034: extra_joint38_transform12_jnt
+    100036: extra_joint38_transform13_jnt
+    100038: extra_joint38_transform17_jnt
+    100040: extra_transform19_jnt
+    100042: group
+    100044: group 1
+    100046: group 2
+    100048: group1
+    100050: group3
+    100052: group4
+    100054: group5
+    100056: group6
+    100058: joint13
+    100060: joint14
+    100062: joint15
+    100064: joint16
+    100066: joint28
+    100068: joint3
+    100070: joint30
+    100072: joint30 1
+    100074: joint30 2
+    100076: joint33
+    100078: joint33 1
+    100080: joint33 2
+    100082: joint34
+    100084: joint35
+    100086: joint35 1
+    100088: joint35 2
+    100090: joint36
+    100092: joint37
+    100094: joint38
+    100096: joint38 1
+    100098: joint38 2
+    100100: joint38 3
+    100102: joint39
+    100104: joint4
+    100106: joint40
+    100108: joint41
+    100110: joint42
+    100112: joint43
+    100114: joint46
+    100116: joint5
+    100118: joint50
+    100120: joint51
+    100122: joint6
+    100124: joint7
+    100126: left
+    100128: Object018
+    100130: Object023
+    100132: Object024
+    100134: Object025
+    100136: Object026
+    400000: //RootNode
+    400002: extra_joint17_jnt
+    400004: extra_joint18_jnt
+    400006: extra_joint19_jnt
+    400008: extra_joint1_jnt
+    400010: extra_joint20_jnt
+    400012: extra_joint21_jnt
+    400014: extra_joint22_jnt
+    400016: extra_joint23_jnt
+    400018: extra_joint24_jnt
+    400020: extra_joint2_jnt
+    400022: extra_joint30_jnt
+    400024: extra_joint30_transform12_jnt
+    400026: extra_joint30_transform13_jnt
+    400028: extra_joint30_transform17_jnt
+    400030: extra_joint37_jnt
+    400032: extra_joint38_jnt
+    400034: extra_joint38_transform12_jnt
+    400036: extra_joint38_transform13_jnt
+    400038: extra_joint38_transform17_jnt
+    400040: extra_transform19_jnt
+    400042: group
+    400044: group 1
+    400046: group 2
+    400048: group1
+    400050: group3
+    400052: group4
+    400054: group5
+    400056: group6
+    400058: joint13
+    400060: joint14
+    400062: joint15
+    400064: joint16
+    400066: joint28
+    400068: joint3
+    400070: joint30
+    400072: joint30 1
+    400074: joint30 2
+    400076: joint33
+    400078: joint33 1
+    400080: joint33 2
+    400082: joint34
+    400084: joint35
+    400086: joint35 1
+    400088: joint35 2
+    400090: joint36
+    400092: joint37
+    400094: joint38
+    400096: joint38 1
+    400098: joint38 2
+    400100: joint38 3
+    400102: joint39
+    400104: joint4
+    400106: joint40
+    400108: joint41
+    400110: joint42
+    400112: joint43
+    400114: joint46
+    400116: joint5
+    400118: joint50
+    400120: joint51
+    400122: joint6
+    400124: joint7
+    400126: left
+    400128: Object018
+    400130: Object023
+    400132: Object024
+    400134: Object025
+    400136: Object026
+    4300000: Object023
+    4300002: Object024
+    4300004: Object025
+    4300006: Object026
+    4300008: Object018
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object018
+    13700002: Object023
+    13700004: Object024
+    13700006: Object025
+    13700008: Object026
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

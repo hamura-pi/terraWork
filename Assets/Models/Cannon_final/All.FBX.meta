@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3f35e96da355fb9469762c37ee6351a5
+timeCreated: 1441726265
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object006
+    100004: Object007
+    100006: Object008
+    100008: Object009
+    100010: Object010
+    100012: Object011
+    100014: Object012
+    100016: Object013
+    100018: Object014
+    100020: Object015
+    100022: Object019
+    100024: Object020
+    100026: Object021
+    100028: Object022
+    100030: Object023
+    100032: Object024
+    100034: Plane003
+    100036: Plane004
+    100038: Plane005
+    100040: Plane006
+    400000: //RootNode
+    400002: Object006
+    400004: Object007
+    400006: Object008
+    400008: Object009
+    400010: Object010
+    400012: Object011
+    400014: Object012
+    400016: Object013
+    400018: Object014
+    400020: Object015
+    400022: Object019
+    400024: Object020
+    400026: Object021
+    400028: Object022
+    400030: Object023
+    400032: Object024
+    400034: Plane003
+    400036: Plane004
+    400038: Plane005
+    400040: Plane006
+    2300000: Object006
+    2300002: Object007
+    2300004: Object008
+    2300006: Object009
+    2300008: Object010
+    2300010: Object011
+    2300012: Object012
+    2300014: Object013
+    2300016: Object014
+    2300018: Object015
+    2300020: Object019
+    2300022: Object020
+    2300024: Object021
+    2300026: Object022
+    2300028: Object023
+    2300030: Object024
+    2300032: Plane003
+    2300034: Plane004
+    2300036: Plane005
+    2300038: Plane006
+    3300000: Object006
+    3300002: Object007
+    3300004: Object008
+    3300006: Object009
+    3300008: Object010
+    3300010: Object011
+    3300012: Object012
+    3300014: Object013
+    3300016: Object014
+    3300018: Object015
+    3300020: Object019
+    3300022: Object020
+    3300024: Object021
+    3300026: Object022
+    3300028: Object023
+    3300030: Object024
+    3300032: Plane003
+    3300034: Plane004
+    3300036: Plane005
+    3300038: Plane006
+    4300000: Object006
+    4300002: Object007
+    4300004: Object008
+    4300006: Object009
+    4300008: Object010
+    4300010: Plane003
+    4300012: Plane004
+    4300014: Object011
+    4300016: Object012
+    4300018: Object013
+    4300020: Object014
+    4300022: Object015
+    4300024: Plane005
+    4300026: Object019
+    4300028: Object020
+    4300030: Object021
+    4300032: Object022
+    4300034: Plane006
+    4300036: Object023
+    4300038: Object024
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

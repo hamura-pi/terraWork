@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 8e1b8c86d5a43804b9c5d82704e24337
+timeCreated: 1479296506
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Object057
+    100002: Ortopraks_light_Head
+    100004: Ortopraks_light_Hips
+    100006: Ortopraks_light_LeftArm
+    100008: Ortopraks_light_LeftFoot
+    100010: Ortopraks_light_LeftForeArm
+    100012: Ortopraks_light_LeftHand
+    100014: Ortopraks_light_LeftHandMiddle1
+    100016: Ortopraks_light_LeftHandMiddle2
+    100018: Ortopraks_light_LeftLeg
+    100020: Ortopraks_light_LeftShoulder
+    100022: Ortopraks_light_LeftToeBase
+    100024: Ortopraks_light_LeftUpLeg
+    100026: Ortopraks_light_Neck
+    100028: Ortopraks_light_Reference
+    100030: Ortopraks_light_RightArm
+    100032: Ortopraks_light_RightFoot
+    100034: Ortopraks_light_RightForeArm
+    100036: Ortopraks_light_RightHand
+    100038: Ortopraks_light_RightHandMiddle1
+    100040: Ortopraks_light_RightHandMiddle2
+    100042: Ortopraks_light_RightLeg
+    100044: Ortopraks_light_RightShoulder
+    100046: Ortopraks_light_RightToeBase
+    100048: Ortopraks_light_RightUpLeg
+    100050: Ortopraks_light_Spine
+    100052: Ortopraks_light_Spine1
+    100054: Ortopraks_light_Spine2
+    100056: //RootNode
+    400000: Object057
+    400002: Ortopraks_light_Head
+    400004: Ortopraks_light_Hips
+    400006: Ortopraks_light_LeftArm
+    400008: Ortopraks_light_LeftFoot
+    400010: Ortopraks_light_LeftForeArm
+    400012: Ortopraks_light_LeftHand
+    400014: Ortopraks_light_LeftHandMiddle1
+    400016: Ortopraks_light_LeftHandMiddle2
+    400018: Ortopraks_light_LeftLeg
+    400020: Ortopraks_light_LeftShoulder
+    400022: Ortopraks_light_LeftToeBase
+    400024: Ortopraks_light_LeftUpLeg
+    400026: Ortopraks_light_Neck
+    400028: Ortopraks_light_Reference
+    400030: Ortopraks_light_RightArm
+    400032: Ortopraks_light_RightFoot
+    400034: Ortopraks_light_RightForeArm
+    400036: Ortopraks_light_RightHand
+    400038: Ortopraks_light_RightHandMiddle1
+    400040: Ortopraks_light_RightHandMiddle2
+    400042: Ortopraks_light_RightLeg
+    400044: Ortopraks_light_RightShoulder
+    400046: Ortopraks_light_RightToeBase
+    400048: Ortopraks_light_RightUpLeg
+    400050: Ortopraks_light_Spine
+    400052: Ortopraks_light_Spine1
+    400054: Ortopraks_light_Spine2
+    400056: //RootNode
+    4300000: Object057
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object057
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Ortopraks_light_Spine2' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Object057
+        weight: 0
+      - path: Ortopraks_light_Reference
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_LeftUpLeg
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_LeftUpLeg/Ortopraks_light_LeftLeg
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_LeftUpLeg/Ortopraks_light_LeftLeg/Ortopraks_light_LeftFoot
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_LeftUpLeg/Ortopraks_light_LeftLeg/Ortopraks_light_LeftFoot/Ortopraks_light_LeftToeBase
+        weight: 0
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_RightUpLeg
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_RightUpLeg/Ortopraks_light_RightLeg
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_RightUpLeg/Ortopraks_light_RightLeg/Ortopraks_light_RightFoot
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_RightUpLeg/Ortopraks_light_RightLeg/Ortopraks_light_RightFoot/Ortopraks_light_RightToeBase
+        weight: 0
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_LeftShoulder
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_LeftShoulder/Ortopraks_light_LeftArm
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_LeftShoulder/Ortopraks_light_LeftArm/Ortopraks_light_LeftForeArm
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_LeftShoulder/Ortopraks_light_LeftArm/Ortopraks_light_LeftForeArm/Ortopraks_light_LeftHand
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_LeftShoulder/Ortopraks_light_LeftArm/Ortopraks_light_LeftForeArm/Ortopraks_light_LeftHand/Ortopraks_light_LeftHandMiddle1
+        weight: 0
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_LeftShoulder/Ortopraks_light_LeftArm/Ortopraks_light_LeftForeArm/Ortopraks_light_LeftHand/Ortopraks_light_LeftHandMiddle1/Ortopraks_light_LeftHandMiddle2
+        weight: 0
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_Neck
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_Neck/Ortopraks_light_Head
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_RightShoulder
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_RightShoulder/Ortopraks_light_RightArm
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_RightShoulder/Ortopraks_light_RightArm/Ortopraks_light_RightForeArm
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_RightShoulder/Ortopraks_light_RightArm/Ortopraks_light_RightForeArm/Ortopraks_light_RightHand
+        weight: 1
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_RightShoulder/Ortopraks_light_RightArm/Ortopraks_light_RightForeArm/Ortopraks_light_RightHand/Ortopraks_light_RightHandMiddle1
+        weight: 0
+      - path: Ortopraks_light_Reference/Ortopraks_light_Hips/Ortopraks_light_Spine/Ortopraks_light_Spine1/Ortopraks_light_Spine2/Ortopraks_light_RightShoulder/Ortopraks_light_RightArm/Ortopraks_light_RightForeArm/Ortopraks_light_RightHand/Ortopraks_light_RightHandMiddle1/Ortopraks_light_RightHandMiddle2
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Ortopraks_light_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ortopraks_light_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Ortos_light_armor_idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object057
+      parentName: Ortos_light_armor_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_light_Reference
+      parentName: Ortos_light_armor_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_light_Hips
+      parentName: Ortopraks_light_Reference
+      position: {x: -0.000000014901161, y: 2.0557077, z: 0}
+      rotation: {x: 1.6940662e-17, y: -0.000000005820767, z: 9.860765e-26, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Ortopraks_light_LeftUpLeg
+      parentName: Ortopraks_light_Hips
+      position: {x: -0.29244328, y: -0.12598541, z: 0.0000000065229355}
+      rotation: {x: -0.000000023755671, y: 0.0000000042728203, z: -0.058731984, w: 0.9982738}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Ortopraks_light_LeftLeg
+      parentName: Ortopraks_light_LeftUpLeg
+      position: {x: -0.000000036761243, y: -0.9017631, z: -0.00000007802767}
+      rotation: {x: 0.000000011641533, y: -0.000000008731149, z: -1.2179504e-16, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Ortopraks_light_LeftFoot
+      parentName: Ortopraks_light_LeftLeg
+      position: {x: 0.000000021456206, y: -0.8178194, z: 0.00000004179668}
+      rotation: {x: 0.000000012347776, y: 0.000000022601883, z: 0.05873142, w: 0.99827385}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Ortopraks_light_LeftToeBase
+      parentName: Ortopraks_light_LeftFoot
+      position: {x: -0.00000018016901, y: -0.12583102, z: 0.2603039}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Ortopraks_light_RightUpLeg
+      parentName: Ortopraks_light_Hips
+      position: {x: 0.2924433, y: -0.12598549, z: 0.000000008455315}
+      rotation: {x: -0.0000000010255853, y: 0.000000029053595, z: 0.058731426, w: 0.99827385}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Ortopraks_light_RightLeg
+      parentName: Ortopraks_light_RightUpLeg
+      position: {x: -0.0000000012331922, y: -0.9017627, z: -0.000000019175413}
+      rotation: {x: -3.330669e-16, y: -0.000000023283068, z: -0.000000011175871, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Ortopraks_light_RightFoot
+      parentName: Ortopraks_light_RightLeg
+      position: {x: -0.000000037241023, y: -0.81781894, z: -0.000000042425587}
+      rotation: {x: -0.0000000013674475, y: -0.000000023242874, z: -0.058731414, w: 0.99827385}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Ortopraks_light_RightToeBase
+      parentName: Ortopraks_light_RightFoot
+      position: {x: 0.00000016076851, y: -0.12583104, z: 0.26030394}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Ortopraks_light_Spine
+      parentName: Ortopraks_light_Hips
+      position: {x: -0.0000000062594245, y: 0.1406535, z: 0.00000001539405}
+      rotation: {x: -0.000000005820766, y: 0.000000011641533, z: -0.000000002910383,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Ortopraks_light_Spine1
+      parentName: Ortopraks_light_Spine
+      position: {x: 0.0000000032162424, y: 0.40520084, z: 0.0000000032503047}
+      rotation: {x: 0.000000005820766, y: -0.000000005820766, z: 0.000000002910383,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: Ortopraks_light_Spine2
+      parentName: Ortopraks_light_Spine1
+      position: {x: 0.0000000024009685, y: 0.4052008, z: -7.600803e-10}
+      rotation: {x: -0.000000005820765, y: -0.000000005820767, z: 0.0000000029103835,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: Ortopraks_light_LeftShoulder
+      parentName: Ortopraks_light_Spine2
+      position: {x: -0.38565966, y: 0.43711978, z: 0.00000015696179}
+      rotation: {x: -0.000000011641531, y: 0.000000005820767, z: -0.0000000029103833,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000004}
+    - name: Ortopraks_light_LeftArm
+      parentName: Ortopraks_light_LeftShoulder
+      position: {x: -0.39855075, y: 0.0000027139013, z: 0.00000011419301}
+      rotation: {x: -0.059315998, y: 0.0009270695, z: 0.009897149, w: 0.99818975}
+      scale: {x: 2.0000014, y: 2.0000002, z: 1.9999999}
+    - name: Ortopraks_light_LeftForeArm
+      parentName: Ortopraks_light_LeftArm
+      position: {x: -0.83192855, y: 0.00000014289176, z: 0.000000054553443}
+      rotation: {x: -0.000000014901161, y: 0.0000000037252903, z: 0.00000001094304,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000008}
+    - name: Ortopraks_light_LeftHand
+      parentName: Ortopraks_light_LeftForeArm
+      position: {x: -0.7307213, y: -0.000000034229668, z: 0.00000012093074}
+      rotation: {x: 0.00009738608, y: 0.00085785845, z: 0.1055867, w: 0.99440974}
+      scale: {x: 2.000001, y: 2.0000017, z: 2.000001}
+    - name: Ortopraks_light_LeftHandMiddle1
+      parentName: Ortopraks_light_LeftHand
+      position: {x: -0.29399955, y: 0.010064382, z: 0.02621551}
+      rotation: {x: 0.0000000020209274, y: -0.000000015226231, z: 6.530869e-16, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000005}
+    - name: Ortopraks_light_LeftHandMiddle2
+      parentName: Ortopraks_light_LeftHandMiddle1
+      position: {x: -0.21865937, y: 0.000000037281204, z: 0.000006147112}
+      rotation: {x: 0.0000000033611887, y: 0.00000002961217, z: -4.2873433e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: Ortopraks_light_RightShoulder
+      parentName: Ortopraks_light_Spine2
+      position: {x: 0.38565978, y: 0.43711996, z: -0.000000095399706}
+      rotation: {x: -0, y: -0, z: -3.3881318e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ortopraks_light_RightArm
+      parentName: Ortopraks_light_RightShoulder
+      position: {x: 0.39855048, y: 0.0000026583884, z: 0.00000034014764}
+      rotation: {x: -0.059317376, y: -0.0009272281, z: -0.009897547, w: 0.99818975}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: Ortopraks_light_RightForeArm
+      parentName: Ortopraks_light_RightArm
+      position: {x: 0.8319288, y: 0.000000436408, z: -0.000000060615726}
+      rotation: {x: -0.00000002235174, y: 0.0000000074505797, z: 0.000000013271345,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000006}
+    - name: Ortopraks_light_RightHand
+      parentName: Ortopraks_light_RightForeArm
+      position: {x: 0.73072135, y: -0.00000014202634, z: 0.00000010174303}
+      rotation: {x: 0.00009744306, y: -0.00085844897, z: -0.105586484, w: 0.9944098}
+      scale: {x: 2.000001, y: 2.0000002, z: 2.0000005}
+    - name: Ortopraks_light_RightHandMiddle1
+      parentName: Ortopraks_light_RightHand
+      position: {x: 0.2939995, y: 0.010064364, z: 0.02621549}
+      rotation: {x: 0.000000005722382, y: 0.000000015646407, z: -1.4787915e-17, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1}
+    - name: Ortopraks_light_RightHandMiddle2
+      parentName: Ortopraks_light_RightHandMiddle1
+      position: {x: 0.21865942, y: -0.000000033964575, z: 0.000006038348}
+      rotation: {x: -0.0000000013323612, y: -0.0000053390304, z: 0.00000008940699,
+        w: 1}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000002}
+    - name: Ortopraks_light_Neck
+      parentName: Ortopraks_light_Spine2
+      position: {x: -0.0000000903012, y: 0.6711026, z: 0.0000010445472}
+      rotation: {x: 0.060720548, y: 0.0000000057216667, z: -0.0000000018059467, w: 0.9981548}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Ortopraks_light_Head
+      parentName: Ortopraks_light_Neck
+      position: {x: 0.000000063515344, y: 0.69465744, z: 0.0000004459261}
+      rotation: {x: 0.0000000037252903, y: -0.0000000058660423, z: -1.6654216e-11,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

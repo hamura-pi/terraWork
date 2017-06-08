@@ -1,0 +1,12 @@
+Bug_301
+Tris count: 1278
+Verts count: 761
+Bones count: 16
+
+Animations:
+Walk:	 	0-50
+DieLeft: 	60-160
+DieRight 	170-270
+Attack: 	290-350
+Idle: 		360-420
+Hit: 		430-490

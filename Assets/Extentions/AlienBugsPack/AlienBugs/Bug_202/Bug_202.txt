@@ -1,0 +1,20 @@
+Bug_202
+Tris count:  1118
+Verts count: 604
+Bones count: 19
+
+ExplPart
+Tris count:  554
+Verts count: 312
+
+Animations:
+Idle: 		0-59
+Get Ready: 	70-170
+Attack: 	180-240
+HitFront: 	250-270
+HitLeft: 	280-300
+HitRight: 	310-330
+Idle_2:		340-400
+Die: 		410-440
+Walk: 		450-499
+Explosion:	0-51

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 43a59f6cd70cc95408c96e2ebc2d2fdb
+timeCreated: 1481289893
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2
+    100002: Animit_light_armor_Head
+    100004: Animit_light_armor_Hips
+    100006: Animit_light_armor_LeftArm
+    100008: Animit_light_armor_LeftFoot
+    100010: Animit_light_armor_LeftForeArm
+    100012: Animit_light_armor_LeftHand
+    100014: Animit_light_armor_LeftHandMiddle1
+    100016: Animit_light_armor_LeftHandMiddle2
+    100018: Animit_light_armor_LeftHandMiddle3
+    100020: Animit_light_armor_LeftHandMiddle4
+    100022: Animit_light_armor_LeftLeg
+    100024: Animit_light_armor_LeftShoulder
+    100026: Animit_light_armor_LeftToeBase
+    100028: Animit_light_armor_LeftUpLeg
+    100030: Animit_light_armor_Neck
+    100032: Animit_light_armor_Reference
+    100034: Animit_light_armor_RightArm
+    100036: Animit_light_armor_RightFoot
+    100038: Animit_light_armor_RightForeArm
+    100040: Animit_light_armor_RightHand
+    100042: Animit_light_armor_RightHandMiddle1
+    100044: Animit_light_armor_RightHandMiddle2
+    100046: Animit_light_armor_RightHandMiddle3
+    100048: Animit_light_armor_RightHandMiddle4
+    100050: Animit_light_armor_RightLeg
+    100052: Animit_light_armor_RightShoulder
+    100054: Animit_light_armor_RightToeBase
+    100056: Animit_light_armor_RightUpLeg
+    100058: Animit_light_armor_Spine
+    100060: Animit_light_armor_Spine1
+    100062: Animit_light_armor_Spine2
+    100064: //RootNode
+    100066: left
+    400000: 2
+    400002: Animit_light_armor_Head
+    400004: Animit_light_armor_Hips
+    400006: Animit_light_armor_LeftArm
+    400008: Animit_light_armor_LeftFoot
+    400010: Animit_light_armor_LeftForeArm
+    400012: Animit_light_armor_LeftHand
+    400014: Animit_light_armor_LeftHandMiddle1
+    400016: Animit_light_armor_LeftHandMiddle2
+    400018: Animit_light_armor_LeftHandMiddle3
+    400020: Animit_light_armor_LeftHandMiddle4
+    400022: Animit_light_armor_LeftLeg
+    400024: Animit_light_armor_LeftShoulder
+    400026: Animit_light_armor_LeftToeBase
+    400028: Animit_light_armor_LeftUpLeg
+    400030: Animit_light_armor_Neck
+    400032: Animit_light_armor_Reference
+    400034: Animit_light_armor_RightArm
+    400036: Animit_light_armor_RightFoot
+    400038: Animit_light_armor_RightForeArm
+    400040: Animit_light_armor_RightHand
+    400042: Animit_light_armor_RightHandMiddle1
+    400044: Animit_light_armor_RightHandMiddle2
+    400046: Animit_light_armor_RightHandMiddle3
+    400048: Animit_light_armor_RightHandMiddle4
+    400050: Animit_light_armor_RightLeg
+    400052: Animit_light_armor_RightShoulder
+    400054: Animit_light_armor_RightToeBase
+    400056: Animit_light_armor_RightUpLeg
+    400058: Animit_light_armor_Spine
+    400060: Animit_light_armor_Spine1
+    400062: Animit_light_armor_Spine2
+    400064: //RootNode
+    400066: left
+    4300000: 2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

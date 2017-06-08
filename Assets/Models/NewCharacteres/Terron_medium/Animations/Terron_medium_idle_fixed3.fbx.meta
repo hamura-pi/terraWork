@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 0ce7b8dc7a560354f8d30eac41c21847
+timeCreated: 1479808036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Terron_Head
+    100002: Terron_Hips
+    100004: Terron_LeftArm
+    100006: Terron_LeftFoot
+    100008: Terron_LeftForeArm
+    100010: Terron_LeftHand
+    100012: Terron_LeftHandMiddle1
+    100014: Terron_LeftHandMiddle2
+    100016: Terron_LeftLeg
+    100018: Terron_LeftShoulder
+    100020: Terron_LeftToeBase
+    100022: Terron_LeftUpLeg
+    100024: Terron_LowPoly_00
+    100026: //RootNode
+    100028: Terron_Neck
+    100030: Terron_Reference
+    100032: Terron_RightArm
+    100034: Terron_RightFoot
+    100036: Terron_RightForeArm
+    100038: Terron_RightHand
+    100040: Terron_RightHandMiddle1
+    100042: Terron_RightHandMiddle2
+    100044: Terron_RightLeg
+    100046: Terron_RightShoulder
+    100048: Terron_RightToeBase
+    100050: Terron_RightUpLeg
+    100052: Terron_Spine
+    100054: Terron_Spine1
+    100056: Terron_Spine2
+    400000: Terron_Head
+    400002: Terron_Hips
+    400004: Terron_LeftArm
+    400006: Terron_LeftFoot
+    400008: Terron_LeftForeArm
+    400010: Terron_LeftHand
+    400012: Terron_LeftHandMiddle1
+    400014: Terron_LeftHandMiddle2
+    400016: Terron_LeftLeg
+    400018: Terron_LeftShoulder
+    400020: Terron_LeftToeBase
+    400022: Terron_LeftUpLeg
+    400024: Terron_LowPoly_00
+    400026: //RootNode
+    400028: Terron_Neck
+    400030: Terron_Reference
+    400032: Terron_RightArm
+    400034: Terron_RightFoot
+    400036: Terron_RightForeArm
+    400038: Terron_RightHand
+    400040: Terron_RightHandMiddle1
+    400042: Terron_RightHandMiddle2
+    400044: Terron_RightLeg
+    400046: Terron_RightShoulder
+    400048: Terron_RightToeBase
+    400050: Terron_RightUpLeg
+    400052: Terron_Spine
+    400054: Terron_Spine1
+    400056: Terron_Spine2
+    4300000: Terron_LowPoly_00
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Terron_LowPoly_00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file\nTerron_medium_idle_fixed3\nClip
+      'Take 001' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Terron_Spine2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Terron_LowPoly_00
+        weight: 0
+      - path: Terron_Reference
+        weight: 1
+      - path: Terron_Reference/Terron_Hips
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_LeftUpLeg
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_LeftUpLeg/Terron_LeftLeg
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_LeftUpLeg/Terron_LeftLeg/Terron_LeftFoot
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_LeftUpLeg/Terron_LeftLeg/Terron_LeftFoot/Terron_LeftToeBase
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_RightUpLeg
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_RightUpLeg/Terron_RightLeg
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_RightUpLeg/Terron_RightLeg/Terron_RightFoot
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_RightUpLeg/Terron_RightLeg/Terron_RightFoot/Terron_RightToeBase
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_LeftShoulder
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_LeftShoulder/Terron_LeftArm
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_LeftShoulder/Terron_LeftArm/Terron_LeftForeArm
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_LeftShoulder/Terron_LeftArm/Terron_LeftForeArm/Terron_LeftHand
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_LeftShoulder/Terron_LeftArm/Terron_LeftForeArm/Terron_LeftHand/Terron_LeftHandMiddle1
+        weight: 0
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_LeftShoulder/Terron_LeftArm/Terron_LeftForeArm/Terron_LeftHand/Terron_LeftHandMiddle1/Terron_LeftHandMiddle2
+        weight: 0
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_Neck
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_Neck/Terron_Head
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_RightShoulder
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_RightShoulder/Terron_RightArm
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_RightShoulder/Terron_RightArm/Terron_RightForeArm
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_RightShoulder/Terron_RightArm/Terron_RightForeArm/Terron_RightHand
+        weight: 1
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_RightShoulder/Terron_RightArm/Terron_RightForeArm/Terron_RightHand/Terron_RightHandMiddle1
+        weight: 0
+      - path: Terron_Reference/Terron_Hips/Terron_Spine/Terron_Spine1/Terron_Spine2/Terron_RightShoulder/Terron_RightArm/Terron_RightForeArm/Terron_RightHand/Terron_RightHandMiddle1/Terron_RightHandMiddle2
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Terron_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Terron_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Terron_medium_idle_fixed3(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_LowPoly_00
+      parentName: Terron_medium_idle_fixed3(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: Terron_Reference
+      parentName: Terron_medium_idle_fixed3(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_Hips
+      parentName: Terron_Reference
+      position: {x: -0.000000020489097, y: 0.9983912, z: 0.07749119}
+      rotation: {x: -0.000000055966655, y: -0.000000007275957, z: 4.6015054e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_LeftUpLeg
+      parentName: Terron_Hips
+      position: {x: -0.08910003, y: -0.06270006, z: 0.0000000017246463}
+      rotation: {x: -0.07755364, y: 0.0046369145, z: -0.059502706, w: 0.99520016}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Terron_LeftLeg
+      parentName: Terron_LeftUpLeg
+      position: {x: 0.000000007405941, y: -0.3603288, z: -0.00000003206833}
+      rotation: {x: 0.14465374, y: 0.0000000088475645, z: -0.00000010477379, w: 0.98948234}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Terron_LeftFoot
+      parentName: Terron_LeftLeg
+      position: {x: -0.000000038847347, y: -0.49546725, z: 0.00000004284239}
+      rotation: {x: -0.040778726, y: -0.096860036, z: 0.057332546, w: 0.9928082}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    - name: Terron_LeftToeBase
+      parentName: Terron_LeftFoot
+      position: {x: -0.000000085830685, y: -0.06262317, z: 0.12954721}
+      rotation: {x: -0, y: -0, z: -4.656613e-10, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Terron_RightUpLeg
+      parentName: Terron_Hips
+      position: {x: 0.08910007, y: -0.062700026, z: 0.000000004065325}
+      rotation: {x: -0.07755522, y: -0.004636798, z: 0.05950067, w: 0.99520016}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Terron_RightLeg
+      parentName: Terron_RightUpLeg
+      position: {x: -0.0000000016542958, y: -0.36032888, z: 0.000000039056804}
+      rotation: {x: 0.14465022, y: -0.0000000661239, z: 0.000000046071364, w: 0.9894829}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Terron_RightFoot
+      parentName: Terron_RightLeg
+      position: {x: -0.000000017394152, y: -0.49546725, z: 0.000000039407535}
+      rotation: {x: -0.040778838, y: 0.096862614, z: -0.05733557, w: 0.99280787}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: Terron_RightToeBase
+      parentName: Terron_RightFoot
+      position: {x: 0.000000085830685, y: -0.06262317, z: 0.12954721}
+      rotation: {x: -0, y: -0, z: 9.3132246e-10, w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: Terron_Spine
+      parentName: Terron_Hips
+      position: {x: -0.000000022428756, y: 0.12134813, z: 0.0000000036784769}
+      rotation: {x: -0.0000000036379824, y: -0, z: 5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_Spine1
+      parentName: Terron_Spine
+      position: {x: -0.0000000013975343, y: 0.15355852, z: -7.907395e-10}
+      rotation: {x: -0.0000000036379788, y: -0.000000007275957, z: -2.6469751e-17,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Terron_Spine2
+      parentName: Terron_Spine1
+      position: {x: 0.0000000040515324, y: 0.15355846, z: -0.000000009885132}
+      rotation: {x: 0.000000010913936, y: 0.000000021827873, z: -7.940934e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_LeftShoulder
+      parentName: Terron_Spine2
+      position: {x: -0.13246784, y: 0.10641282, z: -0.000000008694151}
+      rotation: {x: -0.000000007188417, y: -0.000000013251554, z: 0.15465671, w: 0.98796827}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Terron_LeftArm
+      parentName: Terron_LeftShoulder
+      position: {x: -0.13741943, y: 0.0000013514781, z: -0.000000010019992}
+      rotation: {x: -0.052852143, y: 0.008693516, z: -0.14443374, w: 0.98806375}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Terron_LeftForeArm
+      parentName: Terron_LeftArm
+      position: {x: -0.35243988, y: -0.00000017702997, z: -0.0000000026889875}
+      rotation: {x: -0.0006144866, y: 0.03858345, z: -0.0061897384, w: 0.9992361}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: Terron_LeftHand
+      parentName: Terron_LeftForeArm
+      position: {x: -0.258577, y: 0.00000004476363, z: -0.0000000031713658}
+      rotation: {x: -0.000000028877661, y: 0.0000000074505797, z: 0.11314118, w: 0.9935789}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: Terron_LeftHandMiddle1
+      parentName: Terron_LeftHand
+      position: {x: -0.104616165, y: 0.0050090025, z: 0.013046844}
+      rotation: {x: -0, y: -0, z: 2.1515532e-16, w: 1}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999998}
+    - name: Terron_LeftHandMiddle2
+      parentName: Terron_LeftHandMiddle1
+      position: {x: -0.053552628, y: -2.842171e-16, z: 0.0000030243395}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Terron_RightShoulder
+      parentName: Terron_Spine2
+      position: {x: 0.13246785, y: 0.106412835, z: -7.6282514e-10}
+      rotation: {x: -0.000000006063116, y: -0.000000008313705, z: -0.15465887, w: 0.98796797}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Terron_RightArm
+      parentName: Terron_RightShoulder
+      position: {x: 0.16232583, y: 0.000001376261, z: -0.000000026350058}
+      rotation: {x: -0.05284802, y: -0.008693003, z: 0.14443593, w: 0.98806375}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: Terron_RightForeArm
+      parentName: Terron_RightArm
+      position: {x: 0.35243988, y: -0.000000096283436, z: -0.000000004918808}
+      rotation: {x: -0.0006144864, y: -0.038583446, z: 0.006189776, w: 0.9992361}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Terron_RightHand
+      parentName: Terron_RightForeArm
+      position: {x: 0.258577, y: -0.000000018754788, z: 0.000000025280576}
+      rotation: {x: -0.00000008763504, y: 0.0000000372529, z: -0.11314266, w: 0.9935788}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000004}
+    - name: Terron_RightHandMiddle1
+      parentName: Terron_RightHand
+      position: {x: 0.104616165, y: 0.0050090025, z: 0.013046844}
+      rotation: {x: -0, y: -0, z: 3.2646587e-15, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: Terron_RightHandMiddle2
+      parentName: Terron_RightHandMiddle1
+      position: {x: 0.053552628, y: -2.842171e-16, z: 0.0000030243395}
+      rotation: {x: -0.000000017104325, y: -0.000005266057, z: -0.00000010430857,
+        w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000002}
+    - name: Terron_Neck
+      parentName: Terron_Spine2
+      position: {x: -0.0000000028587672, y: 0.15355857, z: 0.000000010307848}
+      rotation: {x: -0.000000010913936, y: -1.7763568e-15, z: 9.094946e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Terron_Head
+      parentName: Terron_Neck
+      position: {x: -0, y: 0.19999999, z: 0}
+      rotation: {x: -0, y: -0, z: -1.9387046e-23, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

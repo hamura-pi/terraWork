@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: b3a913c1041db504e877bee5e17be740
+timeCreated: 1475327840
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: jointturret
+    100002: jointturret1
+    100004: jointturret10
+    100006: jointturret11
+    100008: jointturret12
+    100010: jointturret13
+    100012: jointturret14
+    100014: jointturret15
+    100016: jointturret16
+    100018: jointturret17
+    100020: jointturret18
+    100022: jointturret19
+    100024: jointturret2
+    100026: jointturret20
+    100028: jointturret21
+    100030: jointturret22
+    100032: jointturret23
+    100034: jointturret24
+    100036: jointturret25
+    100038: jointturret26
+    100040: jointturret27
+    100042: jointturret28
+    100044: jointturret29
+    100046: jointturret3
+    100048: jointturret30
+    100050: jointturret4
+    100052: jointturret5
+    100054: jointturret6
+    100056: jointturret7
+    100058: jointturret8
+    100060: jointturret9
+    100062: pSphere10
+    100064: pSphere15
+    100066: pSphere9
+    100068: //RootNode
+    100070: turret_005_v2_low12
+    400000: jointturret
+    400002: jointturret1
+    400004: jointturret10
+    400006: jointturret11
+    400008: jointturret12
+    400010: jointturret13
+    400012: jointturret14
+    400014: jointturret15
+    400016: jointturret16
+    400018: jointturret17
+    400020: jointturret18
+    400022: jointturret19
+    400024: jointturret2
+    400026: jointturret20
+    400028: jointturret21
+    400030: jointturret22
+    400032: jointturret23
+    400034: jointturret24
+    400036: jointturret25
+    400038: jointturret26
+    400040: jointturret27
+    400042: jointturret28
+    400044: jointturret29
+    400046: jointturret3
+    400048: jointturret30
+    400050: jointturret4
+    400052: jointturret5
+    400054: jointturret6
+    400056: jointturret7
+    400058: jointturret8
+    400060: jointturret9
+    400062: pSphere10
+    400064: pSphere15
+    400066: pSphere9
+    400068: //RootNode
+    400070: turret_005_v2_low12
+    2300000: pSphere10
+    2300002: pSphere15
+    2300004: pSphere9
+    3300000: pSphere10
+    3300002: pSphere15
+    3300004: pSphere9
+    4300000: pSphere10
+    4300002: pSphere15
+    4300004: pSphere9
+    4300006: turret_005_v2_low12
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: turret_005_v2_low12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

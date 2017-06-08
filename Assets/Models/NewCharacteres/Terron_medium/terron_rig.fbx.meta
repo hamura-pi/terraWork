@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 7c2d3cae04fcf5542b9e60ced25ad7fc
+timeCreated: 1479806853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Terron_Head
+    100002: Terron_Hips
+    100004: Terron_LeftArm
+    100006: Terron_LeftFoot
+    100008: Terron_LeftForeArm
+    100010: Terron_LeftHand
+    100012: Terron_LeftHandMiddle1
+    100014: Terron_LeftHandMiddle2
+    100016: Terron_LeftLeg
+    100018: Terron_LeftShoulder
+    100020: Terron_LeftToeBase
+    100022: Terron_LeftUpLeg
+    100024: Terron_LowPoly_00
+    100026: Terron_Neck
+    100028: Terron_Reference
+    100030: //RootNode
+    100032: Terron_RightArm
+    100034: Terron_RightFoot
+    100036: Terron_RightForeArm
+    100038: Terron_RightHand
+    100040: Terron_RightHandMiddle1
+    100042: Terron_RightHandMiddle2
+    100044: Terron_RightLeg
+    100046: Terron_RightShoulder
+    100048: Terron_RightToeBase
+    100050: Terron_RightUpLeg
+    100052: Terron_Spine
+    100054: Terron_Spine1
+    100056: Terron_Spine2
+    400000: Terron_Head
+    400002: Terron_Hips
+    400004: Terron_LeftArm
+    400006: Terron_LeftFoot
+    400008: Terron_LeftForeArm
+    400010: Terron_LeftHand
+    400012: Terron_LeftHandMiddle1
+    400014: Terron_LeftHandMiddle2
+    400016: Terron_LeftLeg
+    400018: Terron_LeftShoulder
+    400020: Terron_LeftToeBase
+    400022: Terron_LeftUpLeg
+    400024: Terron_LowPoly_00
+    400026: Terron_Neck
+    400028: Terron_Reference
+    400030: //RootNode
+    400032: Terron_RightArm
+    400034: Terron_RightFoot
+    400036: Terron_RightForeArm
+    400038: Terron_RightHand
+    400040: Terron_RightHandMiddle1
+    400042: Terron_RightHandMiddle2
+    400044: Terron_RightLeg
+    400046: Terron_RightShoulder
+    400048: Terron_RightToeBase
+    400050: Terron_RightUpLeg
+    400052: Terron_Spine
+    400054: Terron_Spine1
+    400056: Terron_Spine2
+    4300000: Terron_LowPoly_00
+    9500000: //RootNode
+    13700000: Terron_LowPoly_00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

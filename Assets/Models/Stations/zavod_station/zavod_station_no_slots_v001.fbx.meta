@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 74a554f3ac542484eb066bd52930e4e5
+timeCreated: 1483799358
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: zavod_station_low100
+    100002: zavod_station_low101
+    100004: zavod_station_low102
+    100006: zavod_station_low103
+    100008: zavod_station_low104
+    100010: zavod_station_low105
+    100012: zavod_station_low106
+    100014: zavod_station_low107
+    100016: zavod_station_low108
+    100018: zavod_station_low109
+    100020: zavod_station_low110
+    100022: zavod_station_low111
+    100024: zavod_station_low112
+    100026: zavod_station_low113
+    100028: zavod_station_low114
+    100030: zavod_station_low115
+    100032: zavod_station_low116
+    100034: zavod_station_low117
+    100036: zavod_station_low118
+    100038: zavod_station_low119
+    100040: zavod_station_low120
+    100042: zavod_station_low121
+    100044: zavod_station_low122
+    100046: zavod_station_low123
+    100048: zavod_station_low124
+    100050: zavod_station_low125
+    100052: zavod_station_low126
+    100054: zavod_station_low127
+    100056: zavod_station_low128
+    100058: zavod_station_low129
+    100060: zavod_station_low130
+    100062: zavod_station_low131
+    100064: zavod_station_low132
+    100066: zavod_station_low133
+    100068: zavod_station_low134
+    100070: zavod_station_low135
+    100072: zavod_station_low136
+    100074: zavod_station_low137
+    100076: zavod_station_low138
+    100078: zavod_station_low139
+    100080: zavod_station_low140
+    100082: zavod_station_low141
+    100084: zavod_station_low142
+    100086: zavod_station_low143
+    100088: zavod_station_low144
+    100090: zavod_station_low145
+    100092: zavod_station_low146
+    100094: zavod_station_low147
+    100096: zavod_station_low148
+    100098: zavod_station_low149
+    100100: zavod_station_low72
+    100102: zavod_station_low73
+    100104: zavod_station_low74
+    100106: zavod_station_low75
+    100108: zavod_station_low76
+    100110: zavod_station_low77
+    100112: zavod_station_low78
+    100114: zavod_station_low79
+    100116: zavod_station_low80
+    100118: zavod_station_low81
+    100120: zavod_station_low82
+    100122: zavod_station_low83
+    100124: zavod_station_low84
+    100126: zavod_station_low85
+    100128: zavod_station_low86
+    100130: zavod_station_low87
+    100132: zavod_station_low88
+    100134: zavod_station_low89
+    100136: zavod_station_low90
+    100138: zavod_station_low91
+    100140: zavod_station_low92
+    100142: zavod_station_low93
+    100144: zavod_station_low94
+    100146: zavod_station_low95
+    100148: zavod_station_low96
+    100150: zavod_station_low97
+    100152: zavod_station_low98
+    100154: zavod_station_low99
+    100156: //RootNode
+    400000: zavod_station_low100
+    400002: zavod_station_low101
+    400004: zavod_station_low102
+    400006: zavod_station_low103
+    400008: zavod_station_low104
+    400010: zavod_station_low105
+    400012: zavod_station_low106
+    400014: zavod_station_low107
+    400016: zavod_station_low108
+    400018: zavod_station_low109
+    400020: zavod_station_low110
+    400022: zavod_station_low111
+    400024: zavod_station_low112
+    400026: zavod_station_low113
+    400028: zavod_station_low114
+    400030: zavod_station_low115
+    400032: zavod_station_low116
+    400034: zavod_station_low117
+    400036: zavod_station_low118
+    400038: zavod_station_low119
+    400040: zavod_station_low120
+    400042: zavod_station_low121
+    400044: zavod_station_low122
+    400046: zavod_station_low123
+    400048: zavod_station_low124
+    400050: zavod_station_low125
+    400052: zavod_station_low126
+    400054: zavod_station_low127
+    400056: zavod_station_low128
+    400058: zavod_station_low129
+    400060: zavod_station_low130
+    400062: zavod_station_low131
+    400064: zavod_station_low132
+    400066: zavod_station_low133
+    400068: zavod_station_low134
+    400070: zavod_station_low135
+    400072: zavod_station_low136
+    400074: zavod_station_low137
+    400076: zavod_station_low138
+    400078: zavod_station_low139
+    400080: zavod_station_low140
+    400082: zavod_station_low141
+    400084: zavod_station_low142
+    400086: zavod_station_low143
+    400088: zavod_station_low144
+    400090: zavod_station_low145
+    400092: zavod_station_low146
+    400094: zavod_station_low147
+    400096: zavod_station_low148
+    400098: zavod_station_low149
+    400100: zavod_station_low72
+    400102: zavod_station_low73
+    400104: zavod_station_low74
+    400106: zavod_station_low75
+    400108: zavod_station_low76
+    400110: zavod_station_low77
+    400112: zavod_station_low78
+    400114: zavod_station_low79
+    400116: zavod_station_low80
+    400118: zavod_station_low81
+    400120: zavod_station_low82
+    400122: zavod_station_low83
+    400124: zavod_station_low84
+    400126: zavod_station_low85
+    400128: zavod_station_low86
+    400130: zavod_station_low87
+    400132: zavod_station_low88
+    400134: zavod_station_low89
+    400136: zavod_station_low90
+    400138: zavod_station_low91
+    400140: zavod_station_low92
+    400142: zavod_station_low93
+    400144: zavod_station_low94
+    400146: zavod_station_low95
+    400148: zavod_station_low96
+    400150: zavod_station_low97
+    400152: zavod_station_low98
+    400154: zavod_station_low99
+    400156: //RootNode
+    2300000: zavod_station_low100
+    2300002: zavod_station_low101
+    2300004: zavod_station_low102
+    2300006: zavod_station_low103
+    2300008: zavod_station_low104
+    2300010: zavod_station_low105
+    2300012: zavod_station_low106
+    2300014: zavod_station_low107
+    2300016: zavod_station_low108
+    2300018: zavod_station_low109
+    2300020: zavod_station_low110
+    2300022: zavod_station_low111
+    2300024: zavod_station_low112
+    2300026: zavod_station_low113
+    2300028: zavod_station_low114
+    2300030: zavod_station_low115
+    2300032: zavod_station_low116
+    2300034: zavod_station_low117
+    2300036: zavod_station_low118
+    2300038: zavod_station_low119
+    2300040: zavod_station_low120
+    2300042: zavod_station_low121
+    2300044: zavod_station_low122
+    2300046: zavod_station_low123
+    2300048: zavod_station_low124
+    2300050: zavod_station_low125
+    2300052: zavod_station_low126
+    2300054: zavod_station_low127
+    2300056: zavod_station_low128
+    2300058: zavod_station_low129
+    2300060: zavod_station_low130
+    2300062: zavod_station_low131
+    2300064: zavod_station_low132
+    2300066: zavod_station_low133
+    2300068: zavod_station_low134
+    2300070: zavod_station_low135
+    2300072: zavod_station_low136
+    2300074: zavod_station_low137
+    2300076: zavod_station_low138
+    2300078: zavod_station_low139
+    2300080: zavod_station_low140
+    2300082: zavod_station_low141
+    2300084: zavod_station_low142
+    2300086: zavod_station_low143
+    2300088: zavod_station_low144
+    2300090: zavod_station_low145
+    2300092: zavod_station_low146
+    2300094: zavod_station_low147
+    2300096: zavod_station_low148
+    2300098: zavod_station_low149
+    2300100: zavod_station_low72
+    2300102: zavod_station_low73
+    2300104: zavod_station_low74
+    2300106: zavod_station_low75
+    2300108: zavod_station_low76
+    2300110: zavod_station_low77
+    2300112: zavod_station_low78
+    2300114: zavod_station_low79
+    2300116: zavod_station_low80
+    2300118: zavod_station_low81
+    2300120: zavod_station_low82
+    2300122: zavod_station_low83
+    2300124: zavod_station_low84
+    2300126: zavod_station_low85
+    2300128: zavod_station_low86
+    2300130: zavod_station_low87
+    2300132: zavod_station_low88
+    2300134: zavod_station_low89
+    2300136: zavod_station_low90
+    2300138: zavod_station_low91
+    2300140: zavod_station_low92
+    2300142: zavod_station_low93
+    2300144: zavod_station_low94
+    2300146: zavod_station_low95
+    2300148: zavod_station_low96
+    2300150: zavod_station_low97
+    2300152: zavod_station_low98
+    2300154: zavod_station_low99
+    3300000: zavod_station_low100
+    3300002: zavod_station_low101
+    3300004: zavod_station_low102
+    3300006: zavod_station_low103
+    3300008: zavod_station_low104
+    3300010: zavod_station_low105
+    3300012: zavod_station_low106
+    3300014: zavod_station_low107
+    3300016: zavod_station_low108
+    3300018: zavod_station_low109
+    3300020: zavod_station_low110
+    3300022: zavod_station_low111
+    3300024: zavod_station_low112
+    3300026: zavod_station_low113
+    3300028: zavod_station_low114
+    3300030: zavod_station_low115
+    3300032: zavod_station_low116
+    3300034: zavod_station_low117
+    3300036: zavod_station_low118
+    3300038: zavod_station_low119
+    3300040: zavod_station_low120
+    3300042: zavod_station_low121
+    3300044: zavod_station_low122
+    3300046: zavod_station_low123
+    3300048: zavod_station_low124
+    3300050: zavod_station_low125
+    3300052: zavod_station_low126
+    3300054: zavod_station_low127
+    3300056: zavod_station_low128
+    3300058: zavod_station_low129
+    3300060: zavod_station_low130
+    3300062: zavod_station_low131
+    3300064: zavod_station_low132
+    3300066: zavod_station_low133
+    3300068: zavod_station_low134
+    3300070: zavod_station_low135
+    3300072: zavod_station_low136
+    3300074: zavod_station_low137
+    3300076: zavod_station_low138
+    3300078: zavod_station_low139
+    3300080: zavod_station_low140
+    3300082: zavod_station_low141
+    3300084: zavod_station_low142
+    3300086: zavod_station_low143
+    3300088: zavod_station_low144
+    3300090: zavod_station_low145
+    3300092: zavod_station_low146
+    3300094: zavod_station_low147
+    3300096: zavod_station_low148
+    3300098: zavod_station_low149
+    3300100: zavod_station_low72
+    3300102: zavod_station_low73
+    3300104: zavod_station_low74
+    3300106: zavod_station_low75
+    3300108: zavod_station_low76
+    3300110: zavod_station_low77
+    3300112: zavod_station_low78
+    3300114: zavod_station_low79
+    3300116: zavod_station_low80
+    3300118: zavod_station_low81
+    3300120: zavod_station_low82
+    3300122: zavod_station_low83
+    3300124: zavod_station_low84
+    3300126: zavod_station_low85
+    3300128: zavod_station_low86
+    3300130: zavod_station_low87
+    3300132: zavod_station_low88
+    3300134: zavod_station_low89
+    3300136: zavod_station_low90
+    3300138: zavod_station_low91
+    3300140: zavod_station_low92
+    3300142: zavod_station_low93
+    3300144: zavod_station_low94
+    3300146: zavod_station_low95
+    3300148: zavod_station_low96
+    3300150: zavod_station_low97
+    3300152: zavod_station_low98
+    3300154: zavod_station_low99
+    4300000: zavod_station_low81
+    4300002: zavod_station_low84
+    4300004: zavod_station_low89
+    4300006: zavod_station_low80
+    4300008: zavod_station_low78
+    4300010: zavod_station_low79
+    4300012: zavod_station_low88
+    4300014: zavod_station_low76
+    4300016: zavod_station_low83
+    4300018: zavod_station_low90
+    4300020: zavod_station_low91
+    4300022: zavod_station_low92
+    4300024: zavod_station_low93
+    4300026: zavod_station_low94
+    4300028: zavod_station_low95
+    4300030: zavod_station_low77
+    4300032: zavod_station_low75
+    4300034: zavod_station_low96
+    4300036: zavod_station_low98
+    4300038: zavod_station_low87
+    4300040: zavod_station_low97
+    4300042: zavod_station_low104
+    4300044: zavod_station_low103
+    4300046: zavod_station_low105
+    4300048: zavod_station_low102
+    4300050: zavod_station_low101
+    4300052: zavod_station_low100
+    4300054: zavod_station_low99
+    4300056: zavod_station_low82
+    4300058: zavod_station_low85
+    4300060: zavod_station_low113
+    4300062: zavod_station_low110
+    4300064: zavod_station_low112
+    4300066: zavod_station_low111
+    4300068: zavod_station_low117
+    4300070: zavod_station_low114
+    4300072: zavod_station_low115
+    4300074: zavod_station_low116
+    4300076: zavod_station_low109
+    4300078: zavod_station_low106
+    4300080: zavod_station_low107
+    4300082: zavod_station_low108
+    4300084: zavod_station_low86
+    4300086: zavod_station_low72
+    4300088: zavod_station_low73
+    4300090: zavod_station_low74
+    4300092: zavod_station_low149
+    4300094: zavod_station_low146
+    4300096: zavod_station_low147
+    4300098: zavod_station_low148
+    4300100: zavod_station_low145
+    4300102: zavod_station_low142
+    4300104: zavod_station_low143
+    4300106: zavod_station_low144
+    4300108: zavod_station_low141
+    4300110: zavod_station_low138
+    4300112: zavod_station_low139
+    4300114: zavod_station_low140
+    4300116: zavod_station_low137
+    4300118: zavod_station_low134
+    4300120: zavod_station_low135
+    4300122: zavod_station_low136
+    4300124: zavod_station_low133
+    4300126: zavod_station_low130
+    4300128: zavod_station_low131
+    4300130: zavod_station_low132
+    4300132: zavod_station_low129
+    4300134: zavod_station_low126
+    4300136: zavod_station_low127
+    4300138: zavod_station_low128
+    4300140: zavod_station_low125
+    4300142: zavod_station_low122
+    4300144: zavod_station_low123
+    4300146: zavod_station_low124
+    4300148: zavod_station_low121
+    4300150: zavod_station_low118
+    4300152: zavod_station_low119
+    4300154: zavod_station_low120
+    7400000: Take 001
+    7400002: ZavodDummy
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: zavod_station_low81
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low75
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low82
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low87
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low96
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low97
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low98
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low99
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low100
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low101
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low102
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low103
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low104
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low105
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low91
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low92
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low92/zavod_station_low93
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low94
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low94/zavod_station_low95
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low78
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low78/zavod_station_low79
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low80
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low88
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low88/zavod_station_low76
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86/zavod_station_low72
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86/zavod_station_low72/zavod_station_low73
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86/zavod_station_low72/zavod_station_low74
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109/zavod_station_low106
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109/zavod_station_low106/zavod_station_low107
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109/zavod_station_low106/zavod_station_low108
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113/zavod_station_low110
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113/zavod_station_low110/zavod_station_low111
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113/zavod_station_low110/zavod_station_low112
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117/zavod_station_low114
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117/zavod_station_low114/zavod_station_low115
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117/zavod_station_low114/zavod_station_low116
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121/zavod_station_low118
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121/zavod_station_low118/zavod_station_low119
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121/zavod_station_low118/zavod_station_low120
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125/zavod_station_low122
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125/zavod_station_low122/zavod_station_low123
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125/zavod_station_low122/zavod_station_low124
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129/zavod_station_low126
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129/zavod_station_low126/zavod_station_low127
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129/zavod_station_low126/zavod_station_low128
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133/zavod_station_low130
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133/zavod_station_low130/zavod_station_low131
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133/zavod_station_low130/zavod_station_low132
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137/zavod_station_low134
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137/zavod_station_low134/zavod_station_low135
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137/zavod_station_low134/zavod_station_low136
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141/zavod_station_low138
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141/zavod_station_low138/zavod_station_low139
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141/zavod_station_low138/zavod_station_low140
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145/zavod_station_low142
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145/zavod_station_low142/zavod_station_low143
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145/zavod_station_low142/zavod_station_low144
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149/zavod_station_low146
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149/zavod_station_low146/zavod_station_low147
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149/zavod_station_low146/zavod_station_low148
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ZavodDummy
+      takeName: Take 001
+      firstFrame: 194
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: zavod_station_low81
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low75
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low82
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low87
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low96
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low97
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low98
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low99
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low100
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low101
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low102
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low103
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low104
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low77/zavod_station_low105
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low91
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low92
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low92/zavod_station_low93
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low94
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low83/zavod_station_low90/zavod_station_low94/zavod_station_low95
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low78
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low78/zavod_station_low79
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low80
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low88
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low84/zavod_station_low89/zavod_station_low88/zavod_station_low76
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86/zavod_station_low72
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86/zavod_station_low72/zavod_station_low73
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low86/zavod_station_low72/zavod_station_low74
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109/zavod_station_low106
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109/zavod_station_low106/zavod_station_low107
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low109/zavod_station_low106/zavod_station_low108
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113/zavod_station_low110
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113/zavod_station_low110/zavod_station_low111
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low113/zavod_station_low110/zavod_station_low112
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117/zavod_station_low114
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117/zavod_station_low114/zavod_station_low115
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low117/zavod_station_low114/zavod_station_low116
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121/zavod_station_low118
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121/zavod_station_low118/zavod_station_low119
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low121/zavod_station_low118/zavod_station_low120
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125/zavod_station_low122
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125/zavod_station_low122/zavod_station_low123
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low125/zavod_station_low122/zavod_station_low124
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129/zavod_station_low126
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129/zavod_station_low126/zavod_station_low127
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low129/zavod_station_low126/zavod_station_low128
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133/zavod_station_low130
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133/zavod_station_low130/zavod_station_low131
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low133/zavod_station_low130/zavod_station_low132
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137/zavod_station_low134
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137/zavod_station_low134/zavod_station_low135
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low137/zavod_station_low134/zavod_station_low136
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141/zavod_station_low138
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141/zavod_station_low138/zavod_station_low139
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low141/zavod_station_low138/zavod_station_low140
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145/zavod_station_low142
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145/zavod_station_low142/zavod_station_low143
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low145/zavod_station_low142/zavod_station_low144
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149/zavod_station_low146
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149/zavod_station_low146/zavod_station_low147
+        weight: 1
+      - path: zavod_station_low81/zavod_station_low85/zavod_station_low149/zavod_station_low146/zavod_station_low148
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: bf5d6548969d0c04dbc9afa5fb9237a2
+timeCreated: 1483969346
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: admar_light_Head
+    100002: admar_light_Hips
+    100004: //RootNode
+    100006: admar_light_LeftArm
+    100008: admar_light_LeftFoot
+    100010: admar_light_LeftForeArm
+    100012: admar_light_LeftHand
+    100014: admar_light_LeftHandMiddle1
+    100016: admar_light_LeftHandMiddle2
+    100018: admar_light_LeftLeg
+    100020: admar_light_LeftShoulder
+    100022: admar_light_LeftToeBase
+    100024: admar_light_LeftUpLeg
+    100026: admar_light_Neck
+    100028: admar_light_Reference
+    100030: admar_light_RightArm
+    100032: admar_light_RightFoot
+    100034: admar_light_RightForeArm
+    100036: admar_light_RightHand
+    100038: admar_light_RightHandMiddle1
+    100040: admar_light_RightHandMiddle2
+    100042: admar_light_RightLeg
+    100044: admar_light_RightShoulder
+    100046: admar_light_RightToeBase
+    100048: admar_light_RightUpLeg
+    100050: admar_light_Spine
+    100052: admar_light_Spine1
+    100054: admar_light_Spine2
+    100056: Object061
+    100058: Object070
+    400000: admar_light_Head
+    400002: admar_light_Hips
+    400004: //RootNode
+    400006: admar_light_LeftArm
+    400008: admar_light_LeftFoot
+    400010: admar_light_LeftForeArm
+    400012: admar_light_LeftHand
+    400014: admar_light_LeftHandMiddle1
+    400016: admar_light_LeftHandMiddle2
+    400018: admar_light_LeftLeg
+    400020: admar_light_LeftShoulder
+    400022: admar_light_LeftToeBase
+    400024: admar_light_LeftUpLeg
+    400026: admar_light_Neck
+    400028: admar_light_Reference
+    400030: admar_light_RightArm
+    400032: admar_light_RightFoot
+    400034: admar_light_RightForeArm
+    400036: admar_light_RightHand
+    400038: admar_light_RightHandMiddle1
+    400040: admar_light_RightHandMiddle2
+    400042: admar_light_RightLeg
+    400044: admar_light_RightShoulder
+    400046: admar_light_RightToeBase
+    400048: admar_light_RightUpLeg
+    400050: admar_light_Spine
+    400052: admar_light_Spine1
+    400054: admar_light_Spine2
+    400056: Object061
+    400058: Object070
+    4300000: Object061
+    4300002: Object070
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object061
+    13700002: Object070
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'admar_light_Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: admar_light_Reference
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_LeftUpLeg
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_LeftUpLeg/admar_light_LeftLeg
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_LeftUpLeg/admar_light_LeftLeg/admar_light_LeftFoot
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_LeftUpLeg/admar_light_LeftLeg/admar_light_LeftFoot/admar_light_LeftToeBase
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_RightUpLeg
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_RightUpLeg/admar_light_RightLeg
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_RightUpLeg/admar_light_RightLeg/admar_light_RightFoot
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_RightUpLeg/admar_light_RightLeg/admar_light_RightFoot/admar_light_RightToeBase
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_LeftShoulder
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_LeftShoulder/admar_light_LeftArm
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_LeftShoulder/admar_light_LeftArm/admar_light_LeftForeArm
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_LeftShoulder/admar_light_LeftArm/admar_light_LeftForeArm/admar_light_LeftHand
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_LeftShoulder/admar_light_LeftArm/admar_light_LeftForeArm/admar_light_LeftHand/admar_light_LeftHandMiddle1
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_LeftShoulder/admar_light_LeftArm/admar_light_LeftForeArm/admar_light_LeftHand/admar_light_LeftHandMiddle1/admar_light_LeftHandMiddle2
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_Neck
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_Neck/admar_light_Head
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_RightShoulder
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_RightShoulder/admar_light_RightArm
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_RightShoulder/admar_light_RightArm/admar_light_RightForeArm
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_RightShoulder/admar_light_RightArm/admar_light_RightForeArm/admar_light_RightHand
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_RightShoulder/admar_light_RightArm/admar_light_RightForeArm/admar_light_RightHand/admar_light_RightHandMiddle1
+        weight: 1
+      - path: admar_light_Reference/admar_light_Hips/admar_light_Spine/admar_light_Spine1/admar_light_Spine2/admar_light_RightShoulder/admar_light_RightArm/admar_light_RightForeArm/admar_light_RightHand/admar_light_RightHandMiddle1/admar_light_RightHandMiddle2
+        weight: 1
+      - path: Object061
+        weight: 1
+      - path: Object070
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: admar_light_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: admar_light_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Admar_light_idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: admar_light_Reference
+      parentName: Admar_light_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: admar_light_Hips
+      parentName: admar_light_Reference
+      position: {x: -0.000000026077032, y: 1.4786737, z: 0}
+      rotation: {x: 1.6940662e-17, y: -0.000000005820767, z: 9.860765e-26, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: admar_light_LeftUpLeg
+      parentName: admar_light_Hips
+      position: {x: -0.29955918, y: -0.09003431, z: 0.000000005627932}
+      rotation: {x: -2.5410995e-17, y: 0.0000000029103844, z: -0.0000000029103826,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: admar_light_LeftLeg
+      parentName: admar_light_LeftUpLeg
+      position: {x: 0.0000000102302575, y: -0.6444371, z: -0.00000007457792}
+      rotation: {x: 1.6940662e-17, y: 0.0000000029103826, z: 0.000000011641532, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: admar_light_LeftFoot
+      parentName: admar_light_LeftLeg
+      position: {x: 0.000000029221745, y: -0.58444774, z: -0.0000000110100355}
+      rotation: {x: -1.0482033e-16, y: -0.000000011641532, z: -0.000000008458301,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: admar_light_LeftToeBase
+      parentName: admar_light_LeftFoot
+      position: {x: -0.0000000977857, y: -0.089924015, z: 0.18602379}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: admar_light_RightUpLeg
+      parentName: admar_light_Hips
+      position: {x: 0.29955924, y: -0.09003438, z: 0.000000034476418}
+      rotation: {x: -9.3173624e-17, y: -0.000000005820765, z: 0.0000000043655746,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: admar_light_RightLeg
+      parentName: admar_light_RightUpLeg
+      position: {x: -0.0000000056002247, y: -0.644437, z: 0.000000014829524}
+      rotation: {x: -1.7787692e-16, y: 0.000000017462298, z: -0.000000021827873, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: admar_light_RightFoot
+      parentName: admar_light_RightLeg
+      position: {x: 0.000000008040495, y: -0.584447, z: 0.00000012968715}
+      rotation: {x: 7.2759604e-10, y: -0.000000017462298, z: 0.000000018189894, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: admar_light_RightToeBase
+      parentName: admar_light_RightFoot
+      position: {x: 0.0000001381259, y: -0.08992401, z: 0.18602377}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: admar_light_Spine
+      parentName: admar_light_Hips
+      position: {x: -0.00000000487932, y: 0.10051661, z: 0.000000019440384}
+      rotation: {x: 0.000000005820766, y: 8.881784e-16, z: -6.617445e-24, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: admar_light_Spine1
+      parentName: admar_light_Spine
+      position: {x: -0.0000000019267004, y: 0.2327366, z: 0.00000002430863}
+      rotation: {x: -0.000000011641532, y: 8.4703295e-18, z: 0.0000000014551915, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: admar_light_Spine2
+      parentName: admar_light_Spine1
+      position: {x: 0.0000000016673619, y: 0.23273651, z: 7.5507905e-10}
+      rotation: {x: -0.000000005820766, y: 8.470328e-18, z: 1.110223e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: admar_light_LeftShoulder
+      parentName: admar_light_Spine2
+      position: {x: -0.29120073, y: 0.10300007, z: 0.00000009174781}
+      rotation: {x: 0.000000011641532, y: 0.000000023283064, z: -0.0000000029103828,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: admar_light_LeftArm
+      parentName: admar_light_LeftShoulder
+      position: {x: -0.15375115, y: 0.0000019632191, z: 0.00000004587513}
+      rotation: {x: 0.000000011582572, y: 0.000000026329625, z: 0.02185855, w: 0.9997611}
+      scale: {x: 1, y: 1, z: 1}
+    - name: admar_light_LeftForeArm
+      parentName: admar_light_LeftArm
+      position: {x: -0.56752366, y: 0.000000004607997, z: -0.000000037860303}
+      rotation: {x: -0.000000046566143, y: 0.000000029103834, z: -0.000000059604645,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000005}
+    - name: admar_light_LeftHand
+      parentName: admar_light_LeftForeArm
+      position: {x: -0.45200515, y: 0.000000129888, z: 0.000000018479943}
+      rotation: {x: 0.00000006984921, y: -0.000000034924597, z: 0.000000029802322,
+        w: 1}
+      scale: {x: 1.0000011, y: 1.0000002, z: 1.000001}
+    - name: admar_light_LeftHandMiddle1
+      parentName: admar_light_LeftHand
+      position: {x: -0.1455742, y: 0.0071925507, z: 0.018734667}
+      rotation: {x: 0.000000017462305, y: -0.000000011641536, z: 0.000000029802322,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000007}
+    - name: admar_light_LeftHandMiddle2
+      parentName: admar_light_LeftHandMiddle1
+      position: {x: -0.069833994, y: -0.000000014196216, z: 0.0000043111377}
+      rotation: {x: -7.1054274e-15, y: 0.000000023283071, z: -0.000000029802326, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000006}
+    - name: admar_light_Neck
+      parentName: admar_light_Spine2
+      position: {x: -0.0000000039702486, y: 0.23273647, z: 0.000000023961507}
+      rotation: {x: 0.000000011641532, y: 0.000000005820766, z: -0.0000000014551915,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: admar_light_Head
+      parentName: admar_light_Neck
+      position: {x: 0.00000000295197, y: 0.40922844, z: -0.000000022574293}
+      rotation: {x: 0.00000001164153, y: -0, z: 0.0000000014551914, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: admar_light_RightShoulder
+      parentName: admar_light_Spine2
+      position: {x: 0.2912007, y: 0.10300011, z: -0.00000008507079}
+      rotation: {x: 0.000000011641532, y: 0.000000005820766, z: -0.0000000014551915,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: admar_light_RightArm
+      parentName: admar_light_RightShoulder
+      position: {x: 0.1537512, y: 0.0000019472182, z: 0.0000001264803}
+      rotation: {x: -3.0963587e-10, y: 0.000000044260744, z: -0.021858573, w: 0.9997611}
+      scale: {x: 1, y: 1, z: 1}
+    - name: admar_light_RightForeArm
+      parentName: admar_light_RightArm
+      position: {x: 0.56752336, y: -0.00000006492792, z: 0.00000004652805}
+      rotation: {x: -0.00000004074537, y: 0.0000000516593, z: -0.000000029802322,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: admar_light_RightHand
+      parentName: admar_light_RightForeArm
+      position: {x: 0.452005, y: -0.000000029401608, z: 0.000000008297513}
+      rotation: {x: 0.00000002910383, y: -0.000000052386895, z: 0.000000059604645,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000007}
+    - name: admar_light_RightHandMiddle1
+      parentName: admar_light_RightHand
+      position: {x: 0.14557415, y: 0.0071925316, z: 0.018734647}
+      rotation: {x: 1.7763568e-15, y: -0.000000002910383, z: -0.00000002980232, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: admar_light_RightHandMiddle2
+      parentName: admar_light_RightHandMiddle1
+      position: {x: 0.06983396, y: -0.0000000074448545, z: 0.0000043560044}
+      rotation: {x: -0.000000005821093, y: -0.000005311449, z: -2.3092629e-14, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Object061
+      parentName: Admar_light_idle(Clone)
+      position: {x: 0.000791131, y: 2.842171e-16, z: 0.016065573}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object070
+      parentName: Admar_light_idle(Clone)
+      position: {x: 0.000791131, y: 2.842171e-16, z: 0.022226222}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

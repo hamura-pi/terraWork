@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 18933e055ec89b8438bc2ef155a95aaf
+timeCreated: 1483799130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: osminog_station_low_uv
+    100002: osminog_station_low_uv26
+    100004: osminog_station_low_uv27
+    100006: osminog_station_low_uv28
+    100008: osminog_station_low_uv29
+    100010: osminog_station_low_uv30
+    100012: osminog_station_low_uv31
+    100014: osminog_station_low_uv32
+    100016: osminog_station_low_uv33
+    100018: osminog_station_low_uv34
+    100020: osminog_station_low_uv35
+    100022: osminog_station_low_uv36
+    100024: osminog_station_low_uv37
+    100026: osminog_station_low_uv38
+    100028: osminog_station_low_uv39
+    100030: osminog_station_low_uv40
+    100032: osminog_station_low_uv41
+    100034: osminog_station_low_uv42
+    100036: osminog_station_low_uv43
+    100038: osminog_station_low_uv44
+    100040: osminog_station_low_uv45
+    100042: osminog_station_low_uv46
+    100044: osminog_station_low_uv47
+    100046: osminog_station_low_uv48
+    100048: osminog_station_low_uv49
+    100050: osminog_station_low_uv50
+    100052: osminog_station_low_uv51
+    100054: osminog_station_low_uv52
+    100056: osminog_station_low_uv53
+    100058: osminog_station_low_uv54
+    100060: osminog_station_low_uv55
+    100062: //RootNode
+    400000: osminog_station_low_uv
+    400002: osminog_station_low_uv26
+    400004: osminog_station_low_uv27
+    400006: osminog_station_low_uv28
+    400008: osminog_station_low_uv29
+    400010: osminog_station_low_uv30
+    400012: osminog_station_low_uv31
+    400014: osminog_station_low_uv32
+    400016: osminog_station_low_uv33
+    400018: osminog_station_low_uv34
+    400020: osminog_station_low_uv35
+    400022: osminog_station_low_uv36
+    400024: osminog_station_low_uv37
+    400026: osminog_station_low_uv38
+    400028: osminog_station_low_uv39
+    400030: osminog_station_low_uv40
+    400032: osminog_station_low_uv41
+    400034: osminog_station_low_uv42
+    400036: osminog_station_low_uv43
+    400038: osminog_station_low_uv44
+    400040: osminog_station_low_uv45
+    400042: osminog_station_low_uv46
+    400044: osminog_station_low_uv47
+    400046: osminog_station_low_uv48
+    400048: osminog_station_low_uv49
+    400050: osminog_station_low_uv50
+    400052: osminog_station_low_uv51
+    400054: osminog_station_low_uv52
+    400056: osminog_station_low_uv53
+    400058: osminog_station_low_uv54
+    400060: osminog_station_low_uv55
+    400062: //RootNode
+    2300000: osminog_station_low_uv
+    2300002: osminog_station_low_uv26
+    2300004: osminog_station_low_uv27
+    2300006: osminog_station_low_uv28
+    2300008: osminog_station_low_uv29
+    2300010: osminog_station_low_uv30
+    2300012: osminog_station_low_uv31
+    2300014: osminog_station_low_uv32
+    2300016: osminog_station_low_uv33
+    2300018: osminog_station_low_uv34
+    2300020: osminog_station_low_uv35
+    2300022: osminog_station_low_uv36
+    2300024: osminog_station_low_uv37
+    2300026: osminog_station_low_uv38
+    2300028: osminog_station_low_uv39
+    2300030: osminog_station_low_uv40
+    2300032: osminog_station_low_uv41
+    2300034: osminog_station_low_uv42
+    2300036: osminog_station_low_uv43
+    2300038: osminog_station_low_uv44
+    2300040: osminog_station_low_uv45
+    2300042: osminog_station_low_uv46
+    2300044: osminog_station_low_uv47
+    2300046: osminog_station_low_uv48
+    2300048: osminog_station_low_uv49
+    2300050: osminog_station_low_uv50
+    2300052: osminog_station_low_uv51
+    2300054: osminog_station_low_uv52
+    2300056: osminog_station_low_uv53
+    2300058: osminog_station_low_uv54
+    2300060: osminog_station_low_uv55
+    3300000: osminog_station_low_uv
+    3300002: osminog_station_low_uv26
+    3300004: osminog_station_low_uv27
+    3300006: osminog_station_low_uv28
+    3300008: osminog_station_low_uv29
+    3300010: osminog_station_low_uv30
+    3300012: osminog_station_low_uv31
+    3300014: osminog_station_low_uv32
+    3300016: osminog_station_low_uv33
+    3300018: osminog_station_low_uv34
+    3300020: osminog_station_low_uv35
+    3300022: osminog_station_low_uv36
+    3300024: osminog_station_low_uv37
+    3300026: osminog_station_low_uv38
+    3300028: osminog_station_low_uv39
+    3300030: osminog_station_low_uv40
+    3300032: osminog_station_low_uv41
+    3300034: osminog_station_low_uv42
+    3300036: osminog_station_low_uv43
+    3300038: osminog_station_low_uv44
+    3300040: osminog_station_low_uv45
+    3300042: osminog_station_low_uv46
+    3300044: osminog_station_low_uv47
+    3300046: osminog_station_low_uv48
+    3300048: osminog_station_low_uv49
+    3300050: osminog_station_low_uv50
+    3300052: osminog_station_low_uv51
+    3300054: osminog_station_low_uv52
+    3300056: osminog_station_low_uv53
+    3300058: osminog_station_low_uv54
+    3300060: osminog_station_low_uv55
+    4300000: osminog_station_low_uv40
+    4300002: osminog_station_low_uv41
+    4300004: osminog_station_low_uv42
+    4300006: osminog_station_low_uv27
+    4300008: osminog_station_low_uv49
+    4300010: osminog_station_low_uv
+    4300012: osminog_station_low_uv34
+    4300014: osminog_station_low_uv39
+    4300016: osminog_station_low_uv45
+    4300018: osminog_station_low_uv32
+    4300020: osminog_station_low_uv51
+    4300022: osminog_station_low_uv53
+    4300024: osminog_station_low_uv50
+    4300026: osminog_station_low_uv36
+    4300028: osminog_station_low_uv46
+    4300030: osminog_station_low_uv52
+    4300032: osminog_station_low_uv28
+    4300034: osminog_station_low_uv35
+    4300036: osminog_station_low_uv43
+    4300038: osminog_station_low_uv26
+    4300040: osminog_station_low_uv44
+    4300042: osminog_station_low_uv37
+    4300044: osminog_station_low_uv48
+    4300046: osminog_station_low_uv47
+    4300048: osminog_station_low_uv54
+    4300050: osminog_station_low_uv31
+    4300052: osminog_station_low_uv55
+    4300054: osminog_station_low_uv30
+    4300056: osminog_station_low_uv33
+    4300058: osminog_station_low_uv38
+    4300060: osminog_station_low_uv29
+    7400000: Nothing
+    7400002: Landing
+    7400004: LandPosition
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Nothing
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: osminog_station_low_uv40
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv35
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv43
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv43/osminog_station_low_uv26
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv29
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv33
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv38
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41/osminog_station_low_uv42
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41/osminog_station_low_uv42/osminog_station_low_uv27
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv37
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv48
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv48/osminog_station_low_uv47
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv32
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv51
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv51/osminog_station_low_uv53
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv34
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv34/osminog_station_low_uv39
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv36
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv46
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv46/osminog_station_low_uv52
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv31
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv55
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv55/osminog_station_low_uv30
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Landing
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: osminog_station_low_uv40
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv35
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv43
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv43/osminog_station_low_uv26
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv29
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv33
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv38
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41/osminog_station_low_uv42
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41/osminog_station_low_uv42/osminog_station_low_uv27
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv37
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv48
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv48/osminog_station_low_uv47
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv32
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv51
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv51/osminog_station_low_uv53
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv34
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv34/osminog_station_low_uv39
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv36
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv46
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv46/osminog_station_low_uv52
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv31
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv55
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv55/osminog_station_low_uv30
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LandPosition
+      takeName: Take 001
+      firstFrame: 128
+      lastFrame: 129
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: osminog_station_low_uv40
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv35
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv43
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv28/osminog_station_low_uv43/osminog_station_low_uv26
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv29
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv33
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv38
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41/osminog_station_low_uv42
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv41/osminog_station_low_uv42/osminog_station_low_uv27
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv37
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv48
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv44/osminog_station_low_uv48/osminog_station_low_uv47
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv32
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv51
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv45/osminog_station_low_uv51/osminog_station_low_uv53
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv34
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv49/osminog_station_low_uv34/osminog_station_low_uv39
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv36
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv46
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv50/osminog_station_low_uv46/osminog_station_low_uv52
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv31
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv55
+        weight: 1
+      - path: osminog_station_low_uv40/osminog_station_low_uv54/osminog_station_low_uv55/osminog_station_low_uv30
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

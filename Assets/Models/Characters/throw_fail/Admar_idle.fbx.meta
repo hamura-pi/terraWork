@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: cf60e7a5113f194438d756ba60469c23
+timeCreated: 1441923340
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: char_adamas_rig_defined:left
+    100004: char_adamas_rig_defined:mixamorig:Head
+    100006: char_adamas_rig_defined:mixamorig:HeadTop_End
+    100008: char_adamas_rig_defined:mixamorig:Hips
+    100010: char_adamas_rig_defined:mixamorig:LeftArm
+    100012: char_adamas_rig_defined:mixamorig:LeftFoot
+    100014: char_adamas_rig_defined:mixamorig:LeftForeArm
+    100016: char_adamas_rig_defined:mixamorig:LeftHand
+    100018: char_adamas_rig_defined:mixamorig:LeftHandIndex1
+    100020: char_adamas_rig_defined:mixamorig:LeftLeg
+    100022: char_adamas_rig_defined:mixamorig:LeftShoulder
+    100024: char_adamas_rig_defined:mixamorig:LeftToe_End
+    100026: char_adamas_rig_defined:mixamorig:LeftToeBase
+    100028: char_adamas_rig_defined:mixamorig:LeftUpLeg
+    100030: char_adamas_rig_defined:mixamorig:Neck
+    100032: char_adamas_rig_defined:mixamorig:RightArm
+    100034: char_adamas_rig_defined:mixamorig:RightFoot
+    100036: char_adamas_rig_defined:mixamorig:RightForeArm
+    100038: char_adamas_rig_defined:mixamorig:RightHand
+    100040: char_adamas_rig_defined:mixamorig:RightHandIndex1
+    100042: char_adamas_rig_defined:mixamorig:RightLeg
+    100044: char_adamas_rig_defined:mixamorig:RightShoulder
+    100046: char_adamas_rig_defined:mixamorig:RightToe_End
+    100048: char_adamas_rig_defined:mixamorig:RightToeBase
+    100050: char_adamas_rig_defined:mixamorig:RightUpLeg
+    100052: char_adamas_rig_defined:mixamorig:Spine
+    100054: char_adamas_rig_defined:mixamorig:Spine1
+    100056: char_adamas_rig_defined:mixamorig:Spine2
+    100058: char_adamas_rig_defined:Plane009
+    400000: //RootNode
+    400002: char_adamas_rig_defined:left
+    400004: char_adamas_rig_defined:mixamorig:Head
+    400006: char_adamas_rig_defined:mixamorig:HeadTop_End
+    400008: char_adamas_rig_defined:mixamorig:Hips
+    400010: char_adamas_rig_defined:mixamorig:LeftArm
+    400012: char_adamas_rig_defined:mixamorig:LeftFoot
+    400014: char_adamas_rig_defined:mixamorig:LeftForeArm
+    400016: char_adamas_rig_defined:mixamorig:LeftHand
+    400018: char_adamas_rig_defined:mixamorig:LeftHandIndex1
+    400020: char_adamas_rig_defined:mixamorig:LeftLeg
+    400022: char_adamas_rig_defined:mixamorig:LeftShoulder
+    400024: char_adamas_rig_defined:mixamorig:LeftToe_End
+    400026: char_adamas_rig_defined:mixamorig:LeftToeBase
+    400028: char_adamas_rig_defined:mixamorig:LeftUpLeg
+    400030: char_adamas_rig_defined:mixamorig:Neck
+    400032: char_adamas_rig_defined:mixamorig:RightArm
+    400034: char_adamas_rig_defined:mixamorig:RightFoot
+    400036: char_adamas_rig_defined:mixamorig:RightForeArm
+    400038: char_adamas_rig_defined:mixamorig:RightHand
+    400040: char_adamas_rig_defined:mixamorig:RightHandIndex1
+    400042: char_adamas_rig_defined:mixamorig:RightLeg
+    400044: char_adamas_rig_defined:mixamorig:RightShoulder
+    400046: char_adamas_rig_defined:mixamorig:RightToe_End
+    400048: char_adamas_rig_defined:mixamorig:RightToeBase
+    400050: char_adamas_rig_defined:mixamorig:RightUpLeg
+    400052: char_adamas_rig_defined:mixamorig:Spine
+    400054: char_adamas_rig_defined:mixamorig:Spine1
+    400056: char_adamas_rig_defined:mixamorig:Spine2
+    400058: char_adamas_rig_defined:Plane009
+    4300000: char_adamas_rig_defined:Plane009
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: char_adamas_rig_defined:Plane009
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e3690aac5b851f149ae44c4375a81238
+timeCreated: 1481892187
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Humanist 777 Black
+  fontNames:
+  - Humanist 777 Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: b09475ed7a345e74e9163e3a8aa3d49b
+timeCreated: 1492096069
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Admar_heavy_Head
+    100002: Admar_heavy_Hips
+    100004: Admar_heavy_LeftArm
+    100006: Admar_heavy_LeftFoot
+    100008: Admar_heavy_LeftForeArm
+    100010: Admar_heavy_LeftHand
+    100012: Admar_heavy_LeftHandMiddle1
+    100014: Admar_heavy_LeftHandMiddle2
+    100016: Admar_heavy_LeftLeg
+    100018: Admar_heavy_LeftShoulder
+    100020: Admar_heavy_LeftToeBase
+    100022: Admar_heavy_LeftUpLeg
+    100024: Admar_heavy_lod2
+    100026: //RootNode
+    100028: Admar_heavy_Neck
+    100030: Admar_heavy_Reference
+    100032: Admar_heavy_RightArm
+    100034: Admar_heavy_RightFoot
+    100036: Admar_heavy_RightForeArm
+    100038: Admar_heavy_RightHand
+    100040: Admar_heavy_RightHandMiddle1
+    100042: Admar_heavy_RightHandMiddle2
+    100044: Admar_heavy_RightLeg
+    100046: Admar_heavy_RightShoulder
+    100048: Admar_heavy_RightToeBase
+    100050: Admar_heavy_RightUpLeg
+    100052: Admar_heavy_Spine
+    100054: Admar_heavy_Spine1
+    100056: Admar_heavy_Spine2
+    100058: left_extra_elbow1_jnt
+    100060: left_extra_elbow2_jnt
+    100062: left_extra_elbow3_jnt
+    100064: left_extra_elbow4_jnt
+    100066: left_extra_elbow5_jnt
+    100068: left_extra_elbow6_jnt
+    100070: right_extra_elbow1_jnt
+    100072: right_extra_elbow2_jnt
+    100074: right_extra_elbow3_jnt
+    100076: right_extra_elbow4_jnt
+    100078: right_extra_elbow5_jnt
+    100080: right_extra_elbow6_jnt
+    400000: Admar_heavy_Head
+    400002: Admar_heavy_Hips
+    400004: Admar_heavy_LeftArm
+    400006: Admar_heavy_LeftFoot
+    400008: Admar_heavy_LeftForeArm
+    400010: Admar_heavy_LeftHand
+    400012: Admar_heavy_LeftHandMiddle1
+    400014: Admar_heavy_LeftHandMiddle2
+    400016: Admar_heavy_LeftLeg
+    400018: Admar_heavy_LeftShoulder
+    400020: Admar_heavy_LeftToeBase
+    400022: Admar_heavy_LeftUpLeg
+    400024: Admar_heavy_lod2
+    400026: //RootNode
+    400028: Admar_heavy_Neck
+    400030: Admar_heavy_Reference
+    400032: Admar_heavy_RightArm
+    400034: Admar_heavy_RightFoot
+    400036: Admar_heavy_RightForeArm
+    400038: Admar_heavy_RightHand
+    400040: Admar_heavy_RightHandMiddle1
+    400042: Admar_heavy_RightHandMiddle2
+    400044: Admar_heavy_RightLeg
+    400046: Admar_heavy_RightShoulder
+    400048: Admar_heavy_RightToeBase
+    400050: Admar_heavy_RightUpLeg
+    400052: Admar_heavy_Spine
+    400054: Admar_heavy_Spine1
+    400056: Admar_heavy_Spine2
+    400058: left_extra_elbow1_jnt
+    400060: left_extra_elbow2_jnt
+    400062: left_extra_elbow3_jnt
+    400064: left_extra_elbow4_jnt
+    400066: left_extra_elbow5_jnt
+    400068: left_extra_elbow6_jnt
+    400070: right_extra_elbow1_jnt
+    400072: right_extra_elbow2_jnt
+    400074: right_extra_elbow3_jnt
+    400076: right_extra_elbow4_jnt
+    400078: right_extra_elbow5_jnt
+    400080: right_extra_elbow6_jnt
+    4300000: Admar_heavy_lod2
+    9500000: //RootNode
+    13700000: Admar_heavy_lod2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Admar_heavy_Reference/Admar_heavy_Hips/Admar_heavy_Spine/Admar_heavy_Spine1/Admar_heavy_Spine2/Admar_heavy_RightShoulder/Admar_heavy_RightArm/Admar_heavy_RightForeArm/Admar_heavy_RightHand/Admar_heavy_RightHandMiddle1
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Admar_heavy_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_Spine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Admar_heavy_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: admar_heavy_lod2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_lod2
+      parentName: admar_heavy_lod2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Reference
+      parentName: admar_heavy_lod2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Hips
+      parentName: Admar_heavy_Reference
+      position: {x: -0, y: 0.5115537, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftUpLeg
+      parentName: Admar_heavy_Hips
+      position: {x: -0.08681884, y: -0.032074403, z: 0.015921533}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftLeg
+      parentName: Admar_heavy_LeftUpLeg
+      position: {x: -0, y: -0.16533506, z: -2.6645353e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftFoot
+      parentName: Admar_heavy_LeftLeg
+      position: {x: -0, y: -0.27245057, z: 2.6645353e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftToeBase
+      parentName: Admar_heavy_LeftFoot
+      position: {x: -0.00000004005432, y: -0.032035116, z: 0.06627036}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightUpLeg
+      parentName: Admar_heavy_Hips
+      position: {x: 0.08681884, y: -0.032074403, z: 0.015921533}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightLeg
+      parentName: Admar_heavy_RightUpLeg
+      position: {x: -0, y: -0.16533506, z: -2.6645353e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightFoot
+      parentName: Admar_heavy_RightLeg
+      position: {x: -0, y: -0.27245057, z: 2.6645353e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightToeBase
+      parentName: Admar_heavy_RightFoot
+      position: {x: 0.00000004005432, y: -0.032035116, z: 0.06627036}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Spine
+      parentName: Admar_heavy_Hips
+      position: {x: -0, y: 0.035808746, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Spine1
+      parentName: Admar_heavy_Spine
+      position: {x: -0, y: 0.06479681, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Spine2
+      parentName: Admar_heavy_Spine1
+      position: {x: -0, y: 0.06479681, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftShoulder
+      parentName: Admar_heavy_Spine2
+      position: {x: -0.09085552, y: -0.0021823882, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftArm
+      parentName: Admar_heavy_LeftShoulder
+      position: {x: -0.07601396, y: 0.00000068664554, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftForeArm
+      parentName: Admar_heavy_LeftArm
+      position: {x: -0.19632189, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_extra_elbow1_jnt
+      parentName: Admar_heavy_LeftForeArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.89362913, y: -0.4488063, z: 2.748146e-17, w: -5.4719003e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_extra_elbow2_jnt
+      parentName: left_extra_elbow1_jnt
+      position: {x: 0.004872921, y: -0.0038184533, z: 0.041184902}
+      rotation: {x: 0, y: 0, z: 0.458921, w: 0.88847715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftHand
+      parentName: Admar_heavy_LeftForeArm
+      position: {x: -0.15120536, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftHandMiddle1
+      parentName: Admar_heavy_LeftHand
+      position: {x: -0.05405397, y: 0.0025623322, z: 0.0066741616}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_LeftHandMiddle2
+      parentName: Admar_heavy_LeftHandMiddle1
+      position: {x: -0.050536744, y: 0, z: 0.0000015470981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_extra_elbow3_jnt
+      parentName: Admar_heavy_LeftForeArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.89362913, y: -0.4488063, z: 2.748146e-17, w: -5.4719003e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_extra_elbow4_jnt
+      parentName: left_extra_elbow3_jnt
+      position: {x: 0.031516805, y: -0.0038184533, z: 0.0523436}
+      rotation: {x: 0, y: 0, z: 0.458921, w: 0.88847715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_extra_elbow5_jnt
+      parentName: Admar_heavy_LeftForeArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.89362913, y: -0.4488063, z: 2.748146e-17, w: -5.4719003e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_extra_elbow6_jnt
+      parentName: left_extra_elbow5_jnt
+      position: {x: -0.025130782, y: -0.0038184533, z: 0.047537215}
+      rotation: {x: 0, y: 0, z: 0.458921, w: 0.88847715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightShoulder
+      parentName: Admar_heavy_Spine2
+      position: {x: 0.09085552, y: -0.0021823882, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightArm
+      parentName: Admar_heavy_RightShoulder
+      position: {x: 0.07601396, y: 0.00000068664554, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightForeArm
+      parentName: Admar_heavy_RightArm
+      position: {x: 0.19632189, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_extra_elbow3_jnt
+      parentName: Admar_heavy_RightForeArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.44880438, w: 0.89363}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_extra_elbow4_jnt
+      parentName: right_extra_elbow3_jnt
+      position: {x: -0.004873083, y: 0.0038177143, z: -0.04118487}
+      rotation: {x: 0, y: 0, z: 0.458921, w: 0.88847715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightHand
+      parentName: Admar_heavy_RightForeArm
+      position: {x: 0.15120536, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightHandMiddle1
+      parentName: Admar_heavy_RightHand
+      position: {x: 0.05405397, y: 0.0025623322, z: 0.0066741616}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_RightHandMiddle2
+      parentName: Admar_heavy_RightHandMiddle1
+      position: {x: 0.050536744, y: 0, z: 0.0000015470981}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_extra_elbow1_jnt
+      parentName: Admar_heavy_RightForeArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.44880438, w: 0.89363}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_extra_elbow2_jnt
+      parentName: right_extra_elbow1_jnt
+      position: {x: -0.029857842, y: 0.0038177143, z: -0.043364637}
+      rotation: {x: 0, y: 0, z: 0.458921, w: 0.88847715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_extra_elbow5_jnt
+      parentName: Admar_heavy_RightForeArm
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.44880438, w: 0.89363}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_extra_elbow6_jnt
+      parentName: right_extra_elbow5_jnt
+      position: {x: 0.021853322, y: 0.0038177143, z: -0.045029324}
+      rotation: {x: 0, y: 0, z: 0.458921, w: 0.88847715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Neck
+      parentName: Admar_heavy_Spine2
+      position: {x: -0, y: 0.06479677, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Admar_heavy_Head
+      parentName: Admar_heavy_Neck
+      position: {x: -0, y: 0.10231073, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

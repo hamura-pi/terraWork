@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: cc8d91d7adbc70b44993c5192e626fd1
+timeCreated: 1452525107
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animit_Head
+    100002: Animit_Hips
+    100004: //RootNode
+    100006: Animit_LeftArm
+    100008: Animit_LeftFoot
+    100010: Animit_LeftForeArm
+    100012: Animit_LeftHand
+    100014: Animit_LeftHandMiddle1
+    100016: Animit_LeftHandMiddle2
+    100018: Animit_LeftLeg
+    100020: Animit_LeftShoulder
+    100022: Animit_LeftToeBase
+    100024: Animit_LeftUpLeg
+    100026: Animit_Neck
+    100028: Animit_Reference
+    100030: Animit_RightArm
+    100032: Animit_RightFoot
+    100034: Animit_RightForeArm
+    100036: Animit_RightHand
+    100038: Animit_RightHandMiddle1
+    100040: Animit_RightHandMiddle2
+    100042: Animit_RightLeg
+    100044: Animit_RightShoulder
+    100046: Animit_RightToeBase
+    100048: Animit_RightUpLeg
+    100050: Animit_Spine
+    100052: Animit_Spine1
+    100054: Animit_Spine2
+    100056: Object016
+    400000: Animit_Head
+    400002: Animit_Hips
+    400004: //RootNode
+    400006: Animit_LeftArm
+    400008: Animit_LeftFoot
+    400010: Animit_LeftForeArm
+    400012: Animit_LeftHand
+    400014: Animit_LeftHandMiddle1
+    400016: Animit_LeftHandMiddle2
+    400018: Animit_LeftLeg
+    400020: Animit_LeftShoulder
+    400022: Animit_LeftToeBase
+    400024: Animit_LeftUpLeg
+    400026: Animit_Neck
+    400028: Animit_Reference
+    400030: Animit_RightArm
+    400032: Animit_RightFoot
+    400034: Animit_RightForeArm
+    400036: Animit_RightHand
+    400038: Animit_RightHandMiddle1
+    400040: Animit_RightHandMiddle2
+    400042: Animit_RightLeg
+    400044: Animit_RightShoulder
+    400046: Animit_RightToeBase
+    400048: Animit_RightUpLeg
+    400050: Animit_Spine
+    400052: Animit_Spine1
+    400054: Animit_Spine2
+    400056: Object016
+    4300000: Object016
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Animit_Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Animit_Reference
+        weight: 1
+      - path: Animit_Reference/Animit_Hips
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_LeftUpLeg
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_LeftUpLeg/Animit_LeftLeg
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_LeftUpLeg/Animit_LeftLeg/Animit_LeftFoot
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_LeftUpLeg/Animit_LeftLeg/Animit_LeftFoot/Animit_LeftToeBase
+        weight: 0
+      - path: Animit_Reference/Animit_Hips/Animit_RightUpLeg
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_RightUpLeg/Animit_RightLeg
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_RightUpLeg/Animit_RightLeg/Animit_RightFoot
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_RightUpLeg/Animit_RightLeg/Animit_RightFoot/Animit_RightToeBase
+        weight: 0
+      - path: Animit_Reference/Animit_Hips/Animit_Spine
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_LeftShoulder
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_LeftShoulder/Animit_LeftArm
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_LeftShoulder/Animit_LeftArm/Animit_LeftForeArm
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_LeftShoulder/Animit_LeftArm/Animit_LeftForeArm/Animit_LeftHand
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_LeftShoulder/Animit_LeftArm/Animit_LeftForeArm/Animit_LeftHand/Animit_LeftHandMiddle1
+        weight: 0
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_LeftShoulder/Animit_LeftArm/Animit_LeftForeArm/Animit_LeftHand/Animit_LeftHandMiddle1/Animit_LeftHandMiddle2
+        weight: 0
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_Neck
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_Neck/Animit_Head
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_RightShoulder
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_RightShoulder/Animit_RightArm
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_RightShoulder/Animit_RightArm/Animit_RightForeArm
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_RightShoulder/Animit_RightArm/Animit_RightForeArm/Animit_RightHand
+        weight: 1
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_RightShoulder/Animit_RightArm/Animit_RightForeArm/Animit_RightHand/Animit_RightHandMiddle1
+        weight: 0
+      - path: Animit_Reference/Animit_Hips/Animit_Spine/Animit_Spine1/Animit_Spine2/Animit_RightShoulder/Animit_RightArm/Animit_RightForeArm/Animit_RightHand/Animit_RightHandMiddle1/Animit_RightHandMiddle2
+        weight: 0
+      - path: Object016
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Animit_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: animit_idle2(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Animit_Reference
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Animit_Hips
+      position: {x: -0.000000052154064, y: 2.3891454, z: -0.000000059604645}
+      rotation: {x: -0.0000000687712, y: 0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: Animit_LeftUpLeg
+      position: {x: -0.30645797, y: -0.15699321, z: 0.000000008963664}
+      rotation: {x: -0.00480546, y: -0.08630511, z: -0.055385377, w: 0.99471647}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Animit_LeftLeg
+      position: {x: -0.000000072629, y: -0.9442895, z: 0.0000000704624}
+      rotation: {x: 0.000000018626451, y: -0.000000021187589, z: -0.000000020372681,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: Animit_LeftFoot
+      position: {x: -0.00000010562722, y: -1.1985184, z: 0.000000093099885}
+      rotation: {x: 0.0029677786, y: -0.05329898, z: 0.055515617, w: 0.9970298}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Animit_LeftToeBase
+      position: {x: -0.00000027250937, y: -0.15680067, z: 0.3243701}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: Animit_RightUpLeg
+      position: {x: 0.30645806, y: -0.15699308, z: 0.00000003579276}
+      rotation: {x: -0.0048057763, y: 0.08630924, z: 0.05538691, w: 0.99471605}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Animit_RightLeg
+      position: {x: 0.00000003040314, y: -0.94428915, z: -0.000000025098014}
+      rotation: {x: -0.000000028405339, y: 0.0000000014551915, z: 0.0000000088475645,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: Animit_RightFoot
+      position: {x: 0.00000006473161, y: -1.1985192, z: -0.00000034637526}
+      rotation: {x: 0.0029677958, y: 0.053299144, z: -0.055515744, w: 0.9970298}
+      scale: {x: 0.99999994, y: 1, z: 0.9999997}
+      transformModified: 1
+    - name: Animit_RightToeBase
+      position: {x: 0.00000018599103, y: -0.15680075, z: 0.32437032}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+      transformModified: 1
+    - name: Animit_Spine
+      position: {x: -0.00000003364833, y: 0.17527145, z: 0.00000014590353}
+      rotation: {x: 0.000000009166563, y: 0.000000009166561, z: 8.402572e-17, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Animit_Spine1
+      position: {x: -0.0000000028823088, y: 0.31715754, z: 0.000000030474297}
+      rotation: {x: 0.000000009166559, y: -6.8328983e-16, z: -0.0000000034374599,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: Animit_Spine2
+      position: {x: 0.0000000032469027, y: 0.31715757, z: -0.000000007804584}
+      rotation: {x: -5.2516142e-17, y: 0.000000009166562, z: 0.0000000022916395, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Animit_LeftShoulder
+      position: {x: -0.360498, y: 0.26545858, z: 0.025884086}
+      rotation: {x: 1.6543612e-24, y: 6.617445e-24, z: -1.110223e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Animit_LeftArm
+      position: {x: -0.42859092, y: 0.09147749, z: -0.025883941}
+      rotation: {x: -0.000000018085782, y: 0.000000010502938, z: 0.03422063, w: 0.9994143}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: Animit_LeftForeArm
+      position: {x: -0.833067, y: -0.0000006359379, z: 0.0000000396329}
+      rotation: {x: 0.000000001145816, y: -0.00000002749967, z: 0.00000002980232,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Animit_LeftHand
+      position: {x: -0.80722743, y: -0.00000014029504, z: 0.00000032030744}
+      rotation: {x: -0.00000001489564, y: 0.000000027499667, z: 1.4456576e-15, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Animit_LeftHandMiddle1
+      position: {x: -0.26254052, y: 0.012218042, z: 0.032790072}
+      rotation: {x: 4.440892e-16, y: 1.7763568e-15, z: 1.0587912e-22, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Animit_LeftHandMiddle2
+      position: {x: -0.30810726, y: -0.00000001596818, z: 0.000007591571}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Animit_RightShoulder
+      position: {x: 0.3604981, y: 0.26545852, z: 0.025883984}
+      rotation: {x: 1.6543612e-24, y: 6.617445e-24, z: -1.110223e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Animit_RightArm
+      position: {x: 0.42859104, y: 0.09147731, z: -0.025884}
+      rotation: {x: 0.000000011627464, y: -0.00000006397605, z: -0.03422122, w: 0.9994143}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Animit_RightForeArm
+      position: {x: 0.8330667, y: 0.0000003604563, z: -0.00000012788848}
+      rotation: {x: 0.000000009166557, y: 0, z: 0.000000014901161, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: Animit_RightHand
+      position: {x: 0.8072281, y: -0.00000007439486, z: -0.000000029323814}
+      rotation: {x: -0.000000009166558, y: -8.881784e-16, z: -0.000000029802322, w: 1}
+      scale: {x: 1, y: 0.9999997, z: 1}
+      transformModified: 1
+    - name: Animit_RightHandMiddle1
+      position: {x: 0.26254046, y: 0.012218121, z: 0.032790173}
+      rotation: {x: 3.5527137e-15, y: 8.881784e-16, z: -5.293956e-23, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Animit_RightHandMiddle2
+      position: {x: 0.3081073, y: -0.00000014221706, z: 0.000007506392}
+      rotation: {x: -0.000000009167138, y: -0.0000053349377, z: -0.000000014901456,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: Animit_Neck
+      position: {x: 0.0000000019587978, y: 0.3171574, z: 0.0000000089031795}
+      rotation: {x: 1.6543612e-24, y: 6.617445e-24, z: -1.110223e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: Animit_Head
+      position: {x: 0.000000037979433, y: 0.5007762, z: 0.00000007765435}
+      rotation: {x: -0.000000009166559, y: -0.00000000916656, z: 0.0000000011458203,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Object016
+      position: {x: 0, y: 2.1155066, z: 2.842171e-16}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

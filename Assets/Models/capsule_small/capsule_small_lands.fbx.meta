@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: dc0cb12b45f051e44ada2c6e2dd8d8f9
+timeCreated: 1436966517
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: //RootNode
+    100004: door_jnt
+    100006: door_jnt1
+    100008: doors_open
+    100010: doors_up
+    100012: fixators_closed
+    100014: group
+    100016: group 1
+    100018: group 2
+    100020: group1
+    100022: group3
+    100024: group4
+    100026: gun_down
+    100028: gun_in
+    100030: joint6
+    100032: joint7
+    100034: left
+    100036: pCube1
+    100038: pPlane1
+    400000: back
+    400002: //RootNode
+    400004: door_jnt
+    400006: door_jnt1
+    400008: doors_open
+    400010: doors_up
+    400012: fixators_closed
+    400014: group
+    400016: group 1
+    400018: group 2
+    400020: group1
+    400022: group3
+    400024: group4
+    400026: gun_down
+    400028: gun_in
+    400030: joint6
+    400032: joint7
+    400034: left
+    400036: pCube1
+    400038: pPlane1
+    2300000: doors_open
+    2300002: doors_up
+    2300004: gun_down
+    2300006: gun_in
+    2300008: pCube1
+    2300010: pPlane1
+    3300000: doors_open
+    3300002: doors_up
+    3300004: gun_down
+    3300006: gun_in
+    3300008: pCube1
+    3300010: pPlane1
+    4300000: fixators_closed
+    4300002: gun_down
+    4300004: gun_in
+    4300006: doors_open
+    4300008: doors_up
+    4300010: pPlane1
+    4300012: pCube1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: fixators_closed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

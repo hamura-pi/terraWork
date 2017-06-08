@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 80490be3a2245c246b6a74f832c82f7d
+timeCreated: 1483971630
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2
+    100002: Animit_light_armor_Head
+    100004: Animit_light_armor_Hips
+    100006: Animit_light_armor_LeftArm
+    100008: Animit_light_armor_LeftFoot
+    100010: Animit_light_armor_LeftForeArm
+    100012: Animit_light_armor_LeftHand
+    100014: Animit_light_armor_LeftHandMiddle1
+    100016: Animit_light_armor_LeftHandMiddle2
+    100018: Animit_light_armor_LeftHandMiddle3
+    100020: Animit_light_armor_LeftHandMiddle4
+    100022: Animit_light_armor_LeftLeg
+    100024: Animit_light_armor_LeftShoulder
+    100026: Animit_light_armor_LeftToeBase
+    100028: Animit_light_armor_LeftUpLeg
+    100030: Animit_light_armor_Neck
+    100032: Animit_light_armor_Reference
+    100034: Animit_light_armor_RightArm
+    100036: Animit_light_armor_RightFoot
+    100038: Animit_light_armor_RightForeArm
+    100040: Animit_light_armor_RightHand
+    100042: Animit_light_armor_RightHandMiddle1
+    100044: Animit_light_armor_RightHandMiddle2
+    100046: Animit_light_armor_RightHandMiddle3
+    100048: Animit_light_armor_RightHandMiddle4
+    100050: Animit_light_armor_RightLeg
+    100052: Animit_light_armor_RightShoulder
+    100054: Animit_light_armor_RightToeBase
+    100056: Animit_light_armor_RightUpLeg
+    100058: Animit_light_armor_Spine
+    100060: Animit_light_armor_Spine1
+    100062: Animit_light_armor_Spine2
+    100064: //RootNode
+    400000: 2
+    400002: Animit_light_armor_Head
+    400004: Animit_light_armor_Hips
+    400006: Animit_light_armor_LeftArm
+    400008: Animit_light_armor_LeftFoot
+    400010: Animit_light_armor_LeftForeArm
+    400012: Animit_light_armor_LeftHand
+    400014: Animit_light_armor_LeftHandMiddle1
+    400016: Animit_light_armor_LeftHandMiddle2
+    400018: Animit_light_armor_LeftHandMiddle3
+    400020: Animit_light_armor_LeftHandMiddle4
+    400022: Animit_light_armor_LeftLeg
+    400024: Animit_light_armor_LeftShoulder
+    400026: Animit_light_armor_LeftToeBase
+    400028: Animit_light_armor_LeftUpLeg
+    400030: Animit_light_armor_Neck
+    400032: Animit_light_armor_Reference
+    400034: Animit_light_armor_RightArm
+    400036: Animit_light_armor_RightFoot
+    400038: Animit_light_armor_RightForeArm
+    400040: Animit_light_armor_RightHand
+    400042: Animit_light_armor_RightHandMiddle1
+    400044: Animit_light_armor_RightHandMiddle2
+    400046: Animit_light_armor_RightHandMiddle3
+    400048: Animit_light_armor_RightHandMiddle4
+    400050: Animit_light_armor_RightLeg
+    400052: Animit_light_armor_RightShoulder
+    400054: Animit_light_armor_RightToeBase
+    400056: Animit_light_armor_RightUpLeg
+    400058: Animit_light_armor_Spine
+    400060: Animit_light_armor_Spine1
+    400062: Animit_light_armor_Spine2
+    400064: //RootNode
+    4300000: 2
+    9500000: //RootNode
+    13700000: 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Animit_light_armor_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Animit_light_armor_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: animit_light_rig(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 2
+      parentName: animit_light_rig(Clone)
+      position: {x: -0, y: 6.310887e-32, z: 0.13898648}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+    - name: Animit_light_armor_Reference
+      parentName: animit_light_rig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_Hips
+      parentName: Animit_light_armor_Reference
+      position: {x: -0, y: 2.5979803, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftUpLeg
+      parentName: Animit_light_armor_Hips
+      position: {x: -0.23148006, y: -0.16289337, z: 0}
+      rotation: {x: -0.04254459, y: 0.0030830905, z: -0.072211966, w: 0.99647677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftLeg
+      parentName: Animit_light_armor_LeftUpLeg
+      position: {x: 3.5527136e-17, y: -1.1659384, z: 0}
+      rotation: {x: 0.11404356, y: -0, z: -0, w: 0.9934758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftFoot
+      parentName: Animit_light_armor_LeftLeg
+      position: {x: -3.5527136e-17, y: -1.0574028, z: 0}
+      rotation: {x: -0.1159067, y: -0.03466399, z: -0.004047551, w: 0.9926468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftToeBase
+      parentName: Animit_light_armor_LeftFoot
+      position: {x: -0.00000020980835, y: -0.16269377, z: 0.33656108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightUpLeg
+      parentName: Animit_light_armor_Hips
+      position: {x: 0.23148006, y: -0.16289337, z: 0}
+      rotation: {x: -0.042544574, y: -0.003083221, z: 0.07221502, w: 0.99647653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightLeg
+      parentName: Animit_light_armor_RightUpLeg
+      position: {x: -3.5527136e-17, y: -1.1659384, z: 0}
+      rotation: {x: 0.11404356, y: -0, z: -0, w: 0.9934758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightFoot
+      parentName: Animit_light_armor_RightLeg
+      position: {x: 3.5527136e-17, y: -1.0574028, z: 0}
+      rotation: {x: -0.1159067, y: 0.03466399, z: 0.004047551, w: 0.9926468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightToeBase
+      parentName: Animit_light_armor_RightFoot
+      position: {x: 0.00000020980835, y: -0.16269377, z: 0.33656108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_Spine
+      parentName: Animit_light_armor_Hips
+      position: {x: -0, y: 0.18185851, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_Spine1
+      parentName: Animit_light_armor_Spine
+      position: {x: -0, y: 0.39743865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_Spine2
+      parentName: Animit_light_armor_Spine1
+      position: {x: -0, y: 0.39743865, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftShoulder
+      parentName: Animit_light_armor_Spine2
+      position: {x: -0.23990598, y: 0.014345093, z: 0.019592734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftArm
+      parentName: Animit_light_armor_LeftShoulder
+      position: {x: -0.4455989, y: 0.11891998, z: -0.019592734}
+      rotation: {x: -0, y: 0.02316756, z: -0, w: 0.9997316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftForeArm
+      parentName: Animit_light_armor_LeftArm
+      position: {x: -0.88062435, y: -1.7053025e-15, z: -0.112667136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftHand
+      parentName: Animit_light_armor_LeftForeArm
+      position: {x: -0.85029995, y: 5.684342e-16, z: -0.056079805}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftHandMiddle1
+      parentName: Animit_light_armor_LeftHand
+      position: {x: -0.22887893, y: 0.013013001, z: 0.033895444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftHandMiddle2
+      parentName: Animit_light_armor_LeftHandMiddle1
+      position: {x: -0.12634644, y: 0, z: 0.000007848739}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftHandMiddle3
+      parentName: Animit_light_armor_LeftHandMiddle2
+      position: {x: -0.07184021, y: 0, z: 0.0000044631956}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_LeftHandMiddle4
+      parentName: Animit_light_armor_LeftHandMiddle3
+      position: {x: -0.052106015, y: 0, z: 0.0000032138823}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightShoulder
+      parentName: Animit_light_armor_Spine2
+      position: {x: 0.23990598, y: 0.014345093, z: 0.019592734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightArm
+      parentName: Animit_light_armor_RightShoulder
+      position: {x: 0.4455989, y: 0.11891998, z: -0.019592734}
+      rotation: {x: -0, y: -0.02316756, z: -0, w: 0.9997316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightForeArm
+      parentName: Animit_light_armor_RightArm
+      position: {x: 0.88062435, y: -1.7053025e-15, z: -0.112667136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightHand
+      parentName: Animit_light_armor_RightForeArm
+      position: {x: 0.85029995, y: 5.684342e-16, z: -0.056079805}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightHandMiddle1
+      parentName: Animit_light_armor_RightHand
+      position: {x: 0.22887893, y: 0.013013001, z: 0.033895444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightHandMiddle2
+      parentName: Animit_light_armor_RightHandMiddle1
+      position: {x: 0.12634644, y: 0, z: 0.000007848739}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightHandMiddle3
+      parentName: Animit_light_armor_RightHandMiddle2
+      position: {x: 0.07184021, y: 0, z: 0.000003699283}
+      rotation: {x: 0, y: 0.00006380099, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_RightHandMiddle4
+      parentName: Animit_light_armor_RightHandMiddle3
+      position: {x: 0.052106015, y: 5.684342e-16, z: 0.000009308644}
+      rotation: {x: 0, y: -0.0003509054, z: -0, w: 0.99999994}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Animit_light_armor_Neck
+      parentName: Animit_light_armor_Spine2
+      position: {x: -0, y: 0.39743835, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Animit_light_armor_Head
+      parentName: Animit_light_armor_Neck
+      position: {x: -0, y: 0.5195962, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

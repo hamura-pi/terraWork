@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 787eff9d4ac81154481ce5440329dc24
+timeCreated: 1483799137
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: socket_000
+    100002: socket_001
+    100004: socket_002
+    100006: socket_003
+    100008: socket_004
+    100010: socket_005
+    100012: socket_006
+    100014: socket_007
+    100016: standart_station_low105
+    100018: standart_station_low106
+    100020: standart_station_low107
+    100022: standart_station_low108
+    100024: standart_station_low113
+    100026: standart_station_low114
+    100028: standart_station_low115
+    100030: standart_station_low117
+    100032: standart_station_low118
+    100034: standart_station_low119
+    100036: standart_station_low120
+    100038: standart_station_low121
+    100040: standart_station_low122
+    100042: standart_station_low123
+    100044: standart_station_low124
+    100046: standart_station_low18
+    100048: standart_station_low32
+    100050: standart_station_low37
+    100052: standart_station_low38
+    100054: standart_station_low39
+    100056: standart_station_low40
+    100058: standart_station_low41
+    100060: standart_station_low42
+    100062: standart_station_low82
+    100064: standart_station_low_body
+    100066: standart_station_low_door_bottom
+    100068: standart_station_low_door_top
+    100070: //RootNode
+    400000: socket_000
+    400002: socket_001
+    400004: socket_002
+    400006: socket_003
+    400008: socket_004
+    400010: socket_005
+    400012: socket_006
+    400014: socket_007
+    400016: standart_station_low105
+    400018: standart_station_low106
+    400020: standart_station_low107
+    400022: standart_station_low108
+    400024: standart_station_low113
+    400026: standart_station_low114
+    400028: standart_station_low115
+    400030: standart_station_low117
+    400032: standart_station_low118
+    400034: standart_station_low119
+    400036: standart_station_low120
+    400038: standart_station_low121
+    400040: standart_station_low122
+    400042: standart_station_low123
+    400044: standart_station_low124
+    400046: standart_station_low18
+    400048: standart_station_low32
+    400050: standart_station_low37
+    400052: standart_station_low38
+    400054: standart_station_low39
+    400056: standart_station_low40
+    400058: standart_station_low41
+    400060: standart_station_low42
+    400062: standart_station_low82
+    400064: standart_station_low_body
+    400066: standart_station_low_door_bottom
+    400068: standart_station_low_door_top
+    400070: //RootNode
+    2300000: standart_station_low105
+    2300002: standart_station_low106
+    2300004: standart_station_low107
+    2300006: standart_station_low108
+    2300008: standart_station_low113
+    2300010: standart_station_low114
+    2300012: standart_station_low115
+    2300014: standart_station_low117
+    2300016: standart_station_low118
+    2300018: standart_station_low119
+    2300020: standart_station_low120
+    2300022: standart_station_low121
+    2300024: standart_station_low122
+    2300026: standart_station_low123
+    2300028: standart_station_low124
+    2300030: standart_station_low18
+    2300032: standart_station_low32
+    2300034: standart_station_low37
+    2300036: standart_station_low38
+    2300038: standart_station_low39
+    2300040: standart_station_low40
+    2300042: standart_station_low41
+    2300044: standart_station_low42
+    2300046: standart_station_low82
+    2300048: standart_station_low_body
+    2300050: standart_station_low_door_bottom
+    2300052: standart_station_low_door_top
+    3300000: standart_station_low105
+    3300002: standart_station_low106
+    3300004: standart_station_low107
+    3300006: standart_station_low108
+    3300008: standart_station_low113
+    3300010: standart_station_low114
+    3300012: standart_station_low115
+    3300014: standart_station_low117
+    3300016: standart_station_low118
+    3300018: standart_station_low119
+    3300020: standart_station_low120
+    3300022: standart_station_low121
+    3300024: standart_station_low122
+    3300026: standart_station_low123
+    3300028: standart_station_low124
+    3300030: standart_station_low18
+    3300032: standart_station_low32
+    3300034: standart_station_low37
+    3300036: standart_station_low38
+    3300038: standart_station_low39
+    3300040: standart_station_low40
+    3300042: standart_station_low41
+    3300044: standart_station_low42
+    3300046: standart_station_low82
+    3300048: standart_station_low_body
+    3300050: standart_station_low_door_bottom
+    3300052: standart_station_low_door_top
+    4300000: standart_station_low_body
+    4300002: standart_station_low_door_top
+    4300004: standart_station_low106
+    4300006: standart_station_low105
+    4300008: standart_station_low82
+    4300010: standart_station_low114
+    4300012: standart_station_low124
+    4300014: standart_station_low18
+    4300016: standart_station_low_door_bottom
+    4300018: standart_station_low113
+    4300020: standart_station_low32
+    4300022: standart_station_low121
+    4300024: standart_station_low40
+    4300026: standart_station_low123
+    4300028: standart_station_low41
+    4300030: standart_station_low115
+    4300032: standart_station_low108
+    4300034: standart_station_low120
+    4300036: standart_station_low42
+    4300038: standart_station_low118
+    4300040: standart_station_low37
+    4300042: standart_station_low117
+    4300044: standart_station_low38
+    4300046: standart_station_low107
+    4300048: standart_station_low119
+    4300050: standart_station_low122
+    4300052: standart_station_low39
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: fad53cb119b2f7043871ad59f00b33f5
+timeCreated: 1472311357
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: kalmar_station_low20
+    100002: kalmar_station_low21
+    100004: kalmar_station_low22
+    100006: kalmar_station_low23
+    100008: kalmar_station_low24
+    100010: kalmar_station_low25
+    100012: kalmar_station_low26
+    100014: kalmar_station_low27
+    100016: kalmar_station_low28
+    100018: kalmar_station_low29
+    100020: kalmar_station_low30
+    100022: kalmar_station_low31
+    100024: kalmar_station_low32
+    100026: kalmar_station_low33
+    100028: kalmar_station_low34
+    100030: kalmar_station_low35
+    100032: kalmar_station_low36
+    100034: kalmar_station_low37
+    100036: kalmar_station_low38
+    100038: kalmar_station_low39
+    100040: kalmar_station_low40
+    100042: kalmar_station_low41
+    100044: kalmar_station_low42
+    100046: kalmar_station_low43
+    100048: kalmar_station_low44
+    100050: kalmar_station_low45
+    100052: kalmar_station_low46
+    100054: kalmar_station_low47
+    100056: kalmar_station_low48
+    100058: //RootNode
+    400000: kalmar_station_low20
+    400002: kalmar_station_low21
+    400004: kalmar_station_low22
+    400006: kalmar_station_low23
+    400008: kalmar_station_low24
+    400010: kalmar_station_low25
+    400012: kalmar_station_low26
+    400014: kalmar_station_low27
+    400016: kalmar_station_low28
+    400018: kalmar_station_low29
+    400020: kalmar_station_low30
+    400022: kalmar_station_low31
+    400024: kalmar_station_low32
+    400026: kalmar_station_low33
+    400028: kalmar_station_low34
+    400030: kalmar_station_low35
+    400032: kalmar_station_low36
+    400034: kalmar_station_low37
+    400036: kalmar_station_low38
+    400038: kalmar_station_low39
+    400040: kalmar_station_low40
+    400042: kalmar_station_low41
+    400044: kalmar_station_low42
+    400046: kalmar_station_low43
+    400048: kalmar_station_low44
+    400050: kalmar_station_low45
+    400052: kalmar_station_low46
+    400054: kalmar_station_low47
+    400056: kalmar_station_low48
+    400058: //RootNode
+    2300000: kalmar_station_low20
+    2300002: kalmar_station_low21
+    2300004: kalmar_station_low22
+    2300006: kalmar_station_low23
+    2300008: kalmar_station_low24
+    2300010: kalmar_station_low25
+    2300012: kalmar_station_low26
+    2300014: kalmar_station_low27
+    2300016: kalmar_station_low28
+    2300018: kalmar_station_low29
+    2300020: kalmar_station_low30
+    2300022: kalmar_station_low31
+    2300024: kalmar_station_low32
+    2300026: kalmar_station_low33
+    2300028: kalmar_station_low34
+    2300030: kalmar_station_low35
+    2300032: kalmar_station_low36
+    2300034: kalmar_station_low37
+    2300036: kalmar_station_low38
+    2300038: kalmar_station_low39
+    2300040: kalmar_station_low40
+    2300042: kalmar_station_low41
+    2300044: kalmar_station_low42
+    2300046: kalmar_station_low43
+    2300048: kalmar_station_low44
+    2300050: kalmar_station_low45
+    2300052: kalmar_station_low46
+    2300054: kalmar_station_low47
+    2300056: kalmar_station_low48
+    3300000: kalmar_station_low20
+    3300002: kalmar_station_low21
+    3300004: kalmar_station_low22
+    3300006: kalmar_station_low23
+    3300008: kalmar_station_low24
+    3300010: kalmar_station_low25
+    3300012: kalmar_station_low26
+    3300014: kalmar_station_low27
+    3300016: kalmar_station_low28
+    3300018: kalmar_station_low29
+    3300020: kalmar_station_low30
+    3300022: kalmar_station_low31
+    3300024: kalmar_station_low32
+    3300026: kalmar_station_low33
+    3300028: kalmar_station_low34
+    3300030: kalmar_station_low35
+    3300032: kalmar_station_low36
+    3300034: kalmar_station_low37
+    3300036: kalmar_station_low38
+    3300038: kalmar_station_low39
+    3300040: kalmar_station_low40
+    3300042: kalmar_station_low41
+    3300044: kalmar_station_low42
+    3300046: kalmar_station_low43
+    3300048: kalmar_station_low44
+    3300050: kalmar_station_low45
+    3300052: kalmar_station_low46
+    3300054: kalmar_station_low47
+    3300056: kalmar_station_low48
+    4300000: kalmar_station_low20
+    4300002: kalmar_station_low26
+    4300004: kalmar_station_low28
+    4300006: kalmar_station_low43
+    4300008: kalmar_station_low36
+    4300010: kalmar_station_low44
+    4300012: kalmar_station_low32
+    4300014: kalmar_station_low31
+    4300016: kalmar_station_low29
+    4300018: kalmar_station_low27
+    4300020: kalmar_station_low34
+    4300022: kalmar_station_low30
+    4300024: kalmar_station_low38
+    4300026: kalmar_station_low39
+    4300028: kalmar_station_low40
+    4300030: kalmar_station_low42
+    4300032: kalmar_station_low41
+    4300034: kalmar_station_low37
+    4300036: kalmar_station_low24
+    4300038: kalmar_station_low25
+    4300040: kalmar_station_low33
+    4300042: kalmar_station_low21
+    4300044: kalmar_station_low47
+    4300046: kalmar_station_low35
+    4300048: kalmar_station_low23
+    4300050: kalmar_station_low22
+    4300052: kalmar_station_low45
+    4300054: kalmar_station_low46
+    4300056: kalmar_station_low48
+    7400000: kalmStationLanding
+    7400002: Nothing
+    7400004: LandingState
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: kalmStationLanding
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 171
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kalmar_station_low20
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low23
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low23/kalmar_station_low22
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low26
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low28
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27/kalmar_station_low34
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27/kalmar_station_low34/kalmar_station_low30
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low32
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21/kalmar_station_low35
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21/kalmar_station_low47
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low36
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37/kalmar_station_low24
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37/kalmar_station_low25
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40/kalmar_station_low42
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40/kalmar_station_low42/kalmar_station_low41
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low43
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low44
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low45
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low45/kalmar_station_low46
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low48
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Nothing
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kalmar_station_low20
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low23
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low23/kalmar_station_low22
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low26
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low28
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27/kalmar_station_low34
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27/kalmar_station_low34/kalmar_station_low30
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low32
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21/kalmar_station_low35
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21/kalmar_station_low47
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low36
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37/kalmar_station_low24
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37/kalmar_station_low25
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40/kalmar_station_low42
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40/kalmar_station_low42/kalmar_station_low41
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low43
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low44
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low45
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low45/kalmar_station_low46
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low48
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LandingState
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kalmar_station_low20
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low23
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low23/kalmar_station_low22
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low26
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low28
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27/kalmar_station_low34
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low31/kalmar_station_low29/kalmar_station_low27/kalmar_station_low34/kalmar_station_low30
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low32
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21/kalmar_station_low35
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low33/kalmar_station_low21/kalmar_station_low47
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low36
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37/kalmar_station_low24
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low37/kalmar_station_low25
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40/kalmar_station_low42
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low38/kalmar_station_low39/kalmar_station_low40/kalmar_station_low42/kalmar_station_low41
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low43
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low44
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low45
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low45/kalmar_station_low46
+        weight: 1
+      - path: kalmar_station_low20/kalmar_station_low48
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

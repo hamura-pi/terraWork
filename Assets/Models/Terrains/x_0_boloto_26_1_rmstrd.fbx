@@ -1,0 +1,545 @@
+; FBX 6.1.0 project file
+; Copyright (C) 1997-2008 Autodesk Inc. and/or its licensors.
+; All rights reserved.
+; ----------------------------------------------------
+
+FBXHeaderExtension:  {
+    FBXHeaderVersion: 1003
+    FBXVersion: 6100
+    CreationTimeStamp:  {
+        Version: 1000
+        Year: 2016
+        Month: 12
+        Day: 30
+        Hour: 12
+        Minute: 52
+        Second: 10
+        Millisecond: 429
+    }
+    Creator: "FBX SDK/FBX Plugins version 2009.1"
+    OtherFlags:  {
+        FlagPLE: 0
+    }
+}
+CreationTime: "2016-12-30 12:52:10:429"
+Creator: "FBX SDK/FBX Plugins build 20080516"
+
+; Document Description
+;------------------------------------------------------------------
+
+Document:  {
+    Name: ""
+}
+
+; Document References
+;------------------------------------------------------------------
+
+References:  {
+}
+
+; Object definitions
+;------------------------------------------------------------------
+
+Definitions:  {
+    Version: 100
+    Count: 6
+    ObjectType: "Model" {
+        Count: 3
+    }
+    ObjectType: "Material" {
+        Count: 1
+    }
+    ObjectType: "SceneInfo" {
+        Count: 1
+    }
+    ObjectType: "GlobalSettings" {
+        Count: 1
+    }
+}
+
+; Object properties
+;------------------------------------------------------------------
+
+Objects:  {
+    Model: "Model::Model", "Null" {
+        Version: 232
+        Properties60:  {
+            Property: "QuaternionInterpolate", "bool", "",0
+            Property: "RotationOffset", "Vector3D", "",0,0,0
+            Property: "RotationPivot", "Vector3D", "",0,0,0
+            Property: "ScalingOffset", "Vector3D", "",0,0,0
+            Property: "ScalingPivot", "Vector3D", "",0,0,0
+            Property: "TranslationActive", "bool", "",0
+            Property: "TranslationMin", "Vector3D", "",0,0,0
+            Property: "TranslationMax", "Vector3D", "",0,0,0
+            Property: "TranslationMinX", "bool", "",0
+            Property: "TranslationMinY", "bool", "",0
+            Property: "TranslationMinZ", "bool", "",0
+            Property: "TranslationMaxX", "bool", "",0
+            Property: "TranslationMaxY", "bool", "",0
+            Property: "TranslationMaxZ", "bool", "",0
+            Property: "RotationOrder", "enum", "",0
+            Property: "RotationSpaceForLimitOnly", "bool", "",0
+            Property: "RotationStiffnessX", "double", "",0
+            Property: "RotationStiffnessY", "double", "",0
+            Property: "RotationStiffnessZ", "double", "",0
+            Property: "AxisLen", "double", "",10
+            Property: "PreRotation", "Vector3D", "",0,0,0
+            Property: "PostRotation", "Vector3D", "",0,0,0
+            Property: "RotationActive", "bool", "",0
+            Property: "RotationMin", "Vector3D", "",0,0,0
+            Property: "RotationMax", "Vector3D", "",0,0,0
+            Property: "RotationMinX", "bool", "",0
+            Property: "RotationMinY", "bool", "",0
+            Property: "RotationMinZ", "bool", "",0
+            Property: "RotationMaxX", "bool", "",0
+            Property: "RotationMaxY", "bool", "",0
+            Property: "RotationMaxZ", "bool", "",0
+            Property: "InheritType", "enum", "",0
+            Property: "ScalingActive", "bool", "",0
+            Property: "ScalingMin", "Vector3D", "",1,1,1
+            Property: "ScalingMax", "Vector3D", "",1,1,1
+            Property: "ScalingMinX", "bool", "",0
+            Property: "ScalingMinY", "bool", "",0
+            Property: "ScalingMinZ", "bool", "",0
+            Property: "ScalingMaxX", "bool", "",0
+            Property: "ScalingMaxY", "bool", "",0
+            Property: "ScalingMaxZ", "bool", "",0
+            Property: "GeometricTranslation", "Vector3D", "",0,0,0
+            Property: "GeometricRotation", "Vector3D", "",0,0,0
+            Property: "GeometricScaling", "Vector3D", "",1,1,1
+            Property: "MinDampRangeX", "double", "",0
+            Property: "MinDampRangeY", "double", "",0
+            Property: "MinDampRangeZ", "double", "",0
+            Property: "MaxDampRangeX", "double", "",0
+            Property: "MaxDampRangeY", "double", "",0
+            Property: "MaxDampRangeZ", "double", "",0
+            Property: "MinDampStrengthX", "double", "",0
+            Property: "MinDampStrengthY", "double", "",0
+            Property: "MinDampStrengthZ", "double", "",0
+            Property: "MaxDampStrengthX", "double", "",0
+            Property: "MaxDampStrengthY", "double", "",0
+            Property: "MaxDampStrengthZ", "double", "",0
+            Property: "PreferedAngleX", "double", "",0
+            Property: "PreferedAngleY", "double", "",0
+            Property: "PreferedAngleZ", "double", "",0
+            Property: "LookAtProperty", "object", ""
+            Property: "UpVectorProperty", "object", ""
+            Property: "Show", "bool", "",1
+            Property: "NegativePercentShapeSupport", "bool", "",1
+            Property: "DefaultAttributeIndex", "int", "",-1
+            Property: "Lcl Translation", "Lcl Translation", "A+",0,0,0
+            Property: "Lcl Rotation", "Lcl Rotation", "A+",0,0,0
+            Property: "Lcl Scaling", "Lcl Scaling", "A+",1,1,1
+            Property: "Visibility", "Visibility", "A+",1
+        }
+        MultiLayer: 0
+        MultiTake: 1
+        Shading: Y
+        Culling: "CullingOff"
+        TypeFlags: "Null"
+    }
+    Model: "Model::x_0_boloto_26_1_rmstrd1", "Null" {
+        Version: 232
+        Properties60:  {
+            Property: "QuaternionInterpolate", "bool", "",0
+            Property: "RotationOffset", "Vector3D", "",0,0,0
+            Property: "RotationPivot", "Vector3D", "",0,0,0
+            Property: "ScalingOffset", "Vector3D", "",0,0,0
+            Property: "ScalingPivot", "Vector3D", "",0,0,0
+            Property: "TranslationActive", "bool", "",0
+            Property: "TranslationMin", "Vector3D", "",0,0,0
+            Property: "TranslationMax", "Vector3D", "",0,0,0
+            Property: "TranslationMinX", "bool", "",0
+            Property: "TranslationMinY", "bool", "",0
+            Property: "TranslationMinZ", "bool", "",0
+            Property: "TranslationMaxX", "bool", "",0
+            Property: "TranslationMaxY", "bool", "",0
+            Property: "TranslationMaxZ", "bool", "",0
+            Property: "RotationOrder", "enum", "",0
+            Property: "RotationSpaceForLimitOnly", "bool", "",0
+            Property: "RotationStiffnessX", "double", "",0
+            Property: "RotationStiffnessY", "double", "",0
+            Property: "RotationStiffnessZ", "double", "",0
+            Property: "AxisLen", "double", "",10
+            Property: "PreRotation", "Vector3D", "",0,0,0
+            Property: "PostRotation", "Vector3D", "",0,0,0
+            Property: "RotationActive", "bool", "",0
+            Property: "RotationMin", "Vector3D", "",0,0,0
+            Property: "RotationMax", "Vector3D", "",0,0,0
+            Property: "RotationMinX", "bool", "",0
+            Property: "RotationMinY", "bool", "",0
+            Property: "RotationMinZ", "bool", "",0
+            Property: "RotationMaxX", "bool", "",0
+            Property: "RotationMaxY", "bool", "",0
+            Property: "RotationMaxZ", "bool", "",0
+            Property: "InheritType", "enum", "",0
+            Property: "ScalingActive", "bool", "",0
+            Property: "ScalingMin", "Vector3D", "",1,1,1
+            Property: "ScalingMax", "Vector3D", "",1,1,1
+            Property: "ScalingMinX", "bool", "",0
+            Property: "ScalingMinY", "bool", "",0
+            Property: "ScalingMinZ", "bool", "",0
+            Property: "ScalingMaxX", "bool", "",0
+            Property: "ScalingMaxY", "bool", "",0
+            Property: "ScalingMaxZ", "bool", "",0
+            Property: "GeometricTranslation", "Vector3D", "",0,0,0
+            Property: "GeometricRotation", "Vector3D", "",0,0,0
+            Property: "GeometricScaling", "Vector3D", "",1,1,1
+            Property: "MinDampRangeX", "double", "",0
+            Property: "MinDampRangeY", "double", "",0
+            Property: "MinDampRangeZ", "double", "",0
+            Property: "MaxDampRangeX", "double", "",0
+            Property: "MaxDampRangeY", "double", "",0
+            Property: "MaxDampRangeZ", "double", "",0
+            Property: "MinDampStrengthX", "double", "",0
+            Property: "MinDampStrengthY", "double", "",0
+            Property: "MinDampStrengthZ", "double", "",0
+            Property: "MaxDampStrengthX", "double", "",0
+            Property: "MaxDampStrengthY", "double", "",0
+            Property: "MaxDampStrengthZ", "double", "",0
+            Property: "PreferedAngleX", "double", "",0
+            Property: "PreferedAngleY", "double", "",0
+            Property: "PreferedAngleZ", "double", "",0
+            Property: "LookAtProperty", "object", ""
+            Property: "UpVectorProperty", "object", ""
+            Property: "Show", "bool", "",1
+            Property: "NegativePercentShapeSupport", "bool", "",1
+            Property: "DefaultAttributeIndex", "int", "",-1
+            Property: "Lcl Translation", "Lcl Translation", "A+",0,0,0
+            Property: "Lcl Rotation", "Lcl Rotation", "A+",0,0,0
+            Property: "Lcl Scaling", "Lcl Scaling", "A+",1,1,1
+            Property: "Visibility", "Visibility", "A+",1
+        }
+        MultiLayer: 0
+        MultiTake: 1
+        Shading: Y
+        Culling: "CullingOff"
+        TypeFlags: "Null"
+    }
+    Model: "Model::Mesh1", "Mesh" {
+        Version: 232
+        Properties60:  {
+            Property: "QuaternionInterpolate", "bool", "",0
+            Property: "RotationOffset", "Vector3D", "",0,0,0
+            Property: "RotationPivot", "Vector3D", "",0,0,0
+            Property: "ScalingOffset", "Vector3D", "",0,0,0
+            Property: "ScalingPivot", "Vector3D", "",0,0,0
+            Property: "TranslationActive", "bool", "",0
+            Property: "TranslationMin", "Vector3D", "",0,0,0
+            Property: "TranslationMax", "Vector3D", "",0,0,0
+            Property: "TranslationMinX", "bool", "",0
+            Property: "TranslationMinY", "bool", "",0
+            Property: "TranslationMinZ", "bool", "",0
+            Property: "TranslationMaxX", "bool", "",0
+            Property: "TranslationMaxY", "bool", "",0
+            Property: "TranslationMaxZ", "bool", "",0
+            Property: "RotationOrder", "enum", "",0
+            Property: "RotationSpaceForLimitOnly", "bool", "",0
+            Property: "RotationStiffnessX", "double", "",0
+            Property: "RotationStiffnessY", "double", "",0
+            Property: "RotationStiffnessZ", "double", "",0
+            Property: "AxisLen", "double", "",10
+            Property: "PreRotation", "Vector3D", "",0,0,0
+            Property: "PostRotation", "Vector3D", "",0,0,0
+            Property: "RotationActive", "bool", "",0
+            Property: "RotationMin", "Vector3D", "",0,0,0
+            Property: "RotationMax", "Vector3D", "",0,0,0
+            Property: "RotationMinX", "bool", "",0
+            Property: "RotationMinY", "bool", "",0
+            Property: "RotationMinZ", "bool", "",0
+            Property: "RotationMaxX", "bool", "",0
+            Property: "RotationMaxY", "bool", "",0
+            Property: "RotationMaxZ", "bool", "",0
+            Property: "InheritType", "enum", "",0
+            Property: "ScalingActive", "bool", "",0
+            Property: "ScalingMin", "Vector3D", "",1,1,1
+            Property: "ScalingMax", "Vector3D", "",1,1,1
+            Property: "ScalingMinX", "bool", "",0
+            Property: "ScalingMinY", "bool", "",0
+            Property: "ScalingMinZ", "bool", "",0
+            Property: "ScalingMaxX", "bool", "",0
+            Property: "ScalingMaxY", "bool", "",0
+            Property: "ScalingMaxZ", "bool", "",0
+            Property: "GeometricTranslation", "Vector3D", "",0,0,0
+            Property: "GeometricRotation", "Vector3D", "",0,0,0
+            Property: "GeometricScaling", "Vector3D", "",1,1,1
+            Property: "MinDampRangeX", "double", "",0
+            Property: "MinDampRangeY", "double", "",0
+            Property: "MinDampRangeZ", "double", "",0
+            Property: "MaxDampRangeX", "double", "",0
+            Property: "MaxDampRangeY", "double", "",0
+            Property: "MaxDampRangeZ", "double", "",0
+            Property: "MinDampStrengthX", "double", "",0
+            Property: "MinDampStrengthY", "double", "",0
+            Property: "MinDampStrengthZ", "double", "",0
+            Property: "MaxDampStrengthX", "double", "",0
+            Property: "MaxDampStrengthY", "double", "",0
+            Property: "MaxDampStrengthZ", "double", "",0
+            Property: "PreferedAngleX", "double", "",0
+            Property: "PreferedAngleY", "double", "",0
+            Property: "PreferedAngleZ", "double", "",0
+            Property: "LookAtProperty", "object", ""
+            Property: "UpVectorProperty", "object", ""
+            Property: "Show", "bool", "",1
+            Property: "NegativePercentShapeSupport", "bool", "",1
+            Property: "DefaultAttributeIndex", "int", "",0
+            Property: "Lcl Translation", "Lcl Translation", "A+",0,0,0
+            Property: "Lcl Rotation", "Lcl Rotation", "A+",0,0,0
+            Property: "Lcl Scaling", "Lcl Scaling", "A+",1,1,1
+            Property: "Visibility", "Visibility", "A+",1
+            Property: "Color", "ColorRGB", "N",0.8,0.8,0.8
+            Property: "BBoxMin", "Vector3D", "N",0,0,0
+            Property: "BBoxMax", "Vector3D", "N",0,0,0
+        }
+        MultiLayer: 0
+        MultiTake: 1
+        Shading: T
+        Culling: "CullingOff"
+        Vertices: 3.0000000215714,-0.200000000405876,-4.31486441016204e-008,3.3917245662968,-2.76461843640163e-011,-0.913972996376543
+        ,3.00000002157294,1.02003421531549e-010,-4.31451702638697e-008,3.39172456629522,-0.200000000535525,-0.913972996380017
+        ,-8.62899658557126e-008,6.94817632762579e-011,-4.99999997842737,-1.54055896928185e-012,-0.2,-0.999999978430826,1.44382283906452e-015
+        ,0,-0.999999978427375,-8.62915540608355e-008,-0.199999999930518,-4.99999997843084,1.00000000000001,-7.61447349617583e-012
+        ,-0.999999999999844,1.00000002157098,-0.200000000024985,-3.45290231962281e-012,1.00000002157252,-2.49849255951062e-011
+        ,-2.16573425859679e-015,0.999999999998463,-0.200000000007615,-1.00000000000332,-8.62915540608355e-008,-0.199999999930518
+        ,-4.99999997843084,0.676199913710036,6.4267938526541e-011,-4.99999999301464,0.676199913708448,-0.199999999935732,-4.99999999301812
+        ,-8.62899658557126e-008,6.94817632762579e-011,-4.99999997842737,0.676199913710036,6.4267938526541e-011,-4.99999999301464
+        ,1.67728326789145,-0.199999999932762,-5.61537965467246,0.676199913708448,-0.199999999935732,-4.99999999301812,1.67728326789299
+        ,6.7238491219257e-011,-5.61537965466899,3.00000002157294,1.02003421531549e-010,-4.31451702638697e-008,1.00000002157098
+        ,-0.200000000024985,-3.45290231962281e-012,3.0000000215714,-0.200000000405876,-4.31486441016204e-008,1.00000002157252
+        ,-2.49849255951062e-011,-2.16573425859679e-015,1.44382283906452e-015,0,-0.999999978427375,0.676199913710036,6.4267938526541e-011
+        ,-4.99999999301464,-8.62899658557126e-008,6.94817632762579e-011,-4.99999997842737,1.00000000000001,-7.61447349617583e-012
+        ,-0.999999999999844,1.67728326789299,6.7238491219257e-011,-5.61537965466899,1.00000002157252,-2.49849255951062e-011
+        ,-2.16573425859679e-015,3.00000002157294,1.02003421531549e-010,-4.31451702638697e-008,2.77116540482567,3.14964312408961e-011
+        ,-4.0433014181744,3.69938462510426,2.43394014276532e-011,-4.0433014381984,3.3917245662968,-2.76461843640163e-011,-0.913972996376543
+        ,3.78344911102043,-1.47904534841814e-011,-1.82794594960787,4.00745172104623,3.18552437761355e-012,-2.96223924091381
+        ,1.00000000000001,-7.61447349617583e-012,-0.999999999999844,-1.54055896928185e-012,-0.2,-0.999999978430826,0.999999999998463
+        ,-0.200000000007615,-1.00000000000332,1.44382283906452e-015,0,-0.999999978427375,3.39172456629522,-0.200000000535525
+        ,-0.913972996380017,3.78344911102043,-1.47904534841814e-011,-1.82794594960787,3.3917245662968,-2.76461843640163e-011
+        ,-0.913972996376543,3.78344911101889,-0.20000000052267,-1.82794594961134,3.78344911101889,-0.20000000052267,-1.82794594961134
+        ,4.00745172104623,3.18552437761355e-012,-2.96223924091381,3.78344911102043,-1.47904534841814e-011,-1.82794594960787
+        ,4.00745172104465,-0.200000000504694,-2.96223924091728,4.00745172104465,-0.200000000504694,-2.96223924091728,3.69938462510426
+        ,2.43394014276532e-011,-4.0433014381984,4.00745172104623,3.18552437761355e-012,-2.96223924091381,3.69938462510272
+        ,-0.20000000048354,-4.04330143820188,2.77116540482412,-0.200000000476383,-4.04330141817788,1.67728326789299,6.7238491219257e-011
+        ,-5.61537965466899,2.77116540482567,3.14964312408961e-011,-4.0433014181744,1.67728326789145,-0.199999999932762,-5.61537965467246
+        ,2.77116540482412,-0.200000000476383,-4.04330141817788,3.69938462510426,2.43394014276532e-011,-4.0433014381984,3.69938462510272
+        ,-0.20000000048354,-4.04330143820188,2.77116540482567,3.14964312408961e-011,-4.0433014181744
+        PolygonVertexIndex: 0,1,-3,1,0,-4,4,5,-7,5,4,-8,8,9,-11,9,8,-12,12,13,-15,13,12,-16,16,17,-19,17,16,-20,20,21,-23,21,20,-24,24,25,-27
+        ,25,24,-28,25,27,-29,28,27,-30,28,29,-31,28,30,-32,31,30,-33,32,30,-34,32,33,-35,32,34,-36,36,37,-39,37,36,-40,40
+        ,41,-43,41,40,-44,44,45,-47,45,44,-48,48,49,-51,49,48,-52,52,53,-55,53,52,-56,56,57,-59,57,56,-60
+        GeometryVersion: 124
+        LayerElementNormal: 0 {
+            Version: 101
+            Name: ""
+            MappingInformationType: "ByVertice"
+            ReferenceInformationType: "Direct"
+            Normals: 0.919137073748464,-1.39299104822415e-011,0.393937862690439,0.919137073748464,-1.39299104822415e-011,0.393937862690439
+             ,0.919137073748464,-1.39299104822415e-011,0.393937862690439,0.919137073748464,-1.39299104822415e-011,0.393937862690439
+             ,-1,7.73000461726135e-012,2.15724956024146e-008,-1,7.73000461726135e-012,2.15724956024146e-008,-1,7.73000461726135e-012
+             ,2.15724956024146e-008,-1,7.73000461726135e-012,2.15724956024146e-008,-1,7.61449879013729e-012,2.15724898271224e-008
+             ,-1,7.61449879013729e-012,2.15724898271224e-008,-1,7.61449879013729e-012,2.15724898271224e-008,-1,7.61449879013729e-012
+             ,2.15724898271224e-008,-2.15724940264609e-008,1.73704380294057e-011,-1,-2.15724940264609e-008,1.73704380294057e-011
+             ,-1,-2.15724940264609e-008,1.73704380294057e-011,-1,-2.15724940264609e-008,1.73704380294057e-011,-1,-0.523682802871507
+             ,1.88359610048499e-011,-0.851913330085075,-0.523682802871507,1.88359610048499e-011,-0.851913330085075,-0.523682802871507
+             ,1.88359610048499e-011,-0.851913330085075,-0.523682802871507,1.88359610048499e-011,-0.851913330085075,2.15725551716017e-008
+             ,-1.73704380294062e-011,1,2.15725551716017e-008,-1.73704380294062e-011,1,2.15725551716017e-008,-1.73704380294062e-011
+             ,1,2.15725551716017e-008,-1.73704380294062e-011,1,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012
+             ,1,8.68457364181716e-012,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012,1,8.68457364181716e-012
+             ,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012
+             ,1,8.68457364181716e-012,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012,1,8.68457364181716e-012
+             ,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012,1,8.68457364181716e-012,3.85524731549742e-012
+             ,1,8.68457364181716e-012,2.15724898271223e-008,-1.73615953587227e-011,1,2.15724898271223e-008,-1.73615953587227e-011
+             ,1,2.15724898271223e-008,-1.73615953587227e-011,1,2.15724898271223e-008,-1.73615953587227e-011,1,0.919137073748455
+             ,-1.39298746380614e-011,0.393937862690458,0.919137073748455,-1.39298746380614e-011,0.393937862690458,0.919137073748455
+             ,-1.39298746380614e-011,0.393937862690458,0.919137073748455,-1.39298746380614e-011,0.393937862690458,0.98105283800893
+             ,-1.09297576121837e-011,0.193740365011074,0.98105283800893,-1.09297576121837e-011,0.193740365011074,0.98105283800893
+             ,-1.09297576121837e-011,0.193740365011074,0.98105283800893,-1.09297576121837e-011,0.193740365011074,0.961713546201049
+             ,-2.65480288249757e-012,-0.274056663946351,0.961713546201049,-2.65480288249757e-012,-0.274056663946351,0.961713546201049
+             ,-2.65480288249757e-012,-0.274056663946351,0.961713546201049,-2.65480288249757e-012,-0.274056663946351,0.820840945180991
+             ,3.59213271005514e-012,-0.571156845983988,0.820840945180991,3.59213271005514e-012,-0.571156845983988,0.820840945180991
+             ,3.59213271005514e-012,-0.571156845983988,0.820840945180991,3.59213271005514e-012,-0.571156845983988,-2.15724940264609e-008
+             ,1.73704380294057e-011,-1,-2.15724940264609e-008,1.73704380294057e-011,-1,-2.15724940264609e-008,1.73704380294057e-011
+             ,-1,-2.15724940264609e-008,1.73704380294057e-011,-1
+        }
+        LayerElementUV: 0 {
+            Version: 101
+            Name: ""
+            MappingInformationType: "ByPolygonVertex"
+            ReferenceInformationType: "IndexToDirect"
+            UV: 46.52809725284,6.61654108795078e-009,85.6769773956606,7.87401576953896,46.5280972527382,7.87401577464328,85.6769773957617
+             ,1.51222411885517e-009,-196.850392851471,7.87401577185067,-39.3700778909772,2.10836761711152e-008,-39.3700778908414
+             ,7.87401576911517,-196.850392851608,2.38191786623065e-008,-39.3700778908406,7.87401576911517,8.49174858952773e-007
+             ,2.03998010995629e-008,8.4931071472516e-007,7.8740157684313,-39.3700778909773,2.10836762782715e-008,-4.2465539238978e-006
+             ,2.03998010793876e-008,-26.622051490711,7.87401576822603,-26.6220514906485,2.01945315002754e-008,-4.24661645165559e-006
+             ,7.8740157684313,-125.76684269702,7.87401576874923,-172.030622224599,2.08346817825909e-008,-125.766842697038
+             ,2.07177300009984e-008,-172.030622224579,7.87401576886618,118.110240467106,7.87401577313106,39.3700829867138
+             ,2.01000176650436e-008,118.110240467046,5.10431698384616e-009,39.3700829867746,7.87401576813151,3.39727497855091e-006
+             ,39.3700778909098,26.6220472441267,196.850393425842,3.21714825802771e-011,196.850392851539,39.3700821374326,39.3700787402196
+             ,66.0347777237706,221.077939160265,39.3700829867442,6.83824697964858e-011,118.110240467076,1.69869704775076e-006
+             ,109.101003587262,159.185095203785,145.645067377758,159.185095992131,133.532466637307,35.9831888337905,148.954692807528
+             ,71.9663759688821,157.773693202245,116.623592162029,39.3700829867736,7.87401576813186,4.24655523085385e-006,2.04001487767048e-008
+             ,39.3700829867129,2.01003654674171e-008,4.24661593962226e-006,7.87401576843165,85.6769773957639,1.51222022762888e-009
+             ,124.82585753858,7.87401577004509,85.6769773956628,7.87401576953896,124.825857538682,2.01835314098705e-009,99.4613539401936
+             ,1.95093355176315e-009,144.981038979442,7.87401577068539,99.4613539400712,7.87401576997767,144.981038979564,2.6586483274349e-009
+             ,68.9195563714224,1.7015205645371e-009,113.175461883083,7.87401577056109,68.9195563712737,7.87401576972826,113.175461883231
+             ,2.53434948147837e-009,68.3518589032863,1.6801620562295e-009,143.753609168941,7.87401577111407,68.3518589031394
+             ,7.8740157697069,143.753609169088,2.30825734549261e-008,-109.101007021251,-4.36665357296583e-010,-145.645070811807
+             ,7.8740157673083,-145.645070811747,-7.18438184589604e-010,-109.101007021312,7.87401576759008
+            UVIndex: 0,1,2,1,0,3,4,5,6,5,4,7,8,9,10,9,8,11,12,13,14,13,12,15,16,17,18,17,16,19,20,21,22,21,20,23,24,25,26,25,24,27
+             ,25,27,28,28,27,29,28,29,30,28,30,31,31,30,32,32,30,33,32,33,34,32,34,35,36,37,38,37,36,39,40,41,42,41,40,43
+             ,44,45,46,45,44,47,48,49,50,49,48,51,52,53,54,53,52,55,56,57,58,57,56,59
+        }
+        LayerElementMaterial: 0 {
+            Version: 101
+            Name: ""
+            MappingInformationType: "ByPolygon"
+            ReferenceInformationType: "IndexToDirect"
+            Materials: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+        }
+        LayerElementTexture: 0 {
+            Version: 101
+            Name: ""
+            MappingInformationType: "ByPolygon"
+            ReferenceInformationType: "IndexToDirect"
+            BlendMode: "Translucent"
+            TextureAlpha: 1
+            TextureId: -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+        }
+        Layer: 0 {
+            Version: 100
+            LayerElement:  {
+                Type: "LayerElementNormal"
+                TypedIndex: 0
+            }
+            LayerElement:  {
+                Type: "LayerElementMaterial"
+                TypedIndex: 0
+            }
+            LayerElement:  {
+                Type: "LayerElementTexture"
+                TypedIndex: 0
+            }
+            LayerElement:  {
+                Type: "LayerElementUV"
+                TypedIndex: 0
+            }
+        }
+        NodeAttributeName: "Geometry::Mesh1"
+    }
+    SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
+        Type: "UserData"
+        Version: 100
+        MetaData:  {
+            Version: 100
+            Title: ""
+            Subject: ""
+            Author: ""
+            Keywords: ""
+            Revision: ""
+            Comment: ""
+        }
+        Properties60:  {
+            Property: "DocumentUrl", "KString", "", "C:\Users\samuray\AppData\Local\Temp\65AE.tmp.fbx"
+            Property: "SrcDocumentUrl", "KString", "", "C:\Users\samuray\AppData\Local\Temp\65AE.tmp.fbx"
+            Property: "Original", "Compound", ""
+            Property: "Original|ApplicationVendor", "KString", "", ""
+            Property: "Original|ApplicationName", "KString", "", ""
+            Property: "Original|ApplicationVersion", "KString", "", ""
+            Property: "Original|DateTime_GMT", "DateTime", "", ""
+            Property: "Original|FileName", "KString", "", ""
+            Property: "LastSaved", "Compound", ""
+            Property: "LastSaved|ApplicationVendor", "KString", "", ""
+            Property: "LastSaved|ApplicationName", "KString", "", ""
+            Property: "LastSaved|ApplicationVersion", "KString", "", ""
+            Property: "LastSaved|DateTime_GMT", "DateTime", "", ""
+        }
+    }
+    Material: "Material::Color_E16", "" {
+        Version: 102
+        ShadingModel: "phong"
+        MultiLayer: 0
+        Properties60:  {
+            Property: "ShadingModel", "KString", "", "Phong"
+            Property: "MultiLayer", "bool", "",0
+            Property: "EmissiveColor", "ColorRGB", "",0,0,0
+            Property: "EmissiveFactor", "double", "",1
+            Property: "AmbientColor", "ColorRGB", "",0,0,0
+            Property: "AmbientFactor", "double", "",1
+            Property: "DiffuseColor", "ColorRGB", "",0.4,0.4,0
+            Property: "DiffuseFactor", "double", "",1
+            Property: "Bump", "Vector3D", "",0,0,0
+            Property: "NormalMap", "Vector3D", "",0,0,0
+            Property: "TransparentColor", "ColorRGB", "",1,1,1
+            Property: "TransparencyFactor", "double", "",0
+            Property: "SpecularColor", "ColorRGB", "",0.33,0.33,0.33
+            Property: "SpecularFactor", "double", "",1
+            Property: "ShininessExponent", "double", "",20
+            Property: "ReflectionColor", "ColorRGB", "",0,0,0
+            Property: "ReflectionFactor", "double", "",0
+            Property: "Emissive", "Vector3D", "",0,0,0
+            Property: "Ambient", "Vector3D", "",0,0,0
+            Property: "Diffuse", "Vector3D", "",0.4,0.4,0
+            Property: "Specular", "Vector3D", "",0.33,0.33,0.33
+            Property: "Shininess", "double", "",20
+            Property: "Opacity", "double", "",1
+            Property: "Reflectivity", "double", "",0
+        }
+    }
+    GlobalSettings:  {
+        Version: 1000
+        Properties60:  {
+            Property: "UpAxis", "int", "",1
+            Property: "UpAxisSign", "int", "",1
+            Property: "FrontAxis", "int", "",2
+            Property: "FrontAxisSign", "int", "",1
+            Property: "CoordAxis", "int", "",0
+            Property: "CoordAxisSign", "int", "",1
+            Property: "UnitScaleFactor", "double", "",1
+        }
+    }
+}
+
+; Object connections
+;------------------------------------------------------------------
+
+Connections:  {
+    Connect: "OO", "Model::Model", "Model::Scene"
+    Connect: "OO", "Model::x_0_boloto_26_1_rmstrd1", "Model::Model"
+    Connect: "OO", "Model::Mesh1", "Model::x_0_boloto_26_1_rmstrd1"
+    Connect: "OO", "Material::Color_E16", "Model::Mesh1"
+}
+;Takes and animation section
+;----------------------------------------------------
+
+Takes:  {
+    Current: ""
+}
+;Version 5 settings
+;------------------------------------------------------------------
+
+Version5:  {
+    AmbientRenderSettings:  {
+        Version: 101
+        AmbientLightColor: 0.4,0.4,0.4,0
+    }
+    FogOptions:  {
+        FlogEnable: 0
+        FogMode: 0
+        FogDensity: 0.002
+        FogStart: 0.3
+        FogEnd: 1000
+        FogColor: 1,1,1,1
+    }
+    Settings:  {
+        FrameRate: "30"
+        TimeFormat: 1
+        SnapOnFrames: 0
+        ReferenceTimeIndex: -1
+        TimeLineStartTime: 0
+        TimeLineStopTime: 46186158000
+    }
+    RendererSetting:  {
+        DefaultCamera: ""
+        DefaultViewingMode: 0
+    }
+}
