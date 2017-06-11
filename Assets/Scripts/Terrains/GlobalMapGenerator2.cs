@@ -731,7 +731,7 @@ namespace Assets.Scripts.Terrains
 
         private Tuple<int, int>[] _playerCurrentCoordSet = new Tuple<int, int>[9];
 
-        private static Tuple<int, int>[] MakeNearCoordsSet(int x, int y)
+        public static Tuple<int, int>[] MakeNearCoordsSet(int x, int y)
         {
             var coords = new Tuple<int, int>[9];
 
