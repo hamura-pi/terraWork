@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using Pathfinding;
 using UnityEngine;
@@ -6,17 +7,21 @@ using UnityEngine;
 
 namespace Assets.Scripts.Terrains
 {
+    public enum SidesOfBorder { North, East, South, West}
+
     public class ZemlyaFieldsControll : MonoBehaviour
     {
         public GameObject Combs;
         public GameObject[] LevelLinks;
+        public bool tempConnect;
+
         private BoxCollider[] _updateCombLinks;
         private GridGraph[] _fields;
 
-        private List<GridNode> _northBorder;
-        private List<GridNode> _eastBorder;
-        private List<GridNode> _southBorder;
-        private List<GridNode> _westhBorder;
+        public List<GridNode> _northBorder;
+        public List<GridNode> _eastBorder;
+        public List<GridNode> _southBorder;
+        public List<GridNode> _westhBorder;
 
 
         private bool _isInit;
@@ -37,6 +42,15 @@ namespace Assets.Scripts.Terrains
             if (_fields != null)
             {
                 GetBorderNode();
+            }
+        }
+
+        void Update()
+        {
+            if (tempConnect && Input.GetKeyDown(KeyCode.A))
+            {
+                ConnectBorder();
+                tempConnect = false;
             }
         }
 
@@ -61,6 +75,12 @@ namespace Assets.Scripts.Terrains
         //Берем пограничные ноды
         private void GetBorderNode()
         {
+            _northBorder = new List<GridNode>();
+            _eastBorder = new List<GridNode>();
+            _southBorder = new List<GridNode>();
+            _westhBorder = new List<GridNode>();
+
+
             foreach (var field in _fields)
             {
                 for (var i = 0; i < field.Depth; i++)
@@ -69,6 +89,28 @@ namespace Assets.Scripts.Terrains
                     _eastBorder.Add(_fields[1].nodes[i * _fields[1].Depth + (_fields[1].Depth - 1)]);
                     _southBorder.Add(_fields[1].nodes[i]);
                     _westhBorder.Add(_fields[1].nodes[i * _fields[1].Depth]);
+                }
+            }
+            Debug.Log(_northBorder.Count);
+            Debug.Log(_southBorder.Count);
+            //foreach (var node in _northBorder)
+            //{
+            //    node.Walkable = false;
+            //}
+        }
+
+        public void ConnectBorder()
+        {
+            
+            for (int i = 0; i < _northBorder.Count; i++)
+            {
+                try
+                {
+                    _northBorder[i].AddConnection(TestConnector.I.map2._southBorder[i], 1);
+                }
+                catch (ArgumentOutOfRangeException e)
+                {
+                    Debug.Log(i);
                 }
             }
         }
