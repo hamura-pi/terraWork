@@ -95,13 +95,18 @@ namespace Assets.Scripts.Terrains
                 }
             }
 
-            for (int i = 3 * northBorder.Count / 4; i < northBorder.Count; i++)
-            {
-                northBorder[i].Walkable = false;
-                eastBorder[i].Walkable = false;
-                southBorder[i].Walkable = false;
-                westhBorder[i].Walkable = false;
-            }
+            //for (int i = 3 * northBorder.Count / 4; i < northBorder.Count; i++)
+            //{
+            //    northBorder[i].Walkable = false;
+            //    eastBorder[i].Walkable = false;
+            //    southBorder[i].Walkable = false;
+            //    westhBorder[i].Walkable = false;
+            //}
+
+            //northBorder[60].Walkable = false;
+            //eastBorder[60].Walkable = false;
+            //southBorder[60].Walkable = false;
+            //westhBorder[60].Walkable = false;
 
             //ставим стороны в зависимости от вращения
             if (transform.rotation.eulerAngles.y == 0)
@@ -167,7 +172,15 @@ namespace Assets.Scripts.Terrains
             {
                 if (northTerra != null)
                 {
-                    _northBorder[i].AddConnection(northTerra._southBorder[i], 1);
+                    var segmentCount = _northBorder.Count/_fields.Length;
+                    if (i < segmentCount)
+                    {
+                        _northBorder[i].AddConnection(northTerra._southBorder[segmentCount - i - 1], 1);
+                    }
+                    else
+                    {
+                        _northBorder[i].AddConnection(northTerra._southBorder[segmentCount + i - 1], 1);
+                    }
                 }
                 if (eastTerra != null)
                 {
