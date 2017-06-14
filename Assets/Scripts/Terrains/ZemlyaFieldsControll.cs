@@ -45,7 +45,7 @@ namespace Assets.Scripts.Terrains
             {
                 GetBorderNode();
             }
-
+            //Debug.Log(name + " " + transform.rotation.eulerAngles.y);
             //StartCoroutine(ConnectBorder());
         }
 
@@ -95,14 +95,6 @@ namespace Assets.Scripts.Terrains
                 }
             }
 
-            //for (int i = 3 * northBorder.Count / 4; i < northBorder.Count; i++)
-            //{
-            //    northBorder[i].Walkable = false;
-            //    eastBorder[i].Walkable = false;
-            //    southBorder[i].Walkable = false;
-            //    westhBorder[i].Walkable = false;
-            //}
-
             //northBorder[60].Walkable = false;
             //eastBorder[60].Walkable = false;
             //southBorder[60].Walkable = false;
@@ -119,10 +111,10 @@ namespace Assets.Scripts.Terrains
             }
             else if (transform.rotation.eulerAngles.y == 90)
             {
-                _westhBorder = northBorder;
-                _northBorder = eastBorder;
-                _eastBorder = southBorder;
-                _southBorder = westhBorder;
+                _eastBorder = northBorder;
+                _southBorder = eastBorder;
+                _westhBorder = southBorder;
+                _northBorder = westhBorder;
             }
             else if (transform.rotation.eulerAngles.y == 180)
             {
@@ -133,16 +125,24 @@ namespace Assets.Scripts.Terrains
             }
             else if (transform.rotation.eulerAngles.y == 270)
             {
-                _eastBorder = northBorder;
-                _southBorder = eastBorder;
-                _westhBorder = southBorder;
-                _northBorder = westhBorder;
+                _westhBorder = northBorder;
+                _northBorder = eastBorder;
+                _eastBorder = southBorder;
+                _southBorder = westhBorder;
             }
 
             var p2D = new Vector2(transform.position.x, -transform.position.z);
             var mapX = Mathf.RoundToInt(p2D.x / GlobalMapGenerator2.I.TerraWidth);
             var mapY = Mathf.RoundToInt(p2D.y / GlobalMapGenerator2.I.TerraHeight);
             var terras = GlobalMapGenerator2.I.GetTerras(GlobalMapGenerator2.MakeNearCoordsSet(mapX, mapY));
+
+            for (int i = 3 * northBorder.Count / 4; i < northBorder.Count; i++)
+            {
+                //_northBorder[i].Walkable = false;
+                //_eastBorder[i].Walkable = false;
+                //_southBorder[i].Walkable = false;
+                //_westhBorder[i].Walkable = false;
+            }
 
             if (terras[1].GetComponent<ZemlyaFieldsControll>().enabled)
             {
@@ -166,33 +166,41 @@ namespace Assets.Scripts.Terrains
         {
             yield return new WaitForSeconds(0.4f);
             Debug.Log("R    ");
-            
-
-            for (int i = 0; i < _northBorder.Count; i++)
+            var countBorder = _northBorder.Count;
+            //Debug.Log(northTerra._southBorder.Count);
+            if (northTerra != null)
             {
-                if (northTerra != null)
+                ConnectSide(countBorder, _northBorder, northTerra._southBorder);
+            }
+
+            if (eastTerra != null)
+            {
+                ConnectSide(countBorder, _eastBorder, eastTerra._westhBorder);
+            }
+
+            if (southTerra != null)
+            {
+                ConnectSide(countBorder, _southBorder, southTerra._northBorder);
+            }
+
+            if (westTerra != null)
+            {
+                ConnectSide(countBorder, _westhBorder, westTerra._eastBorder);
+            }
+        }
+
+        private void ConnectSide( int countBorder, List<GridNode> thisSide, List<GridNode> connectSide)
+        {
+            for (int i = 0; i < countBorder; i++)
+            {
+                if (i < countBorder/2)
                 {
-                    var segmentCount = _northBorder.Count/_fields.Length;
-                    if (i < segmentCount)
-                    {
-                        _northBorder[i].AddConnection(northTerra._southBorder[segmentCount - i - 1], 1);
-                    }
-                    else
-                    {
-                        _northBorder[i].AddConnection(northTerra._southBorder[segmentCount + i - 1], 1);
-                    }
+                    thisSide[i].AddConnection(connectSide[countBorder / 2 - i - 1], 1);
                 }
-                if (eastTerra != null)
+                else
                 {
-                    _eastBorder[i].AddConnection( eastTerra._westhBorder[i], 1);
-                }
-                if (southTerra != null)
-                {
-                    _southBorder[i].AddConnection(southTerra._northBorder[i], 1);
-                }
-                if (westTerra != null)
-                {
-                    _westhBorder[i].AddConnection(westTerra._eastBorder[i], 1);
+                    thisSide[i].AddConnection(
+                        connectSide[countBorder + countBorder / 2 - i - 1], 1);
                 }
             }
         }
