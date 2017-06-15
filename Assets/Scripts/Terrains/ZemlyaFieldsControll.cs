@@ -46,16 +46,12 @@ namespace Assets.Scripts.Terrains
                 GetBorderNode();
             }
             //Debug.Log(name + " " + transform.rotation.eulerAngles.y);
-            //StartCoroutine(ConnectBorder());
+            StartCoroutine(ConnectBorder());
         }
 
         void Update()
         {
-            if (tempConnect && Input.GetKeyDown(KeyCode.A))
-            {
-                StartCoroutine(ConnectBorder());
-                tempConnect = false;
-            }
+            
         }
 
         private void CheckLevelLinks()
@@ -143,23 +139,28 @@ namespace Assets.Scripts.Terrains
                 //_southBorder[i].Walkable = false;
                 //_westhBorder[i].Walkable = false;
             }
-
+            int countNeger = 0;
             if (terras[1].GetComponent<ZemlyaFieldsControll>().enabled)
             {
+                countNeger++;
                 northTerra = terras[1].GetComponent<ZemlyaFieldsControll>();
             }
             if (terras[2].GetComponent<ZemlyaFieldsControll>().enabled)
             {
+                countNeger++;
                 southTerra = terras[2].GetComponent<ZemlyaFieldsControll>();
             }
             if (terras[3].GetComponent<ZemlyaFieldsControll>().enabled)
             {
+                countNeger++;
                 eastTerra = terras[3].GetComponent<ZemlyaFieldsControll>();
             }
             if (terras[4].GetComponent<ZemlyaFieldsControll>().enabled)
             {
+                countNeger++;
                 westTerra = terras[4].GetComponent<ZemlyaFieldsControll>();
             }
+            Debug.Log(countNeger);
         }
 
         private IEnumerator ConnectBorder()
@@ -187,20 +188,28 @@ namespace Assets.Scripts.Terrains
             {
                 ConnectSide(countBorder, _westhBorder, westTerra._eastBorder);
             }
+
+            AstarPath.active.FloodFill();
         }
 
         private void ConnectSide( int countBorder, List<GridNode> thisSide, List<GridNode> connectSide)
         {
-            for (int i = 0; i < countBorder; i++)
+            if (connectSide != null)
             {
-                if (i < countBorder/2)
+                for (int i = 0; i < countBorder; i++)
                 {
-                    thisSide[i].AddConnection(connectSide[countBorder / 2 - i - 1], 1);
-                }
-                else
-                {
-                    thisSide[i].AddConnection(
-                        connectSide[countBorder + countBorder / 2 - i - 1], 1);
+                    if (i < countBorder/2)
+                    {
+                        thisSide[i].AddConnection(connectSide[countBorder/2 - i - 1], 1);
+                        connectSide[i].AddConnection(thisSide[countBorder / 2 - i - 1], 1);
+                    }
+                    else
+                    {
+                        thisSide[i].AddConnection(
+                            connectSide[countBorder + countBorder/2 - i - 1], 1);
+                        connectSide[i].AddConnection(
+                            thisSide[countBorder + countBorder / 2 - i - 1], 1);
+                    }
                 }
             }
         }
